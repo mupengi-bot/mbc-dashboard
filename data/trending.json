@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-02-12T16:36:28.185024+09:00",
+  "collected_at": "2026-02-12T19:30:10.358082+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "bcJwnLGgi0I",
       "title": "Water pipe bursts during sewer expansion project #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/bcJwnLGgi0I",
-      "view_count": 10000,
-      "view_delta": 1200,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "GgzbI5WrJt8",
-      "title": "쇼미더곶감, 영동할매 크루",
-      "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
-      "view_count": 227,
-      "view_delta": 4,
+      "view_count": 11000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -36,23 +25,14 @@
     },
     {
       "type": "youtube",
-      "id": "RF4P9QGLogY",
-      "title": "\"Damage spreads due to proximity\"… Neighboring areas also protest #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/RF4P9QGLogY",
-      "view_count": 41000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "zcTTjQb7YOo",
       "title": "10km downtown race... Reckless driving and chase #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/zcTTjQb7YOo",
       "view_count": 29000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +80,26 @@
       "title": "Even though my Korean is poor, there's no evacuation instructions #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/s2t7HI_yb8I",
       "view_count": 16000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "DR2UKxVDRLg",
+      "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
+      "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
+      "view_count": 9500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "vKhv2rYe5Mg",
+      "title": "수능금지곡 트로트, 신고할거야-미니마니 #mbc충북 #즐거운오후 #트로트 #미니마니 #유수현 #한송이",
+      "url": "https://www.youtube.com/shorts/vKhv2rYe5Mg",
+      "view_count": 6400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
