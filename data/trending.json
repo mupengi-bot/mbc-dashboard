@@ -1,12 +1,34 @@
 {
-  "collected_at": "2026-02-12T19:30:10.358082+09:00",
+  "collected_at": "2026-02-12T23:40:57.766787+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "89go6p1Gia8",
+      "title": "The damage is enormous, but the settlement amount is small... Residents are angry #Shorts (MBC Ch...",
+      "url": "https://www.youtube.com/shorts/89go6p1Gia8",
+      "view_count": 5000,
+      "view_delta": 2300,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "s2t7HI_yb8I",
+      "title": "Even though my Korean is poor, there's no evacuation instructions #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/s2t7HI_yb8I",
+      "view_count": 17000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "bcJwnLGgi0I",
       "title": "Water pipe bursts during sewer expansion project #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/bcJwnLGgi0I",
-      "view_count": 11000,
+      "view_count": 12000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -20,8 +42,7 @@
       "view_count": 164000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -31,8 +52,7 @@
       "view_count": 29000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -76,30 +96,10 @@
     },
     {
       "type": "youtube",
-      "id": "s2t7HI_yb8I",
-      "title": "Even though my Korean is poor, there's no evacuation instructions #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/s2t7HI_yb8I",
-      "view_count": 16000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "DR2UKxVDRLg",
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9500,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "vKhv2rYe5Mg",
-      "title": "수능금지곡 트로트, 신고할거야-미니마니 #mbc충북 #즐거운오후 #트로트 #미니마니 #유수현 #한송이",
-      "url": "https://www.youtube.com/shorts/vKhv2rYe5Mg",
-      "view_count": 6400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
