@@ -1,14 +1,25 @@
 {
-  "collected_at": "2026-02-12T10:55:28.251906+09:00",
+  "collected_at": "2026-02-12T16:36:28.185024+09:00",
   "items": [
     {
       "type": "youtube",
-      "id": "s2t7HI_yb8I",
-      "title": "Even though my Korean is poor, there's no evacuation instructions #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/s2t7HI_yb8I",
-      "view_count": 16000,
-      "view_delta": 1000,
-      "comment_count": 6,
+      "id": "bcJwnLGgi0I",
+      "title": "Water pipe bursts during sewer expansion project #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/bcJwnLGgi0I",
+      "view_count": 10000,
+      "view_delta": 1200,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "GgzbI5WrJt8",
+      "title": "쇼미더곶감, 영동할매 크루",
+      "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
+      "view_count": 227,
+      "view_delta": 4,
+      "comment_count": 0,
       "channel": "",
       "hot": true
     },
@@ -19,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/4FInxvpby4o",
       "view_count": 164000,
       "view_delta": 0,
-      "comment_count": 20,
+      "comment_count": 0,
       "channel": "",
       "hot": true
     },
@@ -30,9 +41,8 @@
       "url": "https://www.youtube.com/shorts/RF4P9QGLogY",
       "view_count": 41000,
       "view_delta": 0,
-      "comment_count": 15,
-      "channel": "",
-      "hot": true
+      "comment_count": 0,
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -41,7 +51,7 @@
       "url": "https://www.youtube.com/shorts/zcTTjQb7YOo",
       "view_count": 29000,
       "view_delta": 0,
-      "comment_count": 20,
+      "comment_count": 0,
       "channel": ""
     },
     {
@@ -51,7 +61,7 @@
       "url": "https://www.youtube.com/shorts/BfM6BESl-pc",
       "view_count": 27000,
       "view_delta": 0,
-      "comment_count": 15,
+      "comment_count": 0,
       "channel": ""
     },
     {
@@ -61,7 +71,7 @@
       "url": "https://www.youtube.com/shorts/8thC5eB7KJ8",
       "view_count": 26000,
       "view_delta": 0,
-      "comment_count": 20,
+      "comment_count": 0,
       "channel": ""
     },
     {
@@ -71,7 +81,7 @@
       "url": "https://www.youtube.com/shorts/IVI_xH0P73o",
       "view_count": 23000,
       "view_delta": 0,
-      "comment_count": 12,
+      "comment_count": 0,
       "channel": ""
     },
     {
@@ -81,27 +91,17 @@
       "url": "https://www.youtube.com/shorts/TYMqHRNPU5o",
       "view_count": 19000,
       "view_delta": 0,
-      "comment_count": 7,
+      "comment_count": 0,
       "channel": ""
     },
     {
       "type": "youtube",
-      "id": "DR2UKxVDRLg",
-      "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
-      "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
-      "view_count": 9500,
+      "id": "s2t7HI_yb8I",
+      "title": "Even though my Korean is poor, there's no evacuation instructions #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/s2t7HI_yb8I",
+      "view_count": 16000,
       "view_delta": 0,
-      "comment_count": 6,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "bcJwnLGgi0I",
-      "title": "Water pipe bursts during sewer expansion project #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/bcJwnLGgi0I",
-      "view_count": 8800,
-      "view_delta": 0,
-      "comment_count": 6,
+      "comment_count": 0,
       "channel": ""
     }
   ]
