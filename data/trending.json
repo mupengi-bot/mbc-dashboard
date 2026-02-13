@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-02-13T14:14:07.263425+09:00",
+  "collected_at": "2026-02-13T19:07:50.604890+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "89go6p1Gia8",
       "title": "The damage is enormous, but the settlement amount is small... Residents are angry #Shorts (MBC Ch...",
       "url": "https://www.youtube.com/shorts/89go6p1Gia8",
-      "view_count": 9600,
+      "view_count": 12000,
       "view_delta": 2400,
       "comment_count": 0,
       "channel": "",
@@ -17,18 +17,7 @@
       "id": "bcJwnLGgi0I",
       "title": "Water pipe bursts during sewer expansion project #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/bcJwnLGgi0I",
-      "view_count": 15000,
-      "view_delta": 2000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "s2t7HI_yb8I",
-      "title": "Even though my Korean is poor, there's no evacuation instructions #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/s2t7HI_yb8I",
-      "view_count": 18000,
+      "view_count": 16000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -36,23 +25,14 @@
     },
     {
       "type": "youtube",
-      "id": "nZFB9pMBQAs",
-      "title": "시간이 지나도 더 깊어지는 보컬, 소냐의 라이브 뮤지컬 그 자체 #mbc충북 #정오의희망곡 #소냐",
-      "url": "https://www.youtube.com/shorts/nZFB9pMBQAs",
-      "view_count": 1200,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "GgzbI5WrJt8",
       "title": "쇼미더곶감, 영동할매 크루",
       "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
-      "view_count": 228,
+      "view_count": 229,
       "view_delta": 1,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +80,26 @@
       "title": "\"Complaining of stomach pain after eating a late-night snack\"... Some people go to the hospital #...",
       "url": "https://www.youtube.com/shorts/IVI_xH0P73o",
       "view_count": 23000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "TYMqHRNPU5o",
+      "title": "Joint Incense Burning by Group Leaders, Regional Committee Chairmen, and Candidates #Shorts (MBC ...",
+      "url": "https://www.youtube.com/shorts/TYMqHRNPU5o",
+      "view_count": 19000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "s2t7HI_yb8I",
+      "title": "Even though my Korean is poor, there's no evacuation instructions #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/s2t7HI_yb8I",
+      "view_count": 18000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
