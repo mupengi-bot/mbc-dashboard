@@ -1,28 +1,6 @@
 {
-  "collected_at": "2026-02-13T23:28:45.837998+09:00",
+  "collected_at": "2026-02-14T03:00:52.292078+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "bcJwnLGgi0I",
-      "title": "Water pipe bursts during sewer expansion project #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/bcJwnLGgi0I",
-      "view_count": 17000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "89go6p1Gia8",
-      "title": "The damage is enormous, but the settlement amount is small... Residents are angry #Shorts (MBC Ch...",
-      "url": "https://www.youtube.com/shorts/89go6p1Gia8",
-      "view_count": 13000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "4FInxvpby4o",
@@ -42,7 +20,8 @@
       "view_count": 29000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 27000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -90,6 +70,26 @@
       "title": "Even though my Korean is poor, there's no evacuation instructions #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/s2t7HI_yb8I",
       "view_count": 18000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "bcJwnLGgi0I",
+      "title": "Water pipe bursts during sewer expansion project #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/bcJwnLGgi0I",
+      "view_count": 17000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "89go6p1Gia8",
+      "title": "The damage is enormous, but the settlement amount is small... Residents are angry #Shorts (MBC Ch...",
+      "url": "https://www.youtube.com/shorts/89go6p1Gia8",
+      "view_count": 13000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
