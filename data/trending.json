@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-02-15T02:00:35.672286+09:00",
+  "collected_at": "2026-02-15T05:54:18.463567+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "89go6p1Gia8",
+      "title": "The damage is enormous, but the settlement amount is small... Residents are angry #Shorts (MBC Ch...",
+      "url": "https://www.youtube.com/shorts/89go6p1Gia8",
+      "view_count": 20000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "4FInxvpby4o",
@@ -31,8 +42,7 @@
       "view_count": 27000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -60,16 +70,6 @@
       "title": "Water pipe bursts during sewer expansion project #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/bcJwnLGgi0I",
       "view_count": 21000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "89go6p1Gia8",
-      "title": "The damage is enormous, but the settlement amount is small... Residents are angry #Shorts (MBC Ch...",
-      "url": "https://www.youtube.com/shorts/89go6p1Gia8",
-      "view_count": 19000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
