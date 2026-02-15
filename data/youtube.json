@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-15T05:54:08.061819+09:00",
+  "collected_at": "2026-02-15T14:12:54.511102+09:00",
   "videos": [
     {
       "id": "89go6p1Gia8",
@@ -7,7 +7,7 @@
       "url": "https://www.youtube.com/shorts/89go6p1Gia8",
       "channel": "",
       "channel_id": "UCFLTNsOlzlbAD18DrSREuMQ",
-      "view_count": 20000,
+      "view_count": 22000,
       "duration": 0,
       "upload_date": "",
       "comments": [],
@@ -130,8 +130,23 @@
       "view_count": 1200,
       "duration": 0,
       "upload_date": "",
-      "comments": [],
-      "comment_count": 0
+      "comments": [
+        {
+          "author": "@통-sky",
+          "text": "자주 보고싶네🎉🎉🎉",
+          "timestamp": 1770854400,
+          "like_count": 4,
+          "time_text": "3 days ago"
+        },
+        {
+          "author": "@바비인형-j4w",
+          "text": "💞✨️✨️✨️🎵🎵🎵🎶🎶👍👍👍👍👏👏👏👏👏브라보 브라보🙏🙏🙏",
+          "timestamp": 1770854400,
+          "like_count": 4,
+          "time_text": "3 days ago"
+        }
+      ],
+      "comment_count": 2
     },
     {
       "id": "sv0nOsMojfE",
