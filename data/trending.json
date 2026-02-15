@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-02-15T14:13:03.874187+09:00",
+  "collected_at": "2026-02-15T18:03:30.658665+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "89go6p1Gia8",
-      "title": "The damage is enormous, but the settlement amount is small... Residents are angry #Shorts (MBC Ch...",
-      "url": "https://www.youtube.com/shorts/89go6p1Gia8",
-      "view_count": 22000,
-      "view_delta": 2000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "4FInxvpby4o",
@@ -42,7 +31,8 @@
       "view_count": 27000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -60,6 +50,16 @@
       "title": "\"Complaining of stomach pain after eating a late-night snack\"... Some people go to the hospital #...",
       "url": "https://www.youtube.com/shorts/IVI_xH0P73o",
       "view_count": 23000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "89go6p1Gia8",
+      "title": "The damage is enormous, but the settlement amount is small... Residents are angry #Shorts (MBC Ch...",
+      "url": "https://www.youtube.com/shorts/89go6p1Gia8",
+      "view_count": 22000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
