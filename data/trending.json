@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-02-19T19:27:58.974150+09:00",
+  "collected_at": "2026-02-19T23:39:20.799051+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "GgzbI5WrJt8",
-      "title": "쇼미더곶감, 영동할매 크루",
-      "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
-      "view_count": 237,
-      "view_delta": 1,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "4FInxvpby4o",
       "title": "The governor heads to Jincheon, the county head to Cheongju... A battle of wits begins #Shorts (M...",
       "url": "https://www.youtube.com/shorts/4FInxvpby4o",
-      "view_count": 164000,
-      "view_delta": 0,
+      "view_count": 165000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 27000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "Joint Incense Burning by Group Leaders, Regional Committee Chairmen, and Candidates #Shorts (MBC ...",
       "url": "https://www.youtube.com/shorts/TYMqHRNPU5o",
       "view_count": 19000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "DR2UKxVDRLg",
+      "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
+      "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
+      "view_count": 9500,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
