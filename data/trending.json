@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-02-26T04:34:34.504287+09:00",
+  "collected_at": "2026-02-26T06:50:04.597948+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "bcJwnLGgi0I",
-      "title": "Water pipe bursts during sewer expansion project #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/bcJwnLGgi0I",
-      "view_count": 22000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "vIhK12o3oDE",
       "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
-      "view_count": 4500,
-      "view_delta": 200,
+      "view_count": 4600,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 29000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -69,6 +59,16 @@
       "id": "89go6p1Gia8",
       "title": "The damage is enormous, but the settlement amount is small... Residents are angry #Shorts (MBC Ch...",
       "url": "https://www.youtube.com/shorts/89go6p1Gia8",
+      "view_count": 22000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "bcJwnLGgi0I",
+      "title": "Water pipe bursts during sewer expansion project #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/bcJwnLGgi0I",
       "view_count": 22000,
       "view_delta": 0,
       "comment_count": 0,
