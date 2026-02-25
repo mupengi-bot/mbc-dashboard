@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-02-25T14:16:32.237849+09:00",
+  "collected_at": "2026-02-25T19:36:58.158425+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "IVI_xH0P73o",
+      "title": "\"Complaining of stomach pain after eating a late-night snack\"... Some people go to the hospital #...",
+      "url": "https://www.youtube.com/shorts/IVI_xH0P73o",
+      "view_count": 24000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "vIhK12o3oDE",
       "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
-      "view_count": 3700,
-      "view_delta": 800,
+      "view_count": 4100,
+      "view_delta": 400,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 29000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -40,16 +50,6 @@
       "title": "An otter family's winter playground created by the cold #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/BfM6BESl-pc",
       "view_count": 27000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "IVI_xH0P73o",
-      "title": "\"Complaining of stomach pain after eating a late-night snack\"... Some people go to the hospital #...",
-      "url": "https://www.youtube.com/shorts/IVI_xH0P73o",
-      "view_count": 23000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
