@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-02-28T17:55:41.486756+09:00",
+  "collected_at": "2026-02-28T22:48:43.981668+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "_kvHK1huc24",
       "title": "I took the money and sold it right away... My mother transferred the title #Shorts (MBC Chungbuk ...",
       "url": "https://www.youtube.com/shorts/_kvHK1huc24",
-      "view_count": 117000,
-      "view_delta": 3000,
+      "view_count": 121000,
+      "view_delta": 4000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "vIhK12o3oDE",
+      "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
+      "view_count": 6600,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,7 +28,7 @@
       "id": "5mdfBztVoRI",
       "title": "Governor Kim Young-hwan: \"Re-promoting integration is possible... Chungbuk Special Self-Governing...",
       "url": "https://www.youtube.com/shorts/5mdfBztVoRI",
-      "view_count": 2700,
+      "view_count": 2800,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -31,8 +42,7 @@
       "view_count": 165000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9500,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "vIhK12o3oDE",
-      "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
-      "view_count": 6500,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""

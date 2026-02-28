@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-28T17:55:30.656089+09:00",
+  "collected_at": "2026-02-28T22:48:33.636456+09:00",
   "videos": [
     {
       "id": "5mdfBztVoRI",
@@ -7,7 +7,7 @@
       "url": "https://www.youtube.com/shorts/5mdfBztVoRI",
       "channel": "",
       "channel_id": "UCFLTNsOlzlbAD18DrSREuMQ",
-      "view_count": 2700,
+      "view_count": 2800,
       "duration": 0,
       "upload_date": "",
       "comments": [],
@@ -19,7 +19,7 @@
       "url": "https://www.youtube.com/shorts/_kvHK1huc24",
       "channel": "",
       "channel_id": "UCFLTNsOlzlbAD18DrSREuMQ",
-      "view_count": 117000,
+      "view_count": 121000,
       "duration": 0,
       "upload_date": "",
       "comments": [],
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
       "channel": "",
       "channel_id": "UCFLTNsOlzlbAD18DrSREuMQ",
-      "view_count": 6500,
+      "view_count": 6600,
       "duration": 0,
       "upload_date": "",
       "comments": [],
@@ -166,8 +166,16 @@
       "view_count": 1100,
       "duration": 0,
       "upload_date": "",
-      "comments": [],
-      "comment_count": 0
+      "comments": [
+        {
+          "author": "@고창김현민",
+          "text": "꿀보이스맞네요.가사가 뜻이깊네~~^^",
+          "timestamp": 1769644800,
+          "like_count": 0,
+          "time_text": "1 month ago"
+        }
+      ],
+      "comment_count": 1
     },
     {
       "id": "DR2UKxVDRLg",
