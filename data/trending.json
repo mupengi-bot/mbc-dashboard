@@ -1,34 +1,23 @@
 {
-  "collected_at": "2026-02-28T22:48:43.981668+09:00",
+  "collected_at": "2026-03-01T01:51:31.675525+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "_kvHK1huc24",
       "title": "I took the money and sold it right away... My mother transferred the title #Shorts (MBC Chungbuk ...",
       "url": "https://www.youtube.com/shorts/_kvHK1huc24",
-      "view_count": 121000,
-      "view_delta": 4000,
+      "view_count": 123000,
+      "view_delta": 2000,
       "comment_count": 0,
       "channel": "",
       "hot": true
     },
     {
       "type": "youtube",
-      "id": "vIhK12o3oDE",
-      "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
-      "view_count": 6600,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "5mdfBztVoRI",
-      "title": "Governor Kim Young-hwan: \"Re-promoting integration is possible... Chungbuk Special Self-Governing...",
-      "url": "https://www.youtube.com/shorts/5mdfBztVoRI",
-      "view_count": 2800,
+      "id": "3Es_TCrtj08",
+      "title": "이상하게 이거 들으면 위로됨  #mbc충북 #즐거운오후 #정오의희망곡 #삼산 #싱어송라이터 #인디음악",
+      "url": "https://www.youtube.com/shorts/3Es_TCrtj08",
+      "view_count": 1200,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -42,7 +31,8 @@
       "view_count": 165000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "vIhK12o3oDE",
+      "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
+      "view_count": 6600,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
