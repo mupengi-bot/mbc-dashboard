@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-03-04T13:57:15.315021+09:00",
+  "collected_at": "2026-03-04T19:00:55.312573+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "5mdfBztVoRI",
-      "title": "Governor Kim Young-hwan: \"Re-promoting integration is possible... Chungbuk Special Self-Governing...",
-      "url": "https://www.youtube.com/shorts/5mdfBztVoRI",
-      "view_count": 3600,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "4FInxvpby4o",
@@ -36,23 +25,14 @@
     },
     {
       "type": "youtube",
-      "id": "zcTTjQb7YOo",
-      "title": "10km downtown race... Reckless driving and chase #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/zcTTjQb7YOo",
-      "view_count": 29000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "IVI_xH0P73o",
       "title": "\"Complaining of stomach pain after eating a late-night snack\"... Some people go to the hospital #...",
       "url": "https://www.youtube.com/shorts/IVI_xH0P73o",
       "view_count": 24000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +80,26 @@
       "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
       "view_count": 6700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "vKhv2rYe5Mg",
+      "title": "수능금지곡 트로트, 신고할거야-미니마니 #mbc충북 #즐거운오후 #트로트 #미니마니 #유수현 #한송이",
+      "url": "https://www.youtube.com/shorts/vKhv2rYe5Mg",
+      "view_count": 6400,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "V_DyWzBqR3Y",
+      "title": "의외로 잘하는 송민수 아나운서와 뚝딱거리는 최다원 아나운서   #mbc충북 #정오의희망곡 #최다원 #송민수 #아나운서 #운동 #헬스 #혈당",
+      "url": "https://www.youtube.com/shorts/V_DyWzBqR3Y",
+      "view_count": 4700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
