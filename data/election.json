@@ -1,0 +1,933 @@
+{
+  "updated_at": "2026-03-04",
+  "election": "제9회 전국동시지방선거",
+  "region": "충청북도",
+  "total": 86,
+  "stats": {
+    "by_district": {
+      "충청북도": 12,
+      "청주시": 10,
+      "충주시": 10,
+      "제천시": 9,
+      "증평군": 8,
+      "진천군": 8,
+      "옥천군": 6,
+      "괴산군": 6,
+      "영동군": 5,
+      "보은군": 4,
+      "음성군": 4,
+      "단양군": 4
+    },
+    "by_party": {
+      "국민의힘": 41,
+      "더불어민주당": 39,
+      "무소속": 4,
+      "무소속/권한대행": 1,
+      "조국혁신당": 1
+    },
+    "by_status": {
+      "출마 예상자": 47,
+      "등록(예비)": 27,
+      "현직": 12
+    }
+  },
+  "candidates": [
+    {
+      "election": "도지사 선거",
+      "district": "충청북도",
+      "name": "김영환",
+      "party": "국민의힘",
+      "status": "현직",
+      "youtube": "https://www.youtube.com/channel/UC242xa78h95GOvuM8UhRS1w",
+      "facebook": "https://www.facebook.com/kimyh21",
+      "note": null
+    },
+    {
+      "election": "도지사 선거",
+      "district": "충청북도",
+      "name": "신용한",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCAtXcXsDc2iLFJQSXGeXIrg",
+      "facebook": "https://www.facebook.com/yonghan.shin.7",
+      "note": null
+    },
+    {
+      "election": "도지사 선거",
+      "district": "충청북도",
+      "name": "한범덕",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/hanbeomduck",
+      "note": null
+    },
+    {
+      "election": "도지사 선거",
+      "district": "충청북도",
+      "name": "송기섭",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCLkPB-aUAXFwmaUKf8V_n2g",
+      "facebook": "https://www.facebook.com/songkisup",
+      "note": "진천군 군수(현직)"
+    },
+    {
+      "election": "도지사 선거",
+      "district": "충청북도",
+      "name": "노영민",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCNehu97wdAfX5a40Ouvh1wg",
+      "facebook": "https://www.facebook.com/youngmin21c",
+      "note": null
+    },
+    {
+      "election": "도지사 선거",
+      "district": "충청북도",
+      "name": "윤희근",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "도지사 선거",
+      "district": "충청북도",
+      "name": "조길형",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/kilhyoung.cho",
+      "note": null
+    },
+    {
+      "election": "도지사 선거",
+      "district": "충청북도",
+      "name": "윤갑근",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/channel/UCmLMwWYNiyHpdfsi4OBzkJA",
+      "facebook": "https://www.facebook.com/kapkeun.official",
+      "note": "페북 연결 안됨"
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충청북도",
+      "name": "윤건영",
+      "party": "무소속",
+      "status": "현직",
+      "youtube": "https://www.youtube.com/channel/UCLPppszEsRvqOXFlS9Dg1hg",
+      "facebook": "https://www.facebook.com/geonyoung.yoon.7",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충청북도",
+      "name": "김성근",
+      "party": "무소속",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/@%EA%B9%80%EC%84%B1%EA%B7%BCtv",
+      "facebook": "https://www.facebook.com/sunggeun.kim.395/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충청북도",
+      "name": "김진균",
+      "party": "무소속",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCEqGRkF-zCLZh9jBcK9xB2A",
+      "facebook": "https://www.facebook.com/people/%EA%B9%80%EC%A7%84%EA%B7%A0/100060628758757/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충청북도",
+      "name": "조동욱",
+      "party": "무소속",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "청주시",
+      "name": "이범석",
+      "party": "국민의힘",
+      "status": "현직",
+      "youtube": "https://www.youtube.com/channel/UCEJSy-0stAgj3ZgWwY6bwfQ",
+      "facebook": "https://www.facebook.com/leebumseok.처",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "청주시",
+      "name": "김근태",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "청주시",
+      "name": "이장섭",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCS81QOo3pfXZau93AHYNzXQ",
+      "facebook": "https://www.facebook.com/sir21c/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "청주시",
+      "name": "허창원",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCbJICnvJ73P4jjnPG2rYAhw",
+      "facebook": "https://www.facebook.com/heocw12/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "청주시",
+      "name": "박완희",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/@%EB%B0%95%EC%99%84%ED%9D%Acoanhee",
+      "facebook": "https://www.facebook.com/bag.wanhui.303952",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "청주시",
+      "name": "서민석",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UC6zERB_XRdnLimsHBdeGJKg",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "청주시",
+      "name": "서승우",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCwyO5C9gCFjf1YnWPutTlTw",
+      "facebook": "https://www.facebook.com/seoseung.u.904831/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "청주시",
+      "name": "손인석",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/kjjcsis",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "청주시",
+      "name": "김학관",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "www.youtube.com/@김학관-f5u",
+      "facebook": "https://www.facebook.com/hakkwan.kim.5/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "청주시",
+      "name": "유행열",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/channel/UC1LWXyFek_oL1XCA1aUyYIQ",
+      "facebook": "https://www.facebook.com/heangyull",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충주시",
+      "name": "김진석",
+      "party": "무소속/권한대행",
+      "status": "현직",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충주시",
+      "name": "노승일",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UC4wWUbvPpe4v0gLRc0uCi1g",
+      "facebook": "https://www.facebook.com/seungil.roh.3",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충주시",
+      "name": "곽명환",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/@hwani401",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충주시",
+      "name": "이태성",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충주시",
+      "name": "김상규",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/gimsang.gyu.345091",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충주시",
+      "name": "이동석",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCk4KLNPjVvYeK7g2X5fnujw",
+      "facebook": "https://www.facebook.com/topkorean",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충주시",
+      "name": "정용근",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCnq8GCgUD0FOsVi4RT6Yo0w",
+      "facebook": "https://www.facebook.com/people/%EC%A0%95%EC%9A%A9%EA%B7%BC/61553561054616/#",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충주시",
+      "name": "권혁중",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCdyXo_EZvIhGDvMvnFUqGaw",
+      "facebook": "https://www.facebook.com/gwonhyeogjung.903425/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충주시",
+      "name": "맹정섭",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@22cgw",
+      "facebook": "https://www.facebook.com/maengjungsub",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "충주시",
+      "name": "우건도",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "제천시",
+      "name": "김창규",
+      "party": "국민의힘",
+      "status": "현직",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/people/%EA%B9%80%EC%B0%BD%EA%B7%9C/100062404628220/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "제천시",
+      "name": "이상천",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/@with_sc",
+      "facebook": "https://www.facebook.com/lsc016",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "제천시",
+      "name": "전원표",
+      "party": "더불어민주당",
+      "status": "등록(예비)",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/wonpyo.jeon.90?_rdr",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "제천시",
+      "name": "이찬구",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/channel/UCPMVKvCe5AmCtjzKMe8IRtw/editing/images",
+      "facebook": "https://www.facebook.com/assembly2009",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "제천시",
+      "name": "이충형",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/@leechTV007/shorts",
+      "facebook": "https://www.facebook.com/people/%EC%9D%B4%EC%B6%A9%ED%98%95/100001983964298/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "제천시",
+      "name": "이재우",
+      "party": "국민의힘",
+      "status": "등록(예비)",
+      "youtube": "https://www.youtube.com/@%EA%B2%BD%EC%A0%9C%EC%9D%98%EC%9E%AC%EC%9A%B0%EC%93%B0",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "제천시",
+      "name": "김꽃임",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "제천시",
+      "name": "박영기",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "제천시",
+      "name": "김달성",
+      "party": "조국혁신당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "보은군",
+      "name": "최재형",
+      "party": "국민의힘",
+      "status": "현직",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "보은군",
+      "name": "하유정",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "보은군",
+      "name": "이태영",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@%EC%9D%B4%ED%83%9C%EC%98%81%EB%B3%B4%EC%9D%80TV/shorts",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "보은군",
+      "name": "박연수",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "옥천군",
+      "name": "황규철",
+      "party": "더불어민주당",
+      "status": "현직",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/people/%ED%99%A9%EA%B7%9C%EC%B2%A0/pfbid02VmUCXzmwJaE6rhbi3Rqm3jY8qop4b4o8tzoH7edjxM47JN22VW3Q2aTjPfnkXrTEl/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "옥천군",
+      "name": "김재종",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@%ED%96%A5%EC%88%98%EC%98%A5%EC%B2%9C%EA%B9%80%EC%9E%AC%EC%A2%85-x3r",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "옥천군",
+      "name": "김승룡",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/people/%EA%B9%80%EC%8A%B9%EB%A3%A1/100020389143566/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "옥천군",
+      "name": "유재목",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "옥천군",
+      "name": "전상인",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@sangin4297",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "옥천군",
+      "name": "추복성",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "영동군",
+      "name": "정영철",
+      "party": "국민의힘",
+      "status": "현직",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "영동군",
+      "name": "이수동",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "영동군",
+      "name": "정일택",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/jeong.iltaeg.2025",
+      "note": "페북 연결 안됨"
+    },
+    {
+      "election": "교육감 선거",
+      "district": "영동군",
+      "name": "김국기",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "영동군",
+      "name": "윤석진",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/watch?v=dEutTPqEF2E",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "괴산군",
+      "name": "송인헌",
+      "party": "국민의힘",
+      "status": "현직",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "괴산군",
+      "name": "이차영",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@goesanbabo_lcy",
+      "facebook": "https://www.facebook.com/chayoung.lee.102",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "괴산군",
+      "name": "나용찬",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@gsm5926-s9j",
+      "facebook": "https://www.facebook.com/nayongchan.2025/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "괴산군",
+      "name": "이준경",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "괴산군",
+      "name": "박해운",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "괴산군",
+      "name": "이대섭",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "증평군",
+      "name": "이재영",
+      "party": "더불어민주당",
+      "status": "현직",
+      "youtube": "https://www.youtube.com/channel/UCclFl6RKygsy9C4GGlKFQag",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "증평군",
+      "name": "연종석",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "증평군",
+      "name": "김문종",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/channel/UCaZuzzWrM0g9RHjQSNBT07Q",
+      "facebook": "https://www.facebook.com/moonjong.kim.37",
+      "note": "페북 연결 안됨"
+    },
+    {
+      "election": "교육감 선거",
+      "district": "증평군",
+      "name": "김장회",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/channel/UC0p7HrirGblpZ_Sqsbwbzuw",
+      "facebook": "https://www.facebook.com/kimjanghoi",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "증평군",
+      "name": "박인석",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "증평군",
+      "name": "이민표",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/channel/UCNA0wZSJfY5piM6bgUEqHmw",
+      "facebook": "https://www.facebook.com/iminpyo",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "증평군",
+      "name": "이현재",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "증평군",
+      "name": "최재옥",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "진천군",
+      "name": "김명식",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@%EC%A7%84%EC%B2%9C%EA%B5%B0%EA%B9%80%EB%AA%85%EC%8B%9D",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "진천군",
+      "name": "박양규",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "진천군",
+      "name": "임보열",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/boyeolim",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "진천군",
+      "name": "임영은",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "진천군",
+      "name": "김동구",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "진천군",
+      "name": "이양섭",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "진천군",
+      "name": "이재명",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@%EC%A7%84%EC%B2%9C%EA%B5%B0%EC%9D%98%EC%9B%90%EC%9D%B4%EC%9E%AC%EB%AA%85",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "진천군",
+      "name": "장동현",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "음성군",
+      "name": "조병옥",
+      "party": "더불어민주당",
+      "status": "현직",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/jbo6422",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "음성군",
+      "name": "이상정",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/channel/UCDDZZJgv5Ppk7m1y14Zzucw",
+      "facebook": "https://www.facebook.com/nongbu64",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "음성군",
+      "name": "임택수",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98%EC%9E%84%ED%83%9D%EC%88%98",
+      "facebook": "https://www.facebook.com/imtaegsu.481293/",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "음성군",
+      "name": "박노학",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@%EC%9D%8C%EC%84%B1%EC%82%AC%EB%9E%91%EB%B0%95%EB%85%B8%ED%95%99",
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "단양군",
+      "name": "김문근",
+      "party": "국민의힘",
+      "status": "현직",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "단양군",
+      "name": "오영탁",
+      "party": "국민의힘",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": null,
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "단양군",
+      "name": "김광직",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": null,
+      "facebook": "https://www.facebook.com/kkim1332",
+      "note": null
+    },
+    {
+      "election": "교육감 선거",
+      "district": "단양군",
+      "name": "김동진",
+      "party": "더불어민주당",
+      "status": "출마 예상자",
+      "youtube": "https://www.youtube.com/@%EA%B9%80%EB%8F%99%EC%A7%84%EB%8B%A8%EC%96%91%EA%B5%B0%EC%88%98%ED%9B%84%EB%B3%B4",
+      "facebook": null,
+      "note": null
+    }
+  ],
+  "sources": [
+    "<예비 후보 등록>",
+    "https://info.nec.go.kr/main/showDocument.xhtml?electionId=0020260603&topMenuId=PC&secondMenuId=PCRI03",
+    "<출마 예상자>",
+    "도지사 선거",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2258864",
+    "교육감 선거",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8451763&ref=A",
+    "충주시장",
+    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260223021&PRO_CODE=4",
+    "청주시장",
+    "https://www.yna.co.kr/view/AKR20260220099700064?input=1195m",
+    "제천시장",
+    "https://www.newsis.com/view/NISX20260219_0003519058",
+    "보은군수",
+    "https://www.newsis.com/view/NISX20260219_0003519258",
+    "옥천군수",
+    "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026020900077&story_seq=0&soCode=114&socttSn=NS2026020900077&socttSeq=0",
+    "영동군수",
+    "https://www.news1.kr/local/sejong-chungbuk/6020633",
+    "괴산군수",
+    "https://www.news1.kr/local/sejong-chungbuk/6073406",
+    "증평군수",
+    "https://www.newsis.com/view/NISX20260220_0003519762",
+    "진천군수",
+    "https://www.jbnews.com/news/articleView.html?idxno=1498180",
+    "음성군수",
+    "https://www.news1.kr/local/sejong-chungbuk/6073578",
+    "단양군수",
+    "https://www.newsis.com/view/NISX20260220_0003519839"
+  ],
+  "notes": [
+    "*예비후보등록 마감일(정식후보자등록 신청시작 전일): 5.13(수)",
+    "1. 군 지역(郡) 부재: 보은, 옥천, 영동, 증평, 진천, 괴산, 음성, 단양군수 예비후보는 3월 22일부터 선관위 명단에 나타납니다. 지금은 '출마 예정자' 신분으로 활동 중입니다.",
+    "2. 무소속 및 소수정당: 현재까지는 거대 양당 위주로 등록이 이루어지고 있으며, 무소속 후보는 등록 즉시 선관위 시스템에 반영됩니다.",
+    "3. 실시간 변동: 예비후보는 매일 오후 6시 전후로 데이터가 최종 업데이트되므로, 인원이 더 늘어날 수 있습니다."
+  ]
+}

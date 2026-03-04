@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MBC충북 지방선거 대시보드 — 충북 후보자 현황</title>
+<style>
+:root {
+  --mbc-blue: #003087;
+  --mbc-light: #1a4fa0;
+  --bg: #0f1117;
+  --card: #1a1d27;
+  --card-hover: #22263a;
+  --text: #e4e4e7;
+  --text-dim: #9ca3af;
+  --border: #2a2d3a;
+  --hot: #ef4444;
+  --ppp: #e61e2b;
+  --dpk: #004ea2;
+  --jh: #ff6600;
+  --ind: #888;
+  --incumbent: #22c55e;
+  --registered: #3b82f6;
+  --expected: #a78bfa;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; line-height:1.6; }
+a { color:inherit; text-decoration:none; }
+a:hover { opacity:.85; }
+
+.header {
+  background:linear-gradient(135deg, var(--mbc-blue) 0%, #1a237e 100%);
+  padding:1.5rem 2rem;
+  display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:.5rem;
+}
+.header h1 { font-size:1.3rem; font-weight:700; }
+.header .meta { font-size:.8rem; opacity:.8; }
+.nav { display:flex; gap:.5rem; }
+.nav a {
+  background:rgba(255,255,255,.15); padding:.3rem .8rem; border-radius:8px;
+  font-size:.8rem; font-weight:600; transition:background .2s;
+}
+.nav a:hover, .nav a.active { background:rgba(255,255,255,.3); }
+
+.container { max-width:1400px; margin:0 auto; padding:1rem; }
+
+/* Stats bar */
+.stats-bar {
+  display:grid; grid-template-columns:repeat(auto-fit, minmax(140px, 1fr));
+  gap:.8rem; margin-bottom:1.5rem;
+}
+.stat-card {
+  background:var(--card); border:1px solid var(--border); border-radius:12px;
+  padding:1rem; text-align:center;
+}
+.stat-num { font-size:1.8rem; font-weight:800; }
+.stat-label { font-size:.75rem; color:var(--text-dim); margin-top:.2rem; }
+
+/* Filters */
+.filters {
+  display:flex; flex-wrap:wrap; gap:.5rem; margin-bottom:1.2rem; align-items:center;
+}
+.filter-btn {
+  background:var(--card); border:1px solid var(--border); color:var(--text);
+  padding:.35rem .75rem; border-radius:20px; font-size:.78rem; cursor:pointer;
+  transition: all .2s;
+}
+.filter-btn:hover { border-color:var(--mbc-light); }
+.filter-btn.active { background:var(--mbc-blue); border-color:var(--mbc-blue); color:#fff; }
+.filter-label { font-size:.8rem; color:var(--text-dim); font-weight:600; margin-right:.3rem; }
+
+/* Cards grid */
+.cards {
+  display:grid; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr));
+  gap:1rem; margin-bottom:2rem;
+}
+.cand-card {
+  background:var(--card); border:1px solid var(--border); border-radius:12px;
+  padding:1.2rem; transition:all .2s; position:relative; overflow:hidden;
+}
+.cand-card:hover { background:var(--card-hover); transform:translateY(-2px); }
+.cand-card::before {
+  content:''; position:absolute; top:0; left:0; width:4px; height:100%;
+}
+.cand-card.party-국민의힘::before { background:var(--ppp); }
+.cand-card.party-더불어민주당::before { background:var(--dpk); }
+.cand-card.party-조국혁신당::before { background:var(--jh); }
+.cand-card.party-무소속::before, .cand-card.party-무소속\/권한대행::before { background:var(--ind); }
+
+.cand-top { display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:.6rem; }
+.cand-name { font-size:1.1rem; font-weight:700; }
+.cand-district { font-size:.8rem; color:var(--text-dim); }
+.cand-election { font-size:.7rem; color:var(--text-dim); opacity:.7; }
+
+.badge {
+  display:inline-block; font-size:.65rem; padding:2px 8px; border-radius:20px;
+  font-weight:700; white-space:nowrap;
+}
+.badge-현직 { background:var(--incumbent); color:#fff; }
+.badge-등록예비 { background:var(--registered); color:#fff; }
+.badge-출마예상자 { background:var(--expected); color:#fff; }
+
+.party-tag {
+  display:inline-block; font-size:.72rem; padding:2px 8px; border-radius:10px;
+  font-weight:600; margin-right:.3rem;
+}
+.party-tag.국민의힘 { background:rgba(230,30,43,.2); color:#ff6b6b; }
+.party-tag.더불어민주당 { background:rgba(0,78,162,.2); color:#60a5fa; }
+.party-tag.조국혁신당 { background:rgba(255,102,0,.2); color:#fb923c; }
+.party-tag.무소속, .party-tag.무소속\/권한대행 { background:rgba(136,136,136,.2); color:#aaa; }
+
+.cand-links { display:flex; gap:.5rem; margin-top:.6rem; }
+.cand-links a {
+  display:flex; align-items:center; gap:.3rem;
+  font-size:.75rem; padding:.25rem .5rem; border-radius:8px;
+  background:rgba(255,255,255,.06); transition:background .2s;
+}
+.cand-links a:hover { background:rgba(255,255,255,.12); }
+.cand-note { font-size:.72rem; color:var(--text-dim); margin-top:.4rem; font-style:italic; }
+
+/* District section headers */
+.district-header {
+  font-size:1.1rem; font-weight:700; margin:1.5rem 0 .8rem;
+  padding-bottom:.4rem; border-bottom:2px solid var(--border);
+  display:flex; align-items:center; gap:.5rem;
+}
+.district-count {
+  font-size:.75rem; color:var(--text-dim); font-weight:400;
+}
+
+/* Summary table */
+.summary-section { margin-bottom:2rem; }
+.summary-grid {
+  display:grid; grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));
+  gap:.5rem;
+}
+.summary-item {
+  background:var(--card); border:1px solid var(--border); border-radius:8px;
+  padding:.8rem 1rem; display:flex; justify-content:space-between; align-items:center;
+}
+.summary-item .label { font-size:.85rem; }
+.summary-item .count { font-size:1.2rem; font-weight:700; }
+
+/* Notes */
+.notes {
+  background:var(--card); border:1px solid var(--border); border-radius:12px;
+  padding:1.2rem; margin-top:1.5rem;
+}
+.notes h3 { font-size:.9rem; margin-bottom:.6rem; color:var(--text-dim); }
+.notes li { font-size:.8rem; color:var(--text-dim); margin-bottom:.3rem; list-style:disc inside; }
+
+/* Search */
+.search-box {
+  background:var(--card); border:1px solid var(--border); border-radius:12px;
+  padding:.5rem 1rem; font-size:.9rem; color:var(--text); width:100%;
+  max-width:400px; margin-bottom:1rem; outline:none;
+}
+.search-box:focus { border-color:var(--mbc-light); }
+.search-box::placeholder { color:var(--text-dim); }
+
+footer { text-align:center; padding:2rem; font-size:.75rem; color:var(--text-dim); }
+
+@media(max-width:640px) {
+  .cards { grid-template-columns:1fr; }
+  .stats-bar { grid-template-columns:repeat(2, 1fr); }
+  .header { padding:1rem; }
+  .header h1 { font-size:1.1rem; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <h1>🗳️ 충북 지방선거 후보자 대시보드</h1>
+    <div class="meta">제9회 전국동시지방선거 · 충청북도 · 마지막 업데이트: <span id="updatedAt">-</span></div>
+  </div>
+  <div class="nav">
+    <a href="index.html">📺 메인</a>
+    <a href="election.html" class="active">🗳️ 선거</a>
+  </div>
+</div>
+
+<div class="container">
+  <!-- Stats -->
+  <div class="stats-bar" id="statsBar"></div>
+
+  <!-- Search -->
+  <input class="search-box" id="search" placeholder="🔍 후보자 검색 (이름, 지역, 정당)..." />
+
+  <!-- Filters -->
+  <div class="filters" id="filters">
+    <span class="filter-label">선거구:</span>
+    <div id="districtFilters"></div>
+  </div>
+  <div class="filters" id="partyFilters">
+    <span class="filter-label">정당:</span>
+  </div>
+  <div class="filters" id="statusFilters">
+    <span class="filter-label">상태:</span>
+  </div>
+
+  <!-- Candidate cards -->
+  <div id="content"></div>
+
+  <!-- Notes -->
+  <div class="notes" id="notes"></div>
+</div>
+
+<footer>
+  MBC충북 지방선거 대시보드 · 출처: 중앙선거관리위원회, 언론보도 · 예비후보 등록마감: 5.13(수)
+  <br><a href="index.html">← 메인 대시보드로</a>
+</footer>
+
+<script>
+const $ = s => document.querySelector(s);
+const $$ = s => document.querySelectorAll(s);
+
+let DATA = null;
+let activeDistrict = '전체';
+let activeParty = '전체';
+let activeStatus = '전체';
+let searchQuery = '';
+
+function esc(s) {
+  if (!s) return '';
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+function statusBadgeClass(status) {
+  if (status === '현직') return 'badge-현직';
+  if (status === '등록(예비)') return 'badge-등록예비';
+  return 'badge-출마예상자';
+}
+
+function partyClass(party) {
+  if (party.includes('국민의힘')) return '국민의힘';
+  if (party.includes('더불어민주당')) return '더불어민주당';
+  if (party.includes('조국혁신당')) return '조국혁신당';
+  return '무소속';
+}
+
+function renderStats() {
+  const s = DATA.stats;
+  const totalSNS = DATA.candidates.filter(c => c.youtube || c.facebook).length;
+  const html = `
+    <div class="stat-card"><div class="stat-num">${DATA.total}</div><div class="stat-label">총 후보자</div></div>
+    <div class="stat-card"><div class="stat-num" style="color:var(--incumbent)">${s.by_status['현직'] || 0}</div><div class="stat-label">현직</div></div>
+    <div class="stat-card"><div class="stat-num" style="color:var(--registered)">${s.by_status['등록(예비)'] || 0}</div><div class="stat-label">등록(예비)</div></div>
+    <div class="stat-card"><div class="stat-num" style="color:var(--expected)">${s.by_status['출마 예상자'] || 0}</div><div class="stat-label">출마 예상자</div></div>
+    <div class="stat-card"><div class="stat-num" style="color:var(--ppp)">${s.by_party['국민의힘'] || 0}</div><div class="stat-label">국민의힘</div></div>
+    <div class="stat-card"><div class="stat-num" style="color:var(--dpk)">${s.by_party['더불어민주당'] || 0}</div><div class="stat-label">더불어민주당</div></div>
+    <div class="stat-card"><div class="stat-num">${totalSNS}</div><div class="stat-label">SNS 보유</div></div>
+    <div class="stat-card"><div class="stat-num">${Object.keys(s.by_district).length}</div><div class="stat-label">선거구</div></div>
+  `;
+  $('#statsBar').innerHTML = html;
+}
+
+function renderFilters() {
+  const districts = ['전체', ...Object.keys(DATA.stats.by_district)];
+  const parties = ['전체', ...Object.keys(DATA.stats.by_party)];
+  const statuses = ['전체', '현직', '등록(예비)', '출마 예상자'];
+
+  $('#districtFilters').innerHTML = districts.map(d =>
+    `<button class="filter-btn ${d===activeDistrict?'active':''}" data-type="district" data-val="${d}">${d} ${d!=='전체'?'('+DATA.stats.by_district[d]+')':''}</button>`
+  ).join('');
+
+  $('#partyFilters').innerHTML = '<span class="filter-label">정당:</span>' + parties.map(p =>
+    `<button class="filter-btn ${p===activeParty?'active':''}" data-type="party" data-val="${p}">${p} ${p!=='전체'?'('+(DATA.stats.by_party[p]||0)+')':''}</button>`
+  ).join('');
+
+  $('#statusFilters').innerHTML = '<span class="filter-label">상태:</span>' + statuses.map(s =>
+    `<button class="filter-btn ${s===activeStatus?'active':''}" data-type="status" data-val="${s}">${s}</button>`
+  ).join('');
+}
+
+function filterCandidates() {
+  return DATA.candidates.filter(c => {
+    if (activeDistrict !== '전체' && c.district !== activeDistrict) return false;
+    if (activeParty !== '전체' && !c.party.includes(activeParty)) return false;
+    if (activeStatus !== '전체' && c.status !== activeStatus) return false;
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      const text = (c.name + c.district + c.party + (c.note||'')).toLowerCase();
+      if (!text.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function renderCards() {
+  const filtered = filterCandidates();
+
+  // Group by district
+  const groups = {};
+  for (const c of filtered) {
+    const key = c.district || '기타';
+    if (!groups[key]) groups[key] = [];
+    groups[key].push(c);
+  }
+
+  // Sort: 충청북도(도지사/교육감) first, then cities, then counties
+  const order = ['충청북도','청주시','충주시','제천시','보은군','옥천군','영동군','괴산군','증평군','진천군','음성군','단양군'];
+  const sortedKeys = Object.keys(groups).sort((a,b) => {
+    const ia = order.indexOf(a), ib = order.indexOf(b);
+    return (ia===-1?99:ia) - (ib===-1?99:ib);
+  });
+
+  let html = '';
+  for (const district of sortedKeys) {
+    const cands = groups[district];
+    // Sort within: 현직 first, then 등록(예비), then 출마 예상자
+    const statusOrder = {'현직':0, '등록(예비)':1, '출마 예상자':2};
+    cands.sort((a,b) => (statusOrder[a.status]||9) - (statusOrder[b.status]||9));
+
+    html += `<div class="district-header">${district} <span class="district-count">${cands.length}명</span></div>`;
+    html += '<div class="cards">';
+    for (const c of cands) {
+      const pc = partyClass(c.party);
+      const links = [];
+      if (c.youtube) links.push(`<a href="${esc(c.youtube)}" target="_blank">▶️ YouTube</a>`);
+      if (c.facebook) links.push(`<a href="${esc(c.facebook)}" target="_blank">📘 Facebook</a>`);
+
+      html += `
+        <div class="cand-card party-${esc(pc)}">
+          <div class="cand-top">
+            <div>
+              <div class="cand-name">${esc(c.name)}</div>
+              <div class="cand-election">${esc(c.election)}</div>
+            </div>
+            <span class="badge ${statusBadgeClass(c.status)}">${esc(c.status)}</span>
+          </div>
+          <div>
+            <span class="party-tag ${esc(pc)}">${esc(c.party)}</span>
+          </div>
+          ${links.length ? '<div class="cand-links">' + links.join('') + '</div>' : ''}
+          ${c.note ? '<div class="cand-note">📝 '+esc(c.note)+'</div>' : ''}
+        </div>
+      `;
+    }
+    html += '</div>';
+  }
+
+  if (!filtered.length) {
+    html = '<div style="text-align:center;padding:3rem;color:var(--text-dim);">검색 결과가 없습니다.</div>';
+  }
+
+  html += `<div style="text-align:center;padding:1rem;font-size:.8rem;color:var(--text-dim);">총 ${filtered.length}명 / ${DATA.total}명 표시중</div>`;
+
+  $('#content').innerHTML = html;
+}
+
+function renderNotes() {
+  if (!DATA.notes?.length) return;
+  $('#notes').innerHTML = `
+    <h3>⚠️ 주의사항</h3>
+    <ul>${DATA.notes.map(n => '<li>'+esc(n)+'</li>').join('')}</ul>
+  `;
+}
+
+function handleFilter(e) {
+  const btn = e.target.closest('.filter-btn');
+  if (!btn) return;
+  const type = btn.dataset.type;
+  const val = btn.dataset.val;
+  if (type === 'district') activeDistrict = val;
+  if (type === 'party') activeParty = val;
+  if (type === 'status') activeStatus = val;
+  renderFilters();
+  renderCards();
+}
+
+async function init() {
+  try {
+    const r = await fetch('data/election.json?t=' + Date.now());
+    DATA = await r.json();
+  } catch(e) {
+    $('#content').innerHTML = '<div style="text-align:center;padding:3rem;color:var(--hot);">데이터 로딩 실패</div>';
+    return;
+  }
+
+  $('#updatedAt').textContent = DATA.updated_at;
+
+  renderStats();
+  renderFilters();
+  renderCards();
+  renderNotes();
+
+  // Event listeners
+  document.addEventListener('click', handleFilter);
+  $('#search').addEventListener('input', (e) => {
+    searchQuery = e.target.value;
+    renderCards();
+  });
+}
+
+init();
+</script>
+</body>
+</html>
