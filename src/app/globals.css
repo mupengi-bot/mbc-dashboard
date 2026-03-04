@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --color-sns: #3478F6;
+  --color-community: #30D158;
+  --color-press: #FF9F0A;
+  --color-risk-high: #FF3B30;
+  --color-risk-medium: #FFD60A;
+  --color-risk-low: #8E8E93;
+  --bg-primary: #FAF8F5;
+  --bg-card: #FFFFFF;
+  --bg-sidebar: #F5F2EE;
+  --text-primary: #1D1D1F;
+  --text-secondary: #6E6E73;
+  --text-tertiary: #AEAEB2;
+  --border: #E5E5EA;
+  --accent: #0071E3;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar — Apple style */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #C7C7CC; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #AEAEB2; }
+
+/* MapLibre overrides */
+.maplibregl-ctrl-group {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border) !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08) !important;
+  border-radius: 10px !important;
+}
+.maplibregl-ctrl-group button {
+  filter: none;
+}
+.maplibregl-ctrl-attrib {
+  background: rgba(250,248,245,0.9) !important;
+  color: var(--text-tertiary) !important;
+  font-size: 9px !important;
+}
+.maplibregl-ctrl-attrib a {
+  color: var(--text-secondary) !important;
+}
+
+/* Smooth transitions */
+* {
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
