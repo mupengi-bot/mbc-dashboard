@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-03-06T10:11:59.458916+09:00",
+  "collected_at": "2026-03-06T14:05:05.080757+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "W9P7WuBH6og",
       "title": "Iran situation… Rising energy prices raise concerns about logistics disruption #Shorts (MBC Chung...",
       "url": "https://www.youtube.com/shorts/W9P7WuBH6og",
-      "view_count": 5500,
-      "view_delta": 400,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "c3wYFaySmgg",
-      "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
-      "view_count": 7300,
-      "view_delta": 100,
+      "view_count": 5700,
+      "view_delta": 200,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 127000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -90,6 +80,16 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "c3wYFaySmgg",
+      "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
+      "view_count": 7300,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
