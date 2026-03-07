@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-03-07T21:23:57.529404+09:00",
+  "collected_at": "2026-03-08T01:15:49.043224+09:00",
   "items": [
     {
       "type": "youtube",
-      "id": "W9P7WuBH6og",
-      "title": "Iran situation… Rising energy prices raise concerns about logistics disruption #Shorts (MBC Chung...",
-      "url": "https://www.youtube.com/shorts/W9P7WuBH6og",
-      "view_count": 11000,
+      "id": "_kvHK1huc24",
+      "title": "I took the money and sold it right away... My mother transferred the title #Shorts (MBC Chungbuk ...",
+      "url": "https://www.youtube.com/shorts/_kvHK1huc24",
+      "view_count": 128000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -25,24 +25,14 @@
     },
     {
       "type": "youtube",
-      "id": "_kvHK1huc24",
-      "title": "I took the money and sold it right away... My mother transferred the title #Shorts (MBC Chungbuk ...",
-      "url": "https://www.youtube.com/shorts/_kvHK1huc24",
-      "view_count": 127000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
       "id": "IVI_xH0P73o",
       "title": "\"Complaining of stomach pain after eating a late-night snack\"... Some people go to the hospital #...",
       "url": "https://www.youtube.com/shorts/IVI_xH0P73o",
       "view_count": 24000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -70,6 +60,16 @@
       "title": "Even though my Korean is poor, there's no evacuation instructions #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/s2t7HI_yb8I",
       "view_count": 19000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "W9P7WuBH6og",
+      "title": "Iran situation… Rising energy prices raise concerns about logistics disruption #Shorts (MBC Chung...",
+      "url": "https://www.youtube.com/shorts/W9P7WuBH6og",
+      "view_count": 11000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
