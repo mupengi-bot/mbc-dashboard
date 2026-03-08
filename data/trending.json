@@ -1,23 +1,23 @@
 {
-  "collected_at": "2026-03-09T01:16:30.612900+09:00",
+  "collected_at": "2026-03-09T05:14:13.816755+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "_kvHK1huc24",
-      "title": "I took the money and sold it right away... My mother transferred the title #Shorts (MBC Chungbuk ...",
-      "url": "https://www.youtube.com/shorts/_kvHK1huc24",
-      "view_count": 129000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "4FInxvpby4o",
       "title": "The governor heads to Jincheon, the county head to Cheongju... A battle of wits begins #Shorts (M...",
       "url": "https://www.youtube.com/shorts/4FInxvpby4o",
       "view_count": 165000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "_kvHK1huc24",
+      "title": "I took the money and sold it right away... My mother transferred the title #Shorts (MBC Chungbuk ...",
+      "url": "https://www.youtube.com/shorts/_kvHK1huc24",
+      "view_count": 129000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": "",
