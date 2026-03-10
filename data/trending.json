@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-03-10T17:29:20.242627+09:00",
+  "collected_at": "2026-03-10T21:35:02.651319+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "5rMped0tPgw",
+      "title": "살 안찌는 방법 #mbc충북 #즐거운오후 #정오의희망곡 #다이어트",
+      "url": "https://www.youtube.com/shorts/5rMped0tPgw",
+      "view_count": 1500,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "4FInxvpby4o",
@@ -31,8 +42,7 @@
       "view_count": 24000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
       "view_count": 7600,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "vIhK12o3oDE",
-      "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
-      "view_count": 6700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
