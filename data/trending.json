@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-03-11T21:34:34.628991+09:00",
+  "collected_at": "2026-03-12T01:39:41.542038+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "V_DyWzBqR3Y",
+      "title": "의외로 잘하는 송민수 아나운서와 뚝딱거리는 최다원 아나운서   #mbc충북 #정오의희망곡 #최다원 #송민수 #아나운서 #운동 #헬스 #혈당",
+      "url": "https://www.youtube.com/shorts/V_DyWzBqR3Y",
+      "view_count": 4800,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "4FInxvpby4o",
@@ -26,13 +37,12 @@
     {
       "type": "youtube",
       "id": "IVI_xH0P73o",
-      "title": "\"Complaining of stomach pain after eating a late-night snack\"... Some people go to the hospital #...",
+      "title": "\"야식 먹고 복통 호소\"... 일부는 병원행 #Shorts (MBC충북뉴스)",
       "url": "https://www.youtube.com/shorts/IVI_xH0P73o",
       "view_count": 24000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
       "view_count": 7600,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "vIhK12o3oDE",
-      "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
-      "view_count": 6700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
