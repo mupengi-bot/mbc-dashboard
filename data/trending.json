@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-12T14:11:45.444702+09:00",
+  "collected_at": "2026-03-12T17:30:49.170076+09:00",
   "items": [
     {
       "type": "youtube",
@@ -7,17 +7,6 @@
       "title": "I took the money and sold it right away... My mother transferred the title #Shorts (MBC Chungbuk ...",
       "url": "https://www.youtube.com/shorts/_kvHK1huc24",
       "view_count": 130000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "4FInxvpby4o",
-      "title": "The governor heads to Jincheon, the county head to Cheongju... A battle of wits begins #Shorts (M...",
-      "url": "https://www.youtube.com/shorts/4FInxvpby4o",
-      "view_count": 165000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": "",
@@ -42,7 +31,8 @@
       "view_count": 23000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
       "view_count": 6700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "vKhv2rYe5Mg",
+      "title": "수능금지곡 트로트, 신고할거야-미니마니 #mbc충북 #즐거운오후 #트로트 #미니마니 #유수현 #한송이",
+      "url": "https://www.youtube.com/shorts/vKhv2rYe5Mg",
+      "view_count": 6400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
