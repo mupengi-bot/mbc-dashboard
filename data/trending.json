@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-03-16T10:16:45.049052+09:00",
+  "collected_at": "2026-03-16T14:45:29.249823+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "n5UWE8ODO0o",
-      "title": "Frequent company dinners at restaurants with shared bathrooms... Possibility of additional crimes...",
-      "url": "https://www.youtube.com/shorts/n5UWE8ODO0o",
-      "view_count": 213000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "_kvHK1huc24",
@@ -42,7 +31,8 @@
       "view_count": 23000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
       "view_count": 6700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "vKhv2rYe5Mg",
+      "title": "수능금지곡 트로트, 신고할거야-미니마니 #mbc충북 #즐거운오후 #트로트 #미니마니 #유수현 #한송이",
+      "url": "https://www.youtube.com/shorts/vKhv2rYe5Mg",
+      "view_count": 6400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
