@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-03-17T21:43:15.049316+09:00",
+  "collected_at": "2026-03-18T01:55:04.206208+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "GgzbI5WrJt8",
+      "title": "쇼미더곶감, 영동할매 크루",
+      "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
+      "view_count": 248,
+      "view_delta": 2,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
       "title": "Frequent company dinners at restaurants with shared bathrooms... Possibility of additional crimes...",
       "url": "https://www.youtube.com/shorts/n5UWE8ODO0o",
       "view_count": 215000,
-      "view_delta": 1000,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 24000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
       "view_count": 7700,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "vIhK12o3oDE",
-      "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
-      "view_count": 6700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
