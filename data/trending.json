@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-03-18T14:22:22.958798+09:00",
+  "collected_at": "2026-03-18T17:36:11.376638+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "sv0nOsMojfE",
-      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
-      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
-      "view_count": 1500,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -42,7 +31,8 @@
       "view_count": 24000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
       "view_count": 7700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "vIhK12o3oDE",
+      "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
+      "view_count": 6700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
