@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-03-21T14:01:49.557630+09:00",
+  "collected_at": "2026-03-21T17:19:40.123144+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "JK0IBXC-zUs",
       "title": "Conclusion 4 Years Ago That Air Dome Installation Is 'Impossible' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/JK0IBXC-zUs",
-      "view_count": 6000,
-      "view_delta": 1400,
+      "view_count": 6700,
+      "view_delta": 700,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,18 +17,7 @@
       "id": "pgq6JTHaXWc",
       "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
       "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
-      "view_count": 3500,
-      "view_delta": 300,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "DR2UKxVDRLg",
-      "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
-      "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
-      "view_count": 9600,
+      "view_count": 3600,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -39,10 +28,11 @@
       "id": "GgzbI5WrJt8",
       "title": "쇼미더곶감, 영동할매 크루",
       "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
-      "view_count": 252,
+      "view_count": 253,
       "view_delta": 1,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -90,6 +80,16 @@
       "title": "Iran situation… Rising energy prices raise concerns about logistics disruption #Shorts (MBC Chung...",
       "url": "https://www.youtube.com/shorts/W9P7WuBH6og",
       "view_count": 12000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "DR2UKxVDRLg",
+      "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
+      "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
+      "view_count": 9600,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
