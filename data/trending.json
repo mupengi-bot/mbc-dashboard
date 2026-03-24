@@ -1,6 +1,28 @@
 {
-  "collected_at": "2026-03-24T05:28:34.878447+09:00",
+  "collected_at": "2026-03-24T10:05:42.973731+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "pgq6JTHaXWc",
+      "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
+      "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
+      "view_count": 7000,
+      "view_delta": 200,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "GgzbI5WrJt8",
+      "title": "쇼미더곶감, 영동할매 크루",
+      "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
+      "view_count": 257,
+      "view_delta": 1,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -20,8 +42,7 @@
       "view_count": 131000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -31,8 +52,7 @@
       "view_count": 24000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -80,26 +100,6 @@
       "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
       "view_count": 7800,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "pgq6JTHaXWc",
-      "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
-      "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
-      "view_count": 6800,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "vIhK12o3oDE",
-      "title": "잇따르는 보조배터리 화재.. 안전 규정 강화 #Shorts (MBC충북뉴스)",
-      "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
-      "view_count": 6700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
