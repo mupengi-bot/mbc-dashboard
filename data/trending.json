@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-03-30T18:02:53.298315+09:00",
+  "collected_at": "2026-03-30T21:52:05.550139+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "c3wYFaySmgg",
-      "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
-      "view_count": 7900,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -42,7 +31,8 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -80,6 +70,16 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9600,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "c3wYFaySmgg",
+      "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
+      "view_count": 7900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
