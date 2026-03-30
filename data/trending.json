@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-03-31T01:45:05.500929+09:00",
+  "collected_at": "2026-03-31T05:34:40.524778+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "pgq6JTHaXWc",
+      "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
+      "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
+      "view_count": 7500,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -31,8 +42,7 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -80,16 +90,6 @@
       "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
       "view_count": 7900,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "pgq6JTHaXWc",
-      "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
-      "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
-      "view_count": 7400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
