@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-04-03T10:17:28.920122+09:00",
+  "collected_at": "2026-04-03T14:28:34.913582+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "rFVRCFDXnws",
+      "title": "Temporary hoarding... No shortage of supply #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/rFVRCFDXnws",
+      "view_count": 22000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -29,17 +40,6 @@
       "title": "Conclusion 4 Years Ago That Air Dome Installation Is 'Impossible' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/JK0IBXC-zUs",
       "view_count": 25000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "rFVRCFDXnws",
-      "title": "Temporary hoarding... No shortage of supply #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/rFVRCFDXnws",
-      "view_count": 21000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
