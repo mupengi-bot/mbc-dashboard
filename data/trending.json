@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-04-04T05:23:54.720891+09:00",
+  "collected_at": "2026-04-04T10:11:00.376991+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "A314b39oTi4",
+      "title": "People Power Party's North Chungcheong Governor Election in the Fog #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/A314b39oTi4",
+      "view_count": 17000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -31,8 +42,7 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -40,16 +50,6 @@
       "title": "Temporary hoarding... No shortage of supply #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/rFVRCFDXnws",
       "view_count": 23000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "A314b39oTi4",
-      "title": "People Power Party's North Chungcheong Governor Election in the Fog #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/A314b39oTi4",
-      "view_count": 16000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
