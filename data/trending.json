@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-04-09T14:44:21.467772+09:00",
+  "collected_at": "2026-04-09T17:58:46.272753+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "GgzbI5WrJt8",
+      "title": "쇼미더곶감, 영동할매 크루",
+      "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
+      "view_count": 268,
+      "view_delta": 1,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -31,8 +42,7 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
       "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
       "view_count": 7500,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "vIhK12o3oDE",
-      "title": "A series of auxiliary battery fires... Safety regulations strengthened #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/vIhK12o3oDE",
-      "view_count": 6700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
