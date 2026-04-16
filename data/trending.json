@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-04-16T22:02:44.208292+09:00",
+  "collected_at": "2026-04-17T02:02:16.143607+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "oL-0cRCG2sg",
-      "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
-      "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
-      "view_count": 5700,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -42,7 +31,8 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
       "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
       "view_count": 7500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "vKhv2rYe5Mg",
+      "title": "수능금지곡 트로트, 신고할거야-미니마니 #mbc충북 #즐거운오후 #트로트 #미니마니 #유수현 #한송이",
+      "url": "https://www.youtube.com/shorts/vKhv2rYe5Mg",
+      "view_count": 6500,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
