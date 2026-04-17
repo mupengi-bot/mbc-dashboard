@@ -1,23 +1,12 @@
 {
-  "collected_at": "2026-04-18T01:42:04.030903+09:00",
+  "collected_at": "2026-04-18T05:34:38.169639+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "oL-0cRCG2sg",
       "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
       "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
-      "view_count": 6600,
-      "view_delta": 200,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "nZFB9pMBQAs",
-      "title": "시간이 지나도 더 깊어지는 보컬, 소냐의 라이브 뮤지컬 그 자체 #mbc충북 #정오의희망곡 #소냐",
-      "url": "https://www.youtube.com/shorts/nZFB9pMBQAs",
-      "view_count": 1400,
+      "view_count": 6700,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -37,12 +26,13 @@
     {
       "type": "youtube",
       "id": "_kvHK1huc24",
-      "title": "웃돈 챙겨 바로 매매.. 어머니는 명의 이전 #Shorts (MBC충북뉴스)",
+      "title": "I took the money and sold it right away... My mother transferred the title #Shorts (MBC Chungbuk ...",
       "url": "https://www.youtube.com/shorts/_kvHK1huc24",
       "view_count": 131000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
       "view_count": 7900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "pgq6JTHaXWc",
+      "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
+      "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
+      "view_count": 7500,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
