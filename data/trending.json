@@ -1,28 +1,6 @@
 {
-  "collected_at": "2026-04-18T14:28:45.976925+09:00",
+  "collected_at": "2026-04-18T17:36:52.352600+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "oL-0cRCG2sg",
-      "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
-      "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
-      "view_count": 6900,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "V_DyWzBqR3Y",
-      "title": "의외로 잘하는 송민수 아나운서와 뚝딱거리는 최다원 아나운서   #mbc충북 #정오의희망곡 #최다원 #송민수 #아나운서 #운동 #헬스 #혈당",
-      "url": "https://www.youtube.com/shorts/V_DyWzBqR3Y",
-      "view_count": 5100,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -42,7 +20,8 @@
       "view_count": 131000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +80,26 @@
       "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
       "view_count": 7900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "pgq6JTHaXWc",
+      "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
+      "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
+      "view_count": 7500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "oL-0cRCG2sg",
+      "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
+      "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
+      "view_count": 6900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
