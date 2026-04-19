@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-04-20T01:27:39.963215+09:00",
+  "collected_at": "2026-04-20T05:25:11.089314+09:00",
   "videos": [
     {
       "id": "oL-0cRCG2sg",
@@ -154,8 +154,23 @@
       "view_count": 269,
       "duration": 0,
       "upload_date": "",
-      "comments": [],
-      "comment_count": 0
+      "comments": [
+        {
+          "author": "@AIVOLVE_c",
+          "text": "쫀득 곶감 먹고 싶어요~",
+          "timestamp": 1771545600,
+          "like_count": 0,
+          "time_text": "2 months ago"
+        },
+        {
+          "author": "@고지우-o4b",
+          "text": "오~ 신선하다",
+          "timestamp": 1771545600,
+          "like_count": 0,
+          "time_text": "2 months ago"
+        }
+      ],
+      "comment_count": 2
     },
     {
       "id": "3Es_TCrtj08",
