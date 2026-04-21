@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-04-21T10:23:48.829753+09:00",
+  "collected_at": "2026-04-21T14:57:21.054319+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "sv0nOsMojfE",
-      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
-      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
-      "view_count": 1800,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -42,7 +31,8 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
       "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
       "view_count": 7600,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "oL-0cRCG2sg",
+      "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
+      "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
+      "view_count": 7200,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
