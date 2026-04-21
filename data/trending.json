@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-04-22T01:47:45.765015+09:00",
+  "collected_at": "2026-04-22T05:39:21.922481+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "GgzbI5WrJt8",
-      "title": "쇼미더곶감, 영동할매 크루",
-      "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
-      "view_count": 270,
-      "view_delta": 1,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -37,12 +26,13 @@
     {
       "type": "youtube",
       "id": "JK0IBXC-zUs",
-      "title": "4년 전부터 에어돔 '설치 불가' 결론 #Shorts (MBC충북뉴스)",
+      "title": "Conclusion 4 Years Ago That Air Dome Installation Is 'Impossible' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/JK0IBXC-zUs",
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
       "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
       "view_count": 7600,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "oL-0cRCG2sg",
+      "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
+      "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
+      "view_count": 7200,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
