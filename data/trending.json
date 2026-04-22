@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-04-22T21:58:56.725497+09:00",
+  "collected_at": "2026-04-23T01:48:38.482450+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "rFVRCFDXnws",
+      "title": "Temporary hoarding... No shortage of supply #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/rFVRCFDXnws",
+      "view_count": 25000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "6IwjBif34eU",
       "title": "Estimated Damages Over 10 Billion Won Even Excluding Dividends #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/6IwjBif34eU",
-      "view_count": 2000,
-      "view_delta": 1988,
+      "view_count": 3000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -29,17 +40,6 @@
       "title": "Conclusion 4 Years Ago That Air Dome Installation Is 'Impossible' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/JK0IBXC-zUs",
       "view_count": 25000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "rFVRCFDXnws",
-      "title": "Temporary hoarding... No shortage of supply #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/rFVRCFDXnws",
-      "view_count": 24000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
