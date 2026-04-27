@@ -1,28 +1,6 @@
 {
-  "collected_at": "2026-04-28T02:13:52.969639+09:00",
+  "collected_at": "2026-04-28T05:51:00.020677+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "oL-0cRCG2sg",
-      "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
-      "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
-      "view_count": 7400,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "rssXh6Yfo18",
-      "title": "\"Walk to wash the car, or go by car?\" Even ChatGPT was wrong? An interesting 'Car Wash AI Test'",
-      "url": "https://www.youtube.com/shorts/rssXh6Yfo18",
-      "view_count": 1000,
-      "view_delta": 11,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -42,7 +20,8 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +80,26 @@
       "title": "A woman in her 60s lost consciousness while driving #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/c3wYFaySmgg",
       "view_count": 7900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "pgq6JTHaXWc",
+      "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
+      "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
+      "view_count": 7600,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "oL-0cRCG2sg",
+      "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
+      "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
+      "view_count": 7400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
