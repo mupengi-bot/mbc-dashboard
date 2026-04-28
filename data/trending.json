@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-04-28T05:51:00.020677+09:00",
+  "collected_at": "2026-04-28T10:50:35.174412+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "YqU67zWeF_Q",
+      "title": "Governor Kim Young-hwan Promotes Election in 'Thousands' Chat Room #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/YqU67zWeF_Q",
+      "view_count": 5100,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "n5UWE8ODO0o",
@@ -31,8 +42,7 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
       "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
       "view_count": 7600,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "oL-0cRCG2sg",
-      "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
-      "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
-      "view_count": 7400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
