@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-05-07T06:01:55.596809+09:00",
+  "collected_at": "2026-05-07T10:51:52.506939+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "bVQfU7_YqoE",
       "title": "Chartered Buses Excluded from Fuel Subsidy Support #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/bVQfU7_YqoE",
-      "view_count": 6900,
-      "view_delta": 900,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "oL-0cRCG2sg",
-      "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
-      "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
-      "view_count": 7500,
-      "view_delta": 100,
+      "view_count": 9200,
+      "view_delta": 2300,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -90,6 +80,16 @@
       "title": "Chungbuk Office of Education \"Strengthens Crisis Response\"... Couldn't Prevent Accidents #Shorts ...",
       "url": "https://www.youtube.com/shorts/pgq6JTHaXWc",
       "view_count": 7600,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "oL-0cRCG2sg",
+      "title": "Explosion Accident Suspected of Gas Leak at First-Floor Restaurant in Commercial Building #Shorts...",
+      "url": "https://www.youtube.com/shorts/oL-0cRCG2sg",
+      "view_count": 7500,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
