@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-05-12T10:55:34.967912+09:00",
+  "collected_at": "2026-05-12T15:30:56.938253+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "JMPBOdqukdk",
       "title": "Crime committed against acquaintances who visited the karaoke bar separately #Shorts (MBC Chungbu...",
       "url": "https://www.youtube.com/shorts/JMPBOdqukdk",
-      "view_count": 6400,
-      "view_delta": 1800,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "6IwjBif34eU",
-      "title": "Estimated Damages Over 10 Billion Won Even Excluding Dividends #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/6IwjBif34eU",
-      "view_count": 13000,
-      "view_delta": 1000,
+      "view_count": 7000,
+      "view_delta": 600,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -70,6 +60,16 @@
       "title": "People Power Party's North Chungcheong Governor Election in the Fog #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/A314b39oTi4",
       "view_count": 18000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "6IwjBif34eU",
+      "title": "Estimated Damages Over 10 Billion Won Even Excluding Dividends #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/6IwjBif34eU",
+      "view_count": 13000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
