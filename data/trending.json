@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-05-14T06:15:19.712000+09:00",
+  "collected_at": "2026-05-14T11:02:36.123121+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "S5I2IB4nmWg",
       "title": "Analysis of Chungju Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/S5I2IB4nmWg",
-      "view_count": 3700,
-      "view_delta": 800,
+      "view_count": 5500,
+      "view_delta": 1800,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "JMPBOdqukdk",
+      "title": "Crime committed against acquaintances who visited the karaoke bar separately #Shorts (MBC Chungbu...",
+      "url": "https://www.youtube.com/shorts/JMPBOdqukdk",
+      "view_count": 8200,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 24000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -60,16 +70,6 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9600,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "JMPBOdqukdk",
-      "title": "Crime committed against acquaintances who visited the karaoke bar separately #Shorts (MBC Chungbu...",
-      "url": "https://www.youtube.com/shorts/JMPBOdqukdk",
-      "view_count": 8100,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
