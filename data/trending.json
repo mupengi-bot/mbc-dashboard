@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-05-19T23:32:39.922608+09:00",
+  "collected_at": "2026-05-20T02:56:14.640048+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
       "title": "Driver was an 'unlicensed 18-year-old'... passengers were even younger #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/q9JGfy8SsH4",
-      "view_count": 7200,
-      "view_delta": 3300,
+      "view_count": 8700,
+      "view_delta": 1500,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,18 +17,7 @@
       "id": "69qfUH2dfv4",
       "title": "Analysis of Chungbuk Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/69qfUH2dfv4",
-      "view_count": 1400,
-      "view_delta": 200,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "acdhwAdNWgI",
-      "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
-      "view_count": 2500,
+      "view_count": 1500,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -42,7 +31,8 @@
       "view_count": 29000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "Analysis of Cheongju Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Quo6lsDRRUE",
       "view_count": 3200,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "acdhwAdNWgI",
+      "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
+      "view_count": 2500,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
