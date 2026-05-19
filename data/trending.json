@@ -1,12 +1,34 @@
 {
-  "collected_at": "2026-05-19T19:52:51.047117+09:00",
+  "collected_at": "2026-05-19T23:32:39.922608+09:00",
   "items": [
     {
       "type": "youtube",
-      "id": "aQMVOKIyjdM",
-      "title": "Boeun County Governor Candidate Pledge Analysis #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/aQMVOKIyjdM",
-      "view_count": 1900,
+      "id": "q9JGfy8SsH4",
+      "title": "Driver was an 'unlicensed 18-year-old'... passengers were even younger #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/q9JGfy8SsH4",
+      "view_count": 7200,
+      "view_delta": 3300,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "69qfUH2dfv4",
+      "title": "Analysis of Chungbuk Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/69qfUH2dfv4",
+      "view_count": 1400,
+      "view_delta": 200,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "acdhwAdNWgI",
+      "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
+      "view_count": 2500,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -20,8 +42,7 @@
       "view_count": 29000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -31,8 +52,7 @@
       "view_count": 11000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -76,30 +96,10 @@
     },
     {
       "type": "youtube",
-      "id": "q9JGfy8SsH4",
-      "title": "Driver was an 'unlicensed 18-year-old'... passengers were even younger #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/q9JGfy8SsH4",
-      "view_count": 3900,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "Quo6lsDRRUE",
       "title": "Analysis of Cheongju Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Quo6lsDRRUE",
       "view_count": 3200,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "acdhwAdNWgI",
-      "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
-      "view_count": 2400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
