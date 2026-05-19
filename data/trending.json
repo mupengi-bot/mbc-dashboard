@@ -1,23 +1,12 @@
 {
-  "collected_at": "2026-05-20T02:56:14.640048+09:00",
+  "collected_at": "2026-05-20T06:10:47.483859+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
       "title": "Driver was an 'unlicensed 18-year-old'... passengers were even younger #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/q9JGfy8SsH4",
-      "view_count": 8700,
-      "view_delta": 1500,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "69qfUH2dfv4",
-      "title": "Analysis of Chungbuk Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/69qfUH2dfv4",
-      "view_count": 1500,
+      "view_count": 8800,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -42,7 +31,8 @@
       "view_count": 11000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
       "view_count": 2500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "sv0nOsMojfE",
+      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
+      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
+      "view_count": 2000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
