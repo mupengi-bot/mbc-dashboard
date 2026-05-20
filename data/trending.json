@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-05-20T19:41:05.790543+09:00",
+  "collected_at": "2026-05-20T23:32:12.237679+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
       "title": "Driver was an 'unlicensed 18-year-old'... passengers were even younger #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/q9JGfy8SsH4",
-      "view_count": 13000,
-      "view_delta": 0,
+      "view_count": 14000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "EAHPvQocZc8",
+      "title": "Analysis of Okcheon County Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/EAHPvQocZc8",
+      "view_count": 1300,
+      "view_delta": 200,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 9600,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
       "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
       "view_count": 2000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "aQMVOKIyjdM",
-      "title": "Boeun County Governor Candidate Pledge Analysis #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/aQMVOKIyjdM",
-      "view_count": 1900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
