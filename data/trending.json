@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-05-23T15:27:51.375508+09:00",
+  "collected_at": "2026-05-23T18:42:55.316669+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "EAHPvQocZc8",
-      "title": "Analysis of Okcheon County Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/EAHPvQocZc8",
-      "view_count": 2600,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
@@ -42,7 +31,8 @@
       "view_count": 9600,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -60,6 +50,16 @@
       "title": "의외로 잘하는 송민수 아나운서와 뚝딱거리는 최다원 아나운서   #mbc충북 #정오의희망곡 #최다원 #송민수 #아나운서 #운동 #헬스 #혈당",
       "url": "https://www.youtube.com/shorts/V_DyWzBqR3Y",
       "view_count": 5200,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "EAHPvQocZc8",
+      "title": "Analysis of Okcheon County Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/EAHPvQocZc8",
+      "view_count": 2600,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
