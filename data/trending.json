@@ -1,6 +1,28 @@
 {
-  "collected_at": "2026-05-26T05:56:22.946959+09:00",
+  "collected_at": "2026-05-26T11:03:09.381426+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "EAHPvQocZc8",
+      "title": "Analysis of Okcheon County Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/EAHPvQocZc8",
+      "view_count": 2700,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "sv0nOsMojfE",
+      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
+      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
+      "view_count": 2100,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
@@ -20,8 +42,7 @@
       "view_count": 11000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -31,8 +52,7 @@
       "view_count": 9600,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -56,16 +76,6 @@
     },
     {
       "type": "youtube",
-      "id": "EAHPvQocZc8",
-      "title": "Analysis of Okcheon County Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/EAHPvQocZc8",
-      "view_count": 2600,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "acdhwAdNWgI",
       "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
@@ -79,16 +89,6 @@
       "id": "aQMVOKIyjdM",
       "title": "Boeun County Governor Candidate Pledge Analysis #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/aQMVOKIyjdM",
-      "view_count": 2000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "sv0nOsMojfE",
-      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
-      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
       "view_count": 2000,
       "view_delta": 0,
       "comment_count": 0,
