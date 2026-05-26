@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-05-26T11:03:09.381426+09:00",
+  "collected_at": "2026-05-26T16:35:06.467718+09:00",
   "items": [
     {
       "type": "youtube",
-      "id": "EAHPvQocZc8",
-      "title": "Analysis of Okcheon County Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/EAHPvQocZc8",
-      "view_count": 2700,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "sv0nOsMojfE",
-      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
-      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
-      "view_count": 2100,
-      "view_delta": 100,
+      "id": "GgzbI5WrJt8",
+      "title": "쇼미더곶감, 영동할매 크루",
+      "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
+      "view_count": 279,
+      "view_delta": 1,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 11000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -76,6 +66,16 @@
     },
     {
       "type": "youtube",
+      "id": "EAHPvQocZc8",
+      "title": "Analysis of Okcheon County Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/EAHPvQocZc8",
+      "view_count": 2700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
       "id": "acdhwAdNWgI",
       "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
@@ -86,20 +86,20 @@
     },
     {
       "type": "youtube",
-      "id": "aQMVOKIyjdM",
-      "title": "Boeun County Governor Candidate Pledge Analysis #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/aQMVOKIyjdM",
-      "view_count": 2000,
+      "id": "sv0nOsMojfE",
+      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
+      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
+      "view_count": 2100,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
     },
     {
       "type": "youtube",
-      "id": "_AEAicuP2x0",
-      "title": "Analysis of Eumseong County Governor Candidate Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/_AEAicuP2x0",
-      "view_count": 1900,
+      "id": "aQMVOKIyjdM",
+      "title": "Boeun County Governor Candidate Pledge Analysis #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/aQMVOKIyjdM",
+      "view_count": 2000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
