@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-05-28T20:27:49.675210+09:00",
+  "collected_at": "2026-05-29T00:23:50.026666+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "LDXmFzSm0hE",
+      "title": "Analysis of Chungbuk Superintendent Candidate Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/LDXmFzSm0hE",
+      "view_count": 2400,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
@@ -31,8 +42,7 @@
       "view_count": 6500,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -60,16 +70,6 @@
       "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
       "view_count": 2700,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "LDXmFzSm0hE",
-      "title": "Analysis of Chungbuk Superintendent Candidate Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/LDXmFzSm0hE",
-      "view_count": 2300,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
