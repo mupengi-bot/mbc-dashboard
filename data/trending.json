@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-05-28T06:44:41.522577+09:00",
+  "collected_at": "2026-05-28T10:54:22.828929+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "LDXmFzSm0hE",
-      "title": "Analysis of Chungbuk Superintendent Candidate Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/LDXmFzSm0hE",
-      "view_count": 2300,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
@@ -42,7 +31,8 @@
       "view_count": 6500,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -76,6 +66,16 @@
     },
     {
       "type": "youtube",
+      "id": "LDXmFzSm0hE",
+      "title": "Analysis of Chungbuk Superintendent Candidate Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/LDXmFzSm0hE",
+      "view_count": 2300,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
       "id": "aQMVOKIyjdM",
       "title": "Boeun County Governor Candidate Pledge Analysis #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/aQMVOKIyjdM",
@@ -97,7 +97,7 @@
     {
       "type": "youtube",
       "id": "69qfUH2dfv4",
-      "title": "충북지사 후보 공약 분석 #Shorts (MBC충북뉴스)",
+      "title": "Analysis of Chungbuk Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/69qfUH2dfv4",
       "view_count": 1800,
       "view_delta": 0,
