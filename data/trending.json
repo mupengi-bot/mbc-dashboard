@@ -1,6 +1,28 @@
 {
-  "collected_at": "2026-06-02T17:19:04.760626+09:00",
+  "collected_at": "2026-06-03T00:56:17.421150+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "LDXmFzSm0hE",
+      "title": "Analysis of Chungbuk Superintendent Candidate Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/LDXmFzSm0hE",
+      "view_count": 2600,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "l9mk8YN9lQE",
+      "title": "영동군수 후보 공약 분석 #Shorts (MBC충북뉴스)",
+      "url": "https://www.youtube.com/shorts/l9mk8YN9lQE",
+      "view_count": 1600,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
@@ -20,8 +42,7 @@
       "view_count": 9600,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -31,8 +52,7 @@
       "view_count": 6500,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -66,16 +86,6 @@
     },
     {
       "type": "youtube",
-      "id": "LDXmFzSm0hE",
-      "title": "Analysis of Chungbuk Superintendent Candidate Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/LDXmFzSm0hE",
-      "view_count": 2500,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "aQMVOKIyjdM",
       "title": "Boeun County Governor Candidate Pledge Analysis #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/aQMVOKIyjdM",
@@ -90,16 +100,6 @@
       "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
       "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
       "view_count": 2100,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "mNrucxA3STU",
-      "title": "Analysis of Jincheon County Mayoral Candidates' Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/mNrucxA3STU",
-      "view_count": 1800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
