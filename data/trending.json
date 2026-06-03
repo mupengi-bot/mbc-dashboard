@@ -1,6 +1,28 @@
 {
-  "collected_at": "2026-06-03T11:39:43.085930+09:00",
+  "collected_at": "2026-06-03T17:46:21.291176+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "V_DyWzBqR3Y",
+      "title": "의외로 잘하는 송민수 아나운서와 뚝딱거리는 최다원 아나운서   #mbc충북 #정오의희망곡 #최다원 #송민수 #아나운서 #운동 #헬스 #혈당",
+      "url": "https://www.youtube.com/shorts/V_DyWzBqR3Y",
+      "view_count": 5300,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "acdhwAdNWgI",
+      "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
+      "view_count": 2800,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
@@ -20,8 +42,7 @@
       "view_count": 9600,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -29,17 +50,6 @@
       "title": "수능금지곡 트로트, 신고할거야-미니마니 #mbc충북 #즐거운오후 #트로트 #미니마니 #유수현 #한송이",
       "url": "https://www.youtube.com/shorts/vKhv2rYe5Mg",
       "view_count": 6500,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "V_DyWzBqR3Y",
-      "title": "의외로 잘하는 송민수 아나운서와 뚝딱거리는 최다원 아나운서   #mbc충북 #정오의희망곡 #최다원 #송민수 #아나운서 #운동 #헬스 #혈당",
-      "url": "https://www.youtube.com/shorts/V_DyWzBqR3Y",
-      "view_count": 5200,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -50,16 +60,6 @@
       "title": "Analysis of Okcheon County Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/EAHPvQocZc8",
       "view_count": 2800,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "acdhwAdNWgI",
-      "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
-      "view_count": 2700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
