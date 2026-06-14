@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-06-15T02:07:10.196879+09:00",
+  "collected_at": "2026-06-15T05:58:30.622041+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "sv0nOsMojfE",
+      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
+      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
+      "view_count": 2300,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
@@ -31,8 +42,7 @@
       "view_count": 6500,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -47,7 +57,7 @@
     {
       "type": "youtube",
       "id": "EAHPvQocZc8",
-      "title": "옥천군수 후보 공약 분석 #Shorts (MBC충북뉴스)",
+      "title": "Analysis of Okcheon County Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/EAHPvQocZc8",
       "view_count": 2900,
       "view_delta": 0,
@@ -57,7 +67,7 @@
     {
       "type": "youtube",
       "id": "acdhwAdNWgI",
-      "title": "증평군수 후보 공약 분석 #Shorts (MBC충북뉴스)",
+      "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
       "view_count": 2800,
       "view_delta": 0,
@@ -77,7 +87,7 @@
     {
       "type": "youtube",
       "id": "aQMVOKIyjdM",
-      "title": "보은군수 후보 공약 분석 #Shorts (MBC충북뉴스)",
+      "title": "Boeun County Governor Candidate Pledge Analysis #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/aQMVOKIyjdM",
       "view_count": 2200,
       "view_delta": 0,
@@ -86,18 +96,8 @@
     },
     {
       "type": "youtube",
-      "id": "sv0nOsMojfE",
-      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
-      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
-      "view_count": 2200,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "mNrucxA3STU",
-      "title": "진천군수 후보 공약 분석 #Shorts (MBC충북뉴스)",
+      "title": "Analysis of Jincheon County Mayoral Candidates' Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/mNrucxA3STU",
       "view_count": 1900,
       "view_delta": 0,
