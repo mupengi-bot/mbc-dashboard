@@ -1,28 +1,6 @@
 {
-  "collected_at": "2026-06-21T02:14:28.333837+09:00",
+  "collected_at": "2026-06-21T06:03:02.161868+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "DR2UKxVDRLg",
-      "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
-      "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
-      "view_count": 9700,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "nZFB9pMBQAs",
-      "title": "시간이 지나도 더 깊어지는 보컬, 소냐의 라이브 뮤지컬 그 자체 #mbc충북 #정오의희망곡 #소냐",
-      "url": "https://www.youtube.com/shorts/nZFB9pMBQAs",
-      "view_count": 1500,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "q9JGfy8SsH4",
@@ -36,13 +14,25 @@
     },
     {
       "type": "youtube",
+      "id": "DR2UKxVDRLg",
+      "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
+      "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
+      "view_count": 9700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
       "id": "vKhv2rYe5Mg",
       "title": "수능금지곡 트로트, 신고할거야-미니마니 #mbc충북 #즐거운오후 #트로트 #미니마니 #유수현 #한송이",
       "url": "https://www.youtube.com/shorts/vKhv2rYe5Mg",
       "view_count": 6500,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -57,7 +47,7 @@
     {
       "type": "youtube",
       "id": "EAHPvQocZc8",
-      "title": "옥천군수 후보 공약 분석 #Shorts (MBC충북뉴스)",
+      "title": "Analysis of Okcheon County Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/EAHPvQocZc8",
       "view_count": 2900,
       "view_delta": 0,
@@ -67,7 +57,7 @@
     {
       "type": "youtube",
       "id": "acdhwAdNWgI",
-      "title": "증평군수 후보 공약 분석 #Shorts (MBC충북뉴스)",
+      "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
       "view_count": 2800,
       "view_delta": 0,
@@ -97,9 +87,19 @@
     {
       "type": "youtube",
       "id": "aQMVOKIyjdM",
-      "title": "보은군수 후보 공약 분석 #Shorts (MBC충북뉴스)",
+      "title": "Boeun County Governor Candidate Pledge Analysis #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/aQMVOKIyjdM",
       "view_count": 2200,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "mNrucxA3STU",
+      "title": "Analysis of Jincheon County Mayoral Candidates' Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/mNrucxA3STU",
+      "view_count": 1900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
