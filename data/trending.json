@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-06-22T11:38:42.184128+09:00",
+  "collected_at": "2026-06-22T18:37:30.600261+09:00",
   "items": [
     {
       "type": "youtube",
@@ -56,16 +56,6 @@
     },
     {
       "type": "youtube",
-      "id": "acdhwAdNWgI",
-      "title": "Analysis of Jeungpyeong County Mayoral Candidate Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/acdhwAdNWgI",
-      "view_count": 2800,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "LDXmFzSm0hE",
       "title": "Analysis of Chungbuk Superintendent Candidate Pledges #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/LDXmFzSm0hE",
@@ -86,20 +76,30 @@
     },
     {
       "type": "youtube",
-      "id": "aQMVOKIyjdM",
-      "title": "Boeun County Governor Candidate Pledge Analysis #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/aQMVOKIyjdM",
-      "view_count": 2200,
+      "id": "mNrucxA3STU",
+      "title": "Analysis of Jincheon County Mayoral Candidates' Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/mNrucxA3STU",
+      "view_count": 1900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
     },
     {
       "type": "youtube",
-      "id": "mNrucxA3STU",
-      "title": "Analysis of Jincheon County Mayoral Candidates' Pledges #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/mNrucxA3STU",
+      "id": "69qfUH2dfv4",
+      "title": "Analysis of Chungbuk Governor Candidates' Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/69qfUH2dfv4",
       "view_count": 1900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "u226Pqa_5Fk",
+      "title": "Analysis of Goesan County Mayoral Candidates' Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/u226Pqa_5Fk",
+      "view_count": 1800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
