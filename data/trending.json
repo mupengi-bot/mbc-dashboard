@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-06-25T06:16:04.936301+09:00",
+  "collected_at": "2026-06-25T11:07:38.501158+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "Abh5YS9tqZg",
       "title": "Recount set for Chungju mayoral election decided by '124 votes' on the 15th of next month... All ...",
       "url": "https://www.youtube.com/shorts/Abh5YS9tqZg",
-      "view_count": 32000,
+      "view_count": 33000,
       "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "VHBkuTj0BqU",
+      "title": "$50 Million Won Voice Phishing Scam Confirmed #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/VHBkuTj0BqU",
+      "view_count": 2400,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 18000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -80,16 +90,6 @@
       "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
       "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
       "view_count": 2400,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "VHBkuTj0BqU",
-      "title": "$50 Million Won Voice Phishing Scam Confirmed #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/VHBkuTj0BqU",
-      "view_count": 2300,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
