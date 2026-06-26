@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-06-27T02:28:36.714875+09:00",
+  "collected_at": "2026-06-27T06:12:01.761032+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "L_yUYjgn_5E",
       "title": "Investigations into Shin Yong-han and Kim Young-hwan intensify #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/L_yUYjgn_5E",
-      "view_count": 21000,
-      "view_delta": 1000,
+      "view_count": 23000,
+      "view_delta": 2000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,7 +17,18 @@
       "id": "vPje8jMY9l4",
       "title": "Visiting Victim, Buying Sneakers, and Demanding Settlement #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/vPje8jMY9l4",
-      "view_count": 3100,
+      "view_count": 5000,
+      "view_delta": 1900,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "VHBkuTj0BqU",
+      "title": "$50 Million Won Voice Phishing Scam Confirmed #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/VHBkuTj0BqU",
+      "view_count": 18000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -31,8 +42,7 @@
       "view_count": 35000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -50,16 +60,6 @@
       "title": "Hyeondo Recycling Center Sparks Resident Backlash: Mayor-elect Lee Jang-seop Initiates Full Revie...",
       "url": "https://www.youtube.com/shorts/xiu1FGD5qDc",
       "view_count": 18000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "VHBkuTj0BqU",
-      "title": "$50 Million Won Voice Phishing Scam Confirmed #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/VHBkuTj0BqU",
-      "view_count": 17000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
