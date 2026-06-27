@@ -1,34 +1,23 @@
 {
-  "collected_at": "2026-06-27T06:12:01.761032+09:00",
+  "collected_at": "2026-06-27T11:04:00.993836+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "L_yUYjgn_5E",
-      "title": "Investigations into Shin Yong-han and Kim Young-hwan intensify #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/L_yUYjgn_5E",
-      "view_count": 23000,
-      "view_delta": 2000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "vPje8jMY9l4",
       "title": "Visiting Victim, Buying Sneakers, and Demanding Settlement #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/vPje8jMY9l4",
-      "view_count": 5000,
-      "view_delta": 1900,
+      "view_count": 7400,
+      "view_delta": 2400,
       "comment_count": 0,
       "channel": "",
       "hot": true
     },
     {
       "type": "youtube",
-      "id": "VHBkuTj0BqU",
-      "title": "$50 Million Won Voice Phishing Scam Confirmed #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/VHBkuTj0BqU",
-      "view_count": 18000,
+      "id": "L_yUYjgn_5E",
+      "title": "Investigations into Shin Yong-han and Kim Young-hwan intensify #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/L_yUYjgn_5E",
+      "view_count": 24000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -42,7 +31,8 @@
       "view_count": 35000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -50,6 +40,16 @@
       "title": "High-Ranking Election Official's 'Daughter Hiring Scandal' Trial Drags into 3rd Year... \"Pre-Arra...",
       "url": "https://www.youtube.com/shorts/G29cGDc6YKk",
       "view_count": 34000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "VHBkuTj0BqU",
+      "title": "$50 Million Won Voice Phishing Scam Confirmed #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/VHBkuTj0BqU",
+      "view_count": 18000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
