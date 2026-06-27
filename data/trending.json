@@ -1,35 +1,13 @@
 {
-  "collected_at": "2026-06-28T01:54:45.713600+09:00",
+  "collected_at": "2026-06-28T05:48:23.642067+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "L_yUYjgn_5E",
-      "title": "Investigations into Shin Yong-han and Kim Young-hwan intensify #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/L_yUYjgn_5E",
-      "view_count": 28000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "vPje8jMY9l4",
       "title": "Visiting Victim, Buying Sneakers, and Demanding Settlement #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/vPje8jMY9l4",
-      "view_count": 13000,
+      "view_count": 14000,
       "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "e18lIbVwoyQ",
-      "title": "Phone Catches Fire After 2 Hours on Charger #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/e18lIbVwoyQ",
-      "view_count": 2000,
-      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +20,8 @@
       "view_count": 35000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -50,6 +29,17 @@
       "title": "High-Ranking Election Official's 'Daughter Hiring Scandal' Trial Drags into 3rd Year... \"Pre-Arra...",
       "url": "https://www.youtube.com/shorts/G29cGDc6YKk",
       "view_count": 34000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "L_yUYjgn_5E",
+      "title": "Investigations into Shin Yong-han and Kim Young-hwan intensify #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/L_yUYjgn_5E",
+      "view_count": 28000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -100,6 +90,16 @@
       "title": "의외로 잘하는 송민수 아나운서와 뚝딱거리는 최다원 아나운서   #mbc충북 #정오의희망곡 #최다원 #송민수 #아나운서 #운동 #헬스 #혈당",
       "url": "https://www.youtube.com/shorts/V_DyWzBqR3Y",
       "view_count": 5400,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "LDXmFzSm0hE",
+      "title": "Analysis of Chungbuk Superintendent Candidate Pledges #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/LDXmFzSm0hE",
+      "view_count": 2700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
