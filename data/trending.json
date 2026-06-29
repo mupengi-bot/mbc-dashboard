@@ -1,23 +1,12 @@
 {
-  "collected_at": "2026-06-30T00:26:59.369239+09:00",
+  "collected_at": "2026-06-30T03:02:55.402615+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "6sf7cOjXuyo",
-      "title": "38% of New Officers Are Women #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/6sf7cOjXuyo",
-      "view_count": 28000,
-      "view_delta": 22500,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "L_yUYjgn_5E",
       "title": "Investigations into Shin Yong-han and Kim Young-hwan intensify #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/L_yUYjgn_5E",
-      "view_count": 38000,
+      "view_count": 39000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -25,10 +14,10 @@
     },
     {
       "type": "youtube",
-      "id": "vPje8jMY9l4",
-      "title": "Visiting Victim, Buying Sneakers, and Demanding Settlement #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/vPje8jMY9l4",
-      "view_count": 17000,
+      "id": "6sf7cOjXuyo",
+      "title": "38% of New Officers Are Women #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/6sf7cOjXuyo",
+      "view_count": 29000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -39,10 +28,11 @@
       "id": "_IyCjpaXITc",
       "title": "'Escaping the Heat': Crowds Out and About #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/_IyCjpaXITc",
-      "view_count": 760,
-      "view_delta": 205,
+      "view_count": 782,
+      "view_delta": 22,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -80,6 +70,16 @@
       "title": "Hyeondo Recycling Center Sparks Resident Backlash: Mayor-elect Lee Jang-seop Initiates Full Revie...",
       "url": "https://www.youtube.com/shorts/xiu1FGD5qDc",
       "view_count": 18000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "vPje8jMY9l4",
+      "title": "Visiting Victim, Buying Sneakers, and Demanding Settlement #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/vPje8jMY9l4",
+      "view_count": 17000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
