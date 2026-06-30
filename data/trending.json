@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-07-01T02:45:56.741158+09:00",
+  "collected_at": "2026-07-01T06:22:00.744163+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "Wukoma1OVrE",
-      "title": "Expecting 'Hundreds of Billions in Additional Tax Revenue & 8,000 New Jobs' #Shorts (MBC Chungbuk...",
-      "url": "https://www.youtube.com/shorts/Wukoma1OVrE",
-      "view_count": 7000,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "_IyCjpaXITc",
       "title": "'Escaping the Heat': Crowds Out and About #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/_IyCjpaXITc",
-      "view_count": 818,
-      "view_delta": 6,
+      "view_count": 822,
+      "view_delta": 4,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 35000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "Wukoma1OVrE",
+      "title": "Expecting 'Hundreds of Billions in Additional Tax Revenue & 8,000 New Jobs' #Shorts (MBC Chungbuk...",
+      "url": "https://www.youtube.com/shorts/Wukoma1OVrE",
+      "view_count": 7000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
