@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-07-04T18:58:31.885598+09:00",
+  "collected_at": "2026-07-04T21:57:08.736017+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "DfeDNhFNt5s",
       "title": "Alleged bribery and preferential treatment of a local businessman #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/DfeDNhFNt5s",
-      "view_count": 186000,
-      "view_delta": 26000,
+      "view_count": 196000,
+      "view_delta": 10000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,19 +17,19 @@
       "id": "3IyXhIFNRpk",
       "title": "Cabbage supply up, demand down #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/3IyXhIFNRpk",
-      "view_count": 32000,
-      "view_delta": 7000,
+      "view_count": 34000,
+      "view_delta": 2000,
       "comment_count": 0,
       "channel": "",
       "hot": true
     },
     {
       "type": "youtube",
-      "id": "lJX-rWBHNC0",
-      "title": "Deciding whether to continue the project based on public opinion #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/lJX-rWBHNC0",
-      "view_count": 54000,
-      "view_delta": 3000,
+      "id": "dCNd8gGD4po",
+      "title": "First Major Conglomerate Investment in Osong... Green Light for Bio Special Zone #Shorts (MBC Chu...",
+      "url": "https://www.youtube.com/shorts/dCNd8gGD4po",
+      "view_count": 18000,
+      "view_delta": 2000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -39,17 +39,7 @@
       "id": "RP5Orci5Z24",
       "title": "Fiscal Normalization Committee to Launch Soon... Efforts to Attract Investment #Shorts (MBC Chung...",
       "url": "https://www.youtube.com/shorts/RP5Orci5Z24",
-      "view_count": 247000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "dCNd8gGD4po",
-      "title": "First Major Conglomerate Investment in Osong... Green Light for Bio Special Zone #Shorts (MBC Chu...",
-      "url": "https://www.youtube.com/shorts/dCNd8gGD4po",
-      "view_count": 16000,
+      "view_count": 248000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": ""
@@ -59,8 +49,18 @@
       "id": "_IyCjpaXITc",
       "title": "'Escaping the Heat': Crowds Out and About #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/_IyCjpaXITc",
-      "view_count": 882,
-      "view_delta": 3,
+      "view_count": 883,
+      "view_delta": 1,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "lJX-rWBHNC0",
+      "title": "Deciding whether to continue the project based on public opinion #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/lJX-rWBHNC0",
+      "view_count": 54000,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": ""
     },
