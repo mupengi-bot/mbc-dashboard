@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-07-08T06:13:33.527803+09:00",
+  "collected_at": "2026-07-08T10:27:37.347987+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "RP5Orci5Z24",
       "title": "Fiscal Normalization Committee to Launch Soon... Efforts to Attract Investment #Shorts (MBC Chung...",
       "url": "https://www.youtube.com/shorts/RP5Orci5Z24",
-      "view_count": 285000,
+      "view_count": 288000,
       "view_delta": 3000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "DfeDNhFNt5s",
+      "title": "Alleged bribery and preferential treatment of a local businessman #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/DfeDNhFNt5s",
+      "view_count": 260000,
+      "view_delta": 2000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,19 +28,8 @@
       "id": "wdtO_k1G8vA",
       "title": "Bankrupt after just one year.. \"Only half of the deposit guaranteed\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/wdtO_k1G8vA",
-      "view_count": 80000,
+      "view_count": 81000,
       "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "8ScJMzwmkX8",
-      "title": "Over 500 Peaches Stolen... Half of This Year’s Harvest #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/8ScJMzwmkX8",
-      "view_count": 9700,
-      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -39,18 +39,8 @@
       "id": "J_KKVZbNw_I",
       "title": "Semiconductor over College.. Teens Dreaming of Becoming Masters #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/J_KKVZbNw_I",
-      "view_count": 6200,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "DfeDNhFNt5s",
-      "title": "Alleged bribery and preferential treatment of a local businessman #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/DfeDNhFNt5s",
-      "view_count": 258000,
-      "view_delta": 0,
+      "view_count": 6400,
+      "view_delta": 200,
       "comment_count": 0,
       "channel": ""
     },
@@ -86,20 +76,30 @@
     },
     {
       "type": "youtube",
-      "id": "06tt4cPXLHM",
-      "title": "Starting the 9th Popularly Elected Administration by Engaging with Residents and Frontline Admini...",
-      "url": "https://www.youtube.com/shorts/06tt4cPXLHM",
-      "view_count": 8900,
+      "id": "8ScJMzwmkX8",
+      "title": "Over 500 Peaches Stolen... Half of This Year’s Harvest #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/8ScJMzwmkX8",
+      "view_count": 9700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
     },
     {
       "type": "youtube",
-      "id": "qwKqG01oU4E",
-      "title": "Glocal University designation cancellation spells end for integration budget #Shorts (MBC Chungbu...",
-      "url": "https://www.youtube.com/shorts/qwKqG01oU4E",
-      "view_count": 1500,
+      "id": "DR2UKxVDRLg",
+      "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
+      "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
+      "view_count": 9700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "06tt4cPXLHM",
+      "title": "Starting the 9th Popularly Elected Administration by Engaging with Residents and Frontline Admini...",
+      "url": "https://www.youtube.com/shorts/06tt4cPXLHM",
+      "view_count": 8900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
