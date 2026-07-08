@@ -1,35 +1,13 @@
 {
-  "collected_at": "2026-07-08T22:27:02.515495+09:00",
+  "collected_at": "2026-07-09T02:17:36.843336+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "J_KKVZbNw_I",
       "title": "Semiconductor over College.. Teens Dreaming of Becoming Masters #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/J_KKVZbNw_I",
-      "view_count": 12000,
+      "view_count": 14000,
       "view_delta": 2000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "JPx3IHuWa9E",
-      "title": "7.5% Drop in Local Business Revenue When Big-Box Stores Close #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/JPx3IHuWa9E",
-      "view_count": 5200,
-      "view_delta": 1500,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "8ScJMzwmkX8",
-      "title": "Over 500 Peaches Stolen... Half of This Year’s Harvest #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/8ScJMzwmkX8",
-      "view_count": 9900,
-      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -39,18 +17,40 @@
       "id": "DfeDNhFNt5s",
       "title": "Alleged bribery and preferential treatment of a local businessman #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/DfeDNhFNt5s",
-      "view_count": 262000,
-      "view_delta": 0,
+      "view_count": 263000,
+      "view_delta": 1000,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
       "id": "wdtO_k1G8vA",
       "title": "Bankrupt after just one year.. \"Only half of the deposit guaranteed\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/wdtO_k1G8vA",
-      "view_count": 82000,
-      "view_delta": 0,
+      "view_count": 83000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "JPx3IHuWa9E",
+      "title": "7.5% Drop in Local Business Revenue When Big-Box Stores Close #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/JPx3IHuWa9E",
+      "view_count": 6000,
+      "view_delta": 800,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "8ScJMzwmkX8",
+      "title": "Over 500 Peaches Stolen... Half of This Year’s Harvest #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/8ScJMzwmkX8",
+      "view_count": 10000,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": ""
     },
