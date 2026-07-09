@@ -1,35 +1,13 @@
 {
-  "collected_at": "2026-07-09T05:55:04.412742+09:00",
+  "collected_at": "2026-07-09T10:49:38.899939+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "J_KKVZbNw_I",
       "title": "Semiconductor over College.. Teens Dreaming of Becoming Masters #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/J_KKVZbNw_I",
-      "view_count": 16000,
+      "view_count": 18000,
       "view_delta": 2000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "JPx3IHuWa9E",
-      "title": "7.5% Drop in Local Business Revenue When Big-Box Stores Close #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/JPx3IHuWa9E",
-      "view_count": 6100,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "9cnP2xrhWdU",
-      "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
-      "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
-      "view_count": 1700,
-      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +20,8 @@
       "view_count": 263000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 83000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +80,26 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "06tt4cPXLHM",
+      "title": "Starting the 9th Popularly Elected Administration by Engaging with Residents and Frontline Admini...",
+      "url": "https://www.youtube.com/shorts/06tt4cPXLHM",
+      "view_count": 8900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "vKhv2rYe5Mg",
+      "title": "수능금지곡 트로트, 신고할거야-미니마니 #mbc충북 #즐거운오후 #트로트 #미니마니 #유수현 #한송이",
+      "url": "https://www.youtube.com/shorts/vKhv2rYe5Mg",
+      "view_count": 6500,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
