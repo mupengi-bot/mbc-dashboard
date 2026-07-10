@@ -1,16 +1,48 @@
 {
-  "collected_at": "2026-07-11T02:39:46.064518+09:00",
+  "collected_at": "2026-07-11T05:58:37.109386+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "2Bs3cXJGqG4",
       "title": "Checking occupied long-term tents along the riverbank one by one #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/2Bs3cXJGqG4",
-      "view_count": 238000,
-      "view_delta": 74000,
+      "view_count": 270000,
+      "view_delta": 32000,
       "comment_count": 0,
       "channel": "",
       "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "IfLDGGrefVc",
+      "title": "Playgrounds flooded, classroom ceilings collapsing.. Heavy rain damage across North Chungcheong P...",
+      "url": "https://www.youtube.com/shorts/IfLDGGrefVc",
+      "view_count": 13000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "JPx3IHuWa9E",
+      "title": "7.5% Drop in Local Business Revenue When Big-Box Stores Close #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/JPx3IHuWa9E",
+      "view_count": 9400,
+      "view_delta": 200,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "lm8shDlMuek",
+      "title": "People Power Party Supreme Council: \"Strict Measures Against Misconduct\" #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/lm8shDlMuek",
+      "view_count": 3500,
+      "view_delta": 200,
+      "comment_count": 0,
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -18,49 +50,7 @@
       "title": "Bankrupt after just one year.. \"Only half of the deposit guaranteed\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/wdtO_k1G8vA",
       "view_count": 87000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "J_KKVZbNw_I",
-      "title": "Semiconductor over College.. Teens Dreaming of Becoming Masters #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/J_KKVZbNw_I",
-      "view_count": 20000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "_DvpRXP0zzw",
-      "title": "38.6% of Waste in Shops and Houses Not Properly Recycled #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/_DvpRXP0zzw",
-      "view_count": 16000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "lm8shDlMuek",
-      "title": "People Power Party Supreme Council: \"Strict Measures Against Misconduct\" #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/lm8shDlMuek",
-      "view_count": 3300,
-      "view_delta": 400,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "JPx3IHuWa9E",
-      "title": "7.5% Drop in Local Business Revenue When Big-Box Stores Close #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/JPx3IHuWa9E",
-      "view_count": 9200,
-      "view_delta": 300,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": ""
     },
@@ -76,10 +66,20 @@
     },
     {
       "type": "youtube",
-      "id": "IfLDGGrefVc",
-      "title": "Playgrounds flooded, classroom ceilings collapsing.. Heavy rain damage across North Chungcheong P...",
-      "url": "https://www.youtube.com/shorts/IfLDGGrefVc",
-      "view_count": 12000,
+      "id": "J_KKVZbNw_I",
+      "title": "Semiconductor over College.. Teens Dreaming of Becoming Masters #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/J_KKVZbNw_I",
+      "view_count": 20000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "_DvpRXP0zzw",
+      "title": "38.6% of Waste in Shops and Houses Not Properly Recycled #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/_DvpRXP0zzw",
+      "view_count": 16000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
