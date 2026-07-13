@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-07-13T05:34:40.874946+09:00",
+  "collected_at": "2026-07-13T10:30:11.506086+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "2Bs3cXJGqG4",
       "title": "Checking occupied long-term tents along the riverbank one by one #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/2Bs3cXJGqG4",
-      "view_count": 715000,
-      "view_delta": 11000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "IfLDGGrefVc",
-      "title": "Playgrounds flooded, classroom ceilings collapsing.. Heavy rain damage across North Chungcheong P...",
-      "url": "https://www.youtube.com/shorts/IfLDGGrefVc",
-      "view_count": 20000,
-      "view_delta": 1000,
+      "view_count": 722000,
+      "view_delta": 7000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -28,8 +17,8 @@
       "id": "lm8shDlMuek",
       "title": "People Power Party Supreme Council: \"Strict Measures Against Misconduct\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/lm8shDlMuek",
-      "view_count": 7900,
-      "view_delta": 200,
+      "view_count": 8600,
+      "view_delta": 700,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 88000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -50,6 +40,16 @@
       "title": "Cabbage supply up, demand down #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/3IyXhIFNRpk",
       "view_count": 53000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "IfLDGGrefVc",
+      "title": "Playgrounds flooded, classroom ceilings collapsing.. Heavy rain damage across North Chungcheong P...",
+      "url": "https://www.youtube.com/shorts/IfLDGGrefVc",
+      "view_count": 20000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
