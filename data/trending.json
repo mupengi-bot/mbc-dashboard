@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-07-14T22:03:42.494719+09:00",
+  "collected_at": "2026-07-15T02:01:16.314489+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "2Bs3cXJGqG4",
       "title": "Checking occupied long-term tents along the riverbank one by one #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/2Bs3cXJGqG4",
-      "view_count": 765000,
-      "view_delta": 5000,
+      "view_count": 782000,
+      "view_delta": 17000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,32 +17,11 @@
       "id": "20aQWabmfTo",
       "title": "Chungcheongbuk-do raises emergency level to 2... All-out response #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/20aQWabmfTo",
-      "view_count": 3400,
+      "view_count": 4300,
       "view_delta": 900,
       "comment_count": 0,
       "channel": "",
       "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "Ki9aAj_eMBI",
-      "title": "Drainage Pump Failure Leads to Instant Flooding #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/Ki9aAj_eMBI",
-      "view_count": 3300,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "RWO958fucrs",
-      "title": "Chronic Aftereffects: \"Worsens as the Anniversary Approaches\" #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/RWO958fucrs",
-      "view_count": 2400,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": ""
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 20000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +80,26 @@
       "title": "People Power Party Supreme Council: \"Strict Measures Against Misconduct\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/lm8shDlMuek",
       "view_count": 9200,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "vKhv2rYe5Mg",
+      "title": "수능금지곡 트로트, 신고할거야-미니마니 #mbc충북 #즐거운오후 #트로트 #미니마니 #유수현 #한송이",
+      "url": "https://www.youtube.com/shorts/vKhv2rYe5Mg",
+      "view_count": 6500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "9cnP2xrhWdU",
+      "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
+      "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
+      "view_count": 4900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
