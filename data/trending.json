@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-07-16T10:25:57.169343+09:00",
+  "collected_at": "2026-07-16T15:09:13.991590+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "2Bs3cXJGqG4",
       "title": "Checking occupied long-term tents along the riverbank one by one #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/2Bs3cXJGqG4",
-      "view_count": 926000,
-      "view_delta": 13000,
+      "view_count": 938000,
+      "view_delta": 12000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "4Yx7TobNIio",
+      "title": "3-Car Articulated Bus: Regulatory Hurdles and Demand Concerns #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/4Yx7TobNIio",
+      "view_count": 17000,
+      "view_delta": 2000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,8 +28,8 @@
       "id": "Ki9aAj_eMBI",
       "title": "Drainage Pump Failure Leads to Instant Flooding #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Ki9aAj_eMBI",
-      "view_count": 12000,
-      "view_delta": 3600,
+      "view_count": 14000,
+      "view_delta": 2000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -28,19 +39,28 @@
       "id": "NcftkiyBdwU",
       "title": "Complex Procedures for Removing and Disposing of Illegal Tents #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/NcftkiyBdwU",
-      "view_count": 23000,
+      "view_count": 24000,
       "view_delta": 1000,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
       "id": "20aQWabmfTo",
       "title": "Chungcheongbuk-do raises emergency level to 2... All-out response #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/20aQWabmfTo",
-      "view_count": 9100,
-      "view_delta": 600,
+      "view_count": 9400,
+      "view_delta": 300,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "9cnP2xrhWdU",
+      "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
+      "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
+      "view_count": 5300,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": ""
     },
@@ -50,26 +70,6 @@
       "title": "Playgrounds flooded, classroom ceilings collapsing.. Heavy rain damage across North Chungcheong P...",
       "url": "https://www.youtube.com/shorts/IfLDGGrefVc",
       "view_count": 20000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "_DvpRXP0zzw",
-      "title": "38.6% of Waste in Shops and Houses Not Properly Recycled #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/_DvpRXP0zzw",
-      "view_count": 17000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "4Yx7TobNIio",
-      "title": "3-Car Articulated Bus: Regulatory Hurdles and Demand Concerns #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/4Yx7TobNIio",
-      "view_count": 15000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
