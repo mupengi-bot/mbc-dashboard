@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-07-16T05:48:32.436978+09:00",
+  "collected_at": "2026-07-16T10:25:57.169343+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "2Bs3cXJGqG4",
       "title": "Checking occupied long-term tents along the riverbank one by one #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/2Bs3cXJGqG4",
-      "view_count": 913000,
+      "view_count": 926000,
       "view_delta": 13000,
       "comment_count": 0,
       "channel": "",
@@ -17,19 +17,8 @@
       "id": "Ki9aAj_eMBI",
       "title": "Drainage Pump Failure Leads to Instant Flooding #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Ki9aAj_eMBI",
-      "view_count": 8400,
-      "view_delta": 1200,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "20aQWabmfTo",
-      "title": "Chungcheongbuk-do raises emergency level to 2... All-out response #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/20aQWabmfTo",
-      "view_count": 8500,
-      "view_delta": 200,
+      "view_count": 12000,
+      "view_delta": 3600,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -39,8 +28,19 @@
       "id": "NcftkiyBdwU",
       "title": "Complex Procedures for Removing and Disposing of Illegal Tents #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/NcftkiyBdwU",
-      "view_count": 22000,
-      "view_delta": 0,
+      "view_count": 23000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "20aQWabmfTo",
+      "title": "Chungcheongbuk-do raises emergency level to 2... All-out response #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/20aQWabmfTo",
+      "view_count": 9100,
+      "view_delta": 600,
       "comment_count": 0,
       "channel": ""
     },
