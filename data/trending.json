@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-07-20T05:36:55.606445+09:00",
+  "collected_at": "2026-07-20T10:52:15.884472+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "RvzUOElEuOQ",
-      "title": "Invalid ballot recount results: 2,277, same as original count #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/RvzUOElEuOQ",
-      "view_count": 23000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "NcftkiyBdwU",
@@ -40,6 +29,17 @@
       "title": "Police Presence During Election Campaign.. Lied About Being a 'Office Worker' #Shorts (MBC Chungb...",
       "url": "https://www.youtube.com/shorts/VpoZ-hL6rVA",
       "view_count": 24000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "RvzUOElEuOQ",
+      "title": "Invalid ballot recount results: 2,277, same as original count #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/RvzUOElEuOQ",
+      "view_count": 23000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
