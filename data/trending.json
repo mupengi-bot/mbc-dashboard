@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-07-21T02:18:41.664470+09:00",
+  "collected_at": "2026-07-21T05:59:24.710865+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "9cnP2xrhWdU",
+      "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
+      "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
+      "view_count": 6800,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "ki9irwoCYWE",
       "title": "The First Special Exhibition Since Being Designated a 'UNESCO Creative City' #Shorts (MBC Chungbu...",
       "url": "https://www.youtube.com/shorts/ki9irwoCYWE",
-      "view_count": 828,
-      "view_delta": 7,
+      "view_count": 831,
+      "view_delta": 3,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 24000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9700,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "9cnP2xrhWdU",
-      "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
-      "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
-      "view_count": 6700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
