@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-07-21T22:13:10.296212+09:00",
+  "collected_at": "2026-07-22T02:05:47.728623+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "zubZiF9d20k",
       "title": "Only Found Out He Was a 'City Council Member' One Month After Election #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/zubZiF9d20k",
-      "view_count": 47000,
-      "view_delta": 19000,
+      "view_count": 68000,
+      "view_delta": 21000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "4Yx7TobNIio",
+      "title": "3-Car Articulated Bus: Regulatory Hurdles and Demand Concerns #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/4Yx7TobNIio",
+      "view_count": 24000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,8 +28,8 @@
       "id": "ki9irwoCYWE",
       "title": "The First Special Exhibition Since Being Designated a 'UNESCO Creative City' #Shorts (MBC Chungbu...",
       "url": "https://www.youtube.com/shorts/ki9irwoCYWE",
-      "view_count": 857,
-      "view_delta": 1,
+      "view_count": 862,
+      "view_delta": 5,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -59,16 +69,6 @@
       "id": "RvzUOElEuOQ",
       "title": "Invalid ballot recount results: 2,277, same as original count #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/RvzUOElEuOQ",
-      "view_count": 23000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "4Yx7TobNIio",
-      "title": "3-Car Articulated Bus: Regulatory Hurdles and Demand Concerns #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/4Yx7TobNIio",
       "view_count": 23000,
       "view_delta": 0,
       "comment_count": 0,
