@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-07-26T01:43:41.366997+09:00",
+  "collected_at": "2026-07-26T05:39:24.685861+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "8kGB_6jCNao",
       "title": "\"Thud\" after falling on a slow-moving bus... \"Just give me 50,000 won\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/8kGB_6jCNao",
-      "view_count": 535000,
-      "view_delta": 28000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "9cnP2xrhWdU",
-      "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
-      "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
-      "view_count": 10000,
-      "view_delta": 1300,
+      "view_count": 561000,
+      "view_delta": 26000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -28,7 +17,7 @@
       "id": "ki9irwoCYWE",
       "title": "The First Special Exhibition Since Being Designated a 'UNESCO Creative City' #Shorts (MBC Chungbu...",
       "url": "https://www.youtube.com/shorts/ki9irwoCYWE",
-      "view_count": 902,
+      "view_count": 903,
       "view_delta": 1,
       "comment_count": 0,
       "channel": "",
@@ -42,7 +31,8 @@
       "view_count": 112000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -80,6 +70,16 @@
       "title": "Cadets are leaving, but the airfield stays? Local residents push back hard #Shorts (MBC Chungbuk ...",
       "url": "https://www.youtube.com/shorts/0-3mJBEmOxk",
       "view_count": 18000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "9cnP2xrhWdU",
+      "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
+      "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
+      "view_count": 10000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
