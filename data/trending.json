@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-07-26T15:28:08.068080+09:00",
+  "collected_at": "2026-07-26T18:49:41.962857+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "8kGB_6jCNao",
       "title": "\"Thud\" after falling on a slow-moving bus... \"Just give me 50,000 won\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/8kGB_6jCNao",
-      "view_count": 647000,
-      "view_delta": 43000,
+      "view_count": 657000,
+      "view_delta": 10000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "GgzbI5WrJt8",
+      "title": "쇼미더곶감, 영동할매 크루",
+      "url": "https://www.youtube.com/shorts/GgzbI5WrJt8",
+      "view_count": 296,
+      "view_delta": 1,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -18,7 +29,7 @@
       "title": "Only Found Out He Was a 'City Council Member' One Month After Election #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/zubZiF9d20k",
       "view_count": 113000,
-      "view_delta": 1000,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "Expectations for Improved Accessibility in Northern Chungbuk and Southern Gangwon #Shorts (MBC Ch...",
       "url": "https://www.youtube.com/shorts/jGj5MlC02W8",
       "view_count": 3200,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "sv0nOsMojfE",
-      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
-      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
-      "view_count": 2800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
