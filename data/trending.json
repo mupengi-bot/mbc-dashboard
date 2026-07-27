@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-07-27T10:50:10.725241+09:00",
+  "collected_at": "2026-07-27T15:53:55.472377+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "8kGB_6jCNao",
       "title": "\"Thud\" after falling on a slow-moving bus... \"Just give me 50,000 won\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/8kGB_6jCNao",
-      "view_count": 687000,
-      "view_delta": 11000,
+      "view_count": 690000,
+      "view_delta": 3000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "zubZiF9d20k",
+      "title": "Only Found Out He Was a 'City Council Member' One Month After Election #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/zubZiF9d20k",
+      "view_count": 115000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -18,17 +29,6 @@
       "title": "Prosecution rejects warrant, citing \"separate investigation with different crime period\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/xUdhcw6jxLY",
       "view_count": 26000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "zubZiF9d20k",
-      "title": "Only Found Out He Was a 'City Council Member' One Month After Election #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/zubZiF9d20k",
-      "view_count": 114000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": "",
@@ -40,16 +40,6 @@
       "title": "'Filmed 41 People Illegally' in Training Facilities and Restrooms #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Ntf_VIHA1i8",
       "view_count": 25000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "RvzUOElEuOQ",
-      "title": "Invalid ballot recount results: 2,277, same as original count #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/RvzUOElEuOQ",
-      "view_count": 23000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -100,6 +90,16 @@
       "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
       "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
       "view_count": 2800,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "dO4yR5JOoc4",
+      "title": "Interactive Digital Marine Experience with Undersea Robots #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/dO4yR5JOoc4",
+      "view_count": 2100,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
