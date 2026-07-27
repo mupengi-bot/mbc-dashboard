@@ -1,35 +1,13 @@
 {
-  "collected_at": "2026-07-27T23:08:06.162669+09:00",
+  "collected_at": "2026-07-28T02:28:25.361767+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "k2YcVVpKTmg",
       "title": "Foreign National Suspect Arrested in About an Hour #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/k2YcVVpKTmg",
-      "view_count": 3800,
-      "view_delta": 1400,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "XAc1zFxE_w8",
-      "title": "94 Health Centers in Chungbuk, but Only 20 Public Health Doctors #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/XAc1zFxE_w8",
-      "view_count": 3200,
-      "view_delta": 600,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "ki9irwoCYWE",
-      "title": "The First Special Exhibition Since Being Designated a 'UNESCO Creative City' #Shorts (MBC Chungbu...",
-      "url": "https://www.youtube.com/shorts/ki9irwoCYWE",
-      "view_count": 907,
-      "view_delta": 1,
+      "view_count": 5400,
+      "view_delta": 1600,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -39,8 +17,30 @@
       "id": "8kGB_6jCNao",
       "title": "\"Thud\" after falling on a slow-moving bus... \"Just give me 50,000 won\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/8kGB_6jCNao",
-      "view_count": 696000,
-      "view_delta": 0,
+      "view_count": 697000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "XAc1zFxE_w8",
+      "title": "94 Health Centers in Chungbuk, but Only 20 Public Health Doctors #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/XAc1zFxE_w8",
+      "view_count": 3900,
+      "view_delta": 700,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "ki9irwoCYWE",
+      "title": "The First Special Exhibition Since Being Designated a 'UNESCO Creative City' #Shorts (MBC Chungbu...",
+      "url": "https://www.youtube.com/shorts/ki9irwoCYWE",
+      "view_count": 908,
+      "view_delta": 1,
       "comment_count": 0,
       "channel": ""
     },
