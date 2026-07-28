@@ -1,13 +1,35 @@
 {
-  "collected_at": "2026-07-29T02:17:16.985586+09:00",
+  "collected_at": "2026-07-29T05:57:26.031495+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "IuXWQR6vxng",
       "title": "Mobile phone & PC forensics.. Intense questioning on additional victims #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/IuXWQR6vxng",
-      "view_count": 4500,
-      "view_delta": 1200,
+      "view_count": 4900,
+      "view_delta": 400,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "XAc1zFxE_w8",
+      "title": "94 Health Centers in Chungbuk, but Only 20 Public Health Doctors #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/XAc1zFxE_w8",
+      "view_count": 7100,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "tzoRVE3KGYg",
+      "title": "100 Times Brighter Than the Existing Pohang Accelerator #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/tzoRVE3KGYg",
+      "view_count": 2000,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -18,39 +40,7 @@
       "title": "\"Thud\" after falling on a slow-moving bus... \"Just give me 50,000 won\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/8kGB_6jCNao",
       "view_count": 701000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "xUdhcw6jxLY",
-      "title": "Prosecution rejects warrant, citing \"separate investigation with different crime period\" #Shorts ...",
-      "url": "https://www.youtube.com/shorts/xUdhcw6jxLY",
-      "view_count": 27000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "tzoRVE3KGYg",
-      "title": "100 Times Brighter Than the Existing Pohang Accelerator #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/tzoRVE3KGYg",
-      "view_count": 1900,
-      "view_delta": 400,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "XAc1zFxE_w8",
-      "title": "94 Health Centers in Chungbuk, but Only 20 Public Health Doctors #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/XAc1zFxE_w8",
-      "view_count": 7000,
-      "view_delta": 100,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": ""
     },
@@ -60,6 +50,16 @@
       "title": "Only Found Out He Was a 'City Council Member' One Month After Election #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/zubZiF9d20k",
       "view_count": 116000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "xUdhcw6jxLY",
+      "title": "Prosecution rejects warrant, citing \"separate investigation with different crime period\" #Shorts ...",
+      "url": "https://www.youtube.com/shorts/xUdhcw6jxLY",
+      "view_count": 27000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
