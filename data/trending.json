@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-07-28T19:22:01.291444+09:00",
+  "collected_at": "2026-07-28T22:27:25.478835+09:00",
   "items": [
     {
       "type": "youtube",
-      "id": "k2YcVVpKTmg",
-      "title": "Foreign National Suspect Arrested in About an Hour #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/k2YcVVpKTmg",
-      "view_count": 17000,
-      "view_delta": 2000,
+      "id": "zubZiF9d20k",
+      "title": "Only Found Out He Was a 'City Council Member' One Month After Election #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/zubZiF9d20k",
+      "view_count": 116000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,18 +17,7 @@
       "id": "IuXWQR6vxng",
       "title": "Mobile phone & PC forensics.. Intense questioning on additional victims #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/IuXWQR6vxng",
-      "view_count": 2300,
-      "view_delta": 1498,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "8kGB_6jCNao",
-      "title": "\"Thud\" after falling on a slow-moving bus... \"Just give me 50,000 won\" #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/8kGB_6jCNao",
-      "view_count": 700000,
+      "view_count": 3300,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -39,27 +28,28 @@
       "id": "tzoRVE3KGYg",
       "title": "100 Times Brighter Than the Existing Pohang Accelerator #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/tzoRVE3KGYg",
-      "view_count": 1100,
-      "view_delta": 481,
+      "view_count": 1500,
+      "view_delta": 400,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
       "id": "XAc1zFxE_w8",
       "title": "94 Health Centers in Chungbuk, but Only 20 Public Health Doctors #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/XAc1zFxE_w8",
-      "view_count": 6700,
-      "view_delta": 300,
+      "view_count": 6900,
+      "view_delta": 200,
       "comment_count": 0,
       "channel": ""
     },
     {
       "type": "youtube",
-      "id": "zubZiF9d20k",
-      "title": "Only Found Out He Was a 'City Council Member' One Month After Election #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/zubZiF9d20k",
-      "view_count": 115000,
+      "id": "8kGB_6jCNao",
+      "title": "\"Thud\" after falling on a slow-moving bus... \"Just give me 50,000 won\" #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/8kGB_6jCNao",
+      "view_count": 700000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -80,6 +70,16 @@
       "title": "Cadets are leaving, but the airfield stays? Local residents push back hard #Shorts (MBC Chungbuk ...",
       "url": "https://www.youtube.com/shorts/0-3mJBEmOxk",
       "view_count": 19000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "k2YcVVpKTmg",
+      "title": "Foreign National Suspect Arrested in About an Hour #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/k2YcVVpKTmg",
+      "view_count": 17000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
