@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-07-30T22:24:01.652265+09:00",
+  "collected_at": "2026-07-31T02:13:37.650338+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "AmiRFzmvCXk",
       "title": "$1 Billion Won in Sunk Costs After Project Scrapped #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/AmiRFzmvCXk",
-      "view_count": 12000,
-      "view_delta": 3600,
+      "view_count": 15000,
+      "view_delta": 3000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,18 +17,7 @@
       "id": "a2lddT5f5EQ",
       "title": "Construction Halted After Audit Reveals \"Missing Use Approval\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/a2lddT5f5EQ",
-      "view_count": 17000,
-      "view_delta": 2000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "IuXWQR6vxng",
-      "title": "Mobile phone & PC forensics.. Intense questioning on additional victims #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/IuXWQR6vxng",
-      "view_count": 13000,
+      "view_count": 18000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -36,20 +25,21 @@
     },
     {
       "type": "youtube",
-      "id": "XAc1zFxE_w8",
-      "title": "94 Health Centers in Chungbuk, but Only 20 Public Health Doctors #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/XAc1zFxE_w8",
-      "view_count": 7800,
-      "view_delta": 100,
+      "id": "fuxDGveBWqg",
+      "title": "Police: \"Suspect Knew Victim Was a Middle Schooler\" #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/fuxDGveBWqg",
+      "view_count": 17000,
+      "view_delta": 1000,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
       "id": "tzoRVE3KGYg",
       "title": "100 Times Brighter Than the Existing Pohang Accelerator #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/tzoRVE3KGYg",
-      "view_count": 3200,
+      "view_count": 3300,
       "view_delta": 100,
       "comment_count": 0,
       "channel": ""
@@ -86,10 +76,10 @@
     },
     {
       "type": "youtube",
-      "id": "fuxDGveBWqg",
-      "title": "Police: \"Suspect Knew Victim Was a Middle Schooler\" #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/fuxDGveBWqg",
-      "view_count": 16000,
+      "id": "IuXWQR6vxng",
+      "title": "Mobile phone & PC forensics.. Intense questioning on additional victims #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/IuXWQR6vxng",
+      "view_count": 13000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -100,6 +90,16 @@
       "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
       "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
       "view_count": 12000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "DR2UKxVDRLg",
+      "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
+      "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
+      "view_count": 9700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
