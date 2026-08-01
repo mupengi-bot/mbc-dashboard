@@ -1,39 +1,6 @@
 {
-  "collected_at": "2026-08-01T15:19:29.247948+09:00",
+  "collected_at": "2026-08-01T18:48:16.023762+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "fuxDGveBWqg",
-      "title": "Police: \"Suspect Knew Victim Was a Middle Schooler\" #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/fuxDGveBWqg",
-      "view_count": 22000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "fUhftZ9s2iU",
-      "title": "Connecting Masters and Youth to Cultivate 'Young Masters' #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/fUhftZ9s2iU",
-      "view_count": 1600,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "7shxjzG5vNQ",
-      "title": "20.8 Billion Won Price Gap for Entire Site... Concerns Over Deadlock in Negotiations #Shorts (MBC...",
-      "url": "https://www.youtube.com/shorts/7shxjzG5vNQ",
-      "view_count": 1100,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "8kGB_6jCNao",
@@ -42,7 +9,8 @@
       "view_count": 708000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -52,13 +20,25 @@
       "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
       "id": "a2lddT5f5EQ",
       "title": "Construction Halted After Audit Reveals \"Missing Use Approval\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/a2lddT5f5EQ",
+      "view_count": 22000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "fuxDGveBWqg",
+      "title": "Police: \"Suspect Knew Victim Was a Middle Schooler\" #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/fuxDGveBWqg",
       "view_count": 22000,
       "view_delta": 0,
       "comment_count": 0,
@@ -100,6 +80,26 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "XAc1zFxE_w8",
+      "title": "94 Health Centers in Chungbuk, but Only 20 Public Health Doctors #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/XAc1zFxE_w8",
+      "view_count": 7900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "tzoRVE3KGYg",
+      "title": "100 Times Brighter Than the Existing Pohang Accelerator #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/tzoRVE3KGYg",
+      "view_count": 3800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
