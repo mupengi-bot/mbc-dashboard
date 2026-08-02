@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-08-03T01:45:00.186715+09:00",
+  "collected_at": "2026-08-03T05:41:50.837029+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "7shxjzG5vNQ",
-      "title": "20.8 Billion Won Price Gap for Entire Site... Concerns Over Deadlock in Negotiations #Shorts (MBC...",
-      "url": "https://www.youtube.com/shorts/7shxjzG5vNQ",
-      "view_count": 1800,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "8kGB_6jCNao",
@@ -42,7 +31,8 @@
       "view_count": 23000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -77,7 +67,7 @@
     {
       "type": "youtube",
       "id": "9cnP2xrhWdU",
-      "title": "가수의 꿈, 괴산에서 펼쳐라! 제4회 유기농 괴산가요제🎤 참가자 모집! | MBC충북",
+      "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
       "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
       "view_count": 12000,
       "view_delta": 0,
@@ -100,6 +90,16 @@
       "title": "94 Health Centers in Chungbuk, but Only 20 Public Health Doctors #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/XAc1zFxE_w8",
       "view_count": 7900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "tzoRVE3KGYg",
+      "title": "100 Times Brighter Than the Existing Pohang Accelerator #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/tzoRVE3KGYg",
+      "view_count": 3800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
