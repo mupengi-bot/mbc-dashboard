@@ -1,12 +1,23 @@
 {
-  "collected_at": "2026-08-02T18:47:36.963368+09:00",
+  "collected_at": "2026-08-02T21:55:25.581267+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "AmiRFzmvCXk",
+      "title": "$1 Billion Won in Sunk Costs After Project Scrapped #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/AmiRFzmvCXk",
+      "view_count": 26000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "7shxjzG5vNQ",
       "title": "20.8 Billion Won Price Gap for Entire Site... Concerns Over Deadlock in Negotiations #Shorts (MBC...",
       "url": "https://www.youtube.com/shorts/7shxjzG5vNQ",
-      "view_count": 1600,
+      "view_count": 1700,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -18,17 +29,6 @@
       "title": "\"Thud\" after falling on a slow-moving bus... \"Just give me 50,000 won\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/8kGB_6jCNao",
       "view_count": 708000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "AmiRFzmvCXk",
-      "title": "$1 Billion Won in Sunk Costs After Project Scrapped #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/AmiRFzmvCXk",
-      "view_count": 25000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": "",
