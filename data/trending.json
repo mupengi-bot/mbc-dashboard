@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-08-04T02:45:43.525219+09:00",
+  "collected_at": "2026-08-04T05:53:17.718616+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "7shxjzG5vNQ",
-      "title": "20.8 Billion Won Price Gap for Entire Site... Concerns Over Deadlock in Negotiations #Shorts (MBC...",
-      "url": "https://www.youtube.com/shorts/7shxjzG5vNQ",
-      "view_count": 2100,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "8kGB_6jCNao",
@@ -42,7 +31,8 @@
       "view_count": 23000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "94 Health Centers in Chungbuk, but Only 20 Public Health Doctors #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/XAc1zFxE_w8",
       "view_count": 7900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "tzoRVE3KGYg",
+      "title": "100 Times Brighter Than the Existing Pohang Accelerator #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/tzoRVE3KGYg",
+      "view_count": 3800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
