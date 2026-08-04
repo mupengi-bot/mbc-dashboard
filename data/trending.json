@@ -1,23 +1,12 @@
 {
-  "collected_at": "2026-08-05T02:28:10.336773+09:00",
+  "collected_at": "2026-08-05T06:00:52.553637+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "nZFB9pMBQAs",
-      "title": "시간이 지나도 더 깊어지는 보컬, 소냐의 라이브 뮤지컬 그 자체 #mbc충북 #정오의희망곡 #소냐",
-      "url": "https://www.youtube.com/shorts/nZFB9pMBQAs",
-      "view_count": 1600,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "ODSAqfGy_6M",
       "title": "Setting a record with a new jumping technique learned two months before the competition #Shorts (...",
       "url": "https://www.youtube.com/shorts/ODSAqfGy_6M",
-      "view_count": 1200,
+      "view_count": 1300,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -28,8 +17,8 @@
       "id": "3Ylg7jP3hFw",
       "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
       "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
-      "view_count": 319,
-      "view_delta": 19,
+      "view_count": 323,
+      "view_delta": 4,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 26000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "tzoRVE3KGYg",
+      "title": "100 Times Brighter Than the Existing Pohang Accelerator #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/tzoRVE3KGYg",
+      "view_count": 3900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
