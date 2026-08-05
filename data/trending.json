@@ -1,13 +1,35 @@
 {
-  "collected_at": "2026-08-05T19:23:18.830494+09:00",
+  "collected_at": "2026-08-05T22:39:25.878593+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "N1laN6J9Nio",
+      "title": "'2026 Jikji Culture Festival' 9/4/2026 ~ 9/6 | Cheongju, home to SK Hynix! The core of the AI era...",
+      "url": "https://www.youtube.com/shorts/N1laN6J9Nio",
+      "view_count": 2000,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "qbs0R6Bz3kw",
+      "title": "More Than Double the Actual Number Entered Due to Calculation Error #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/qbs0R6Bz3kw",
+      "view_count": 946,
+      "view_delta": 94,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "3Ylg7jP3hFw",
       "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
       "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
-      "view_count": 336,
-      "view_delta": 5,
+      "view_count": 344,
+      "view_delta": 8,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -20,8 +42,7 @@
       "view_count": 26000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -31,8 +52,7 @@
       "view_count": 23000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -80,26 +100,6 @@
       "title": "100 Times Brighter Than the Existing Pohang Accelerator #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/tzoRVE3KGYg",
       "view_count": 3900,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "sv0nOsMojfE",
-      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
-      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
-      "view_count": 2900,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "7shxjzG5vNQ",
-      "title": "20.8 Billion Won Price Gap for Entire Site... Concerns Over Deadlock in Negotiations #Shorts (MBC...",
-      "url": "https://www.youtube.com/shorts/7shxjzG5vNQ",
-      "view_count": 2200,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
