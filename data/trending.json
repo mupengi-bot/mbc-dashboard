@@ -1,13 +1,35 @@
 {
-  "collected_at": "2026-08-06T15:21:38.717806+09:00",
+  "collected_at": "2026-08-06T19:25:29.896722+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "vFvxLHXLLQM",
+      "title": "Previous Owner: \"Thought I could keep operating... New owner should handle it\" #Shorts (MBC Chung...",
+      "url": "https://www.youtube.com/shorts/vFvxLHXLLQM",
+      "view_count": 1400,
+      "view_delta": 1324,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "ODSAqfGy_6M",
       "title": "Setting a record with a new jumping technique learned two months before the competition #Shorts (...",
       "url": "https://www.youtube.com/shorts/ODSAqfGy_6M",
-      "view_count": 3200,
-      "view_delta": 600,
+      "view_count": 3500,
+      "view_delta": 300,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "gB39zsrmI_w",
+      "title": "'Bribery-convicted aide' controversy spreads to politics #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/gB39zsrmI_w",
+      "view_count": 268,
+      "view_delta": 126,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,11 +39,10 @@
       "id": "3Ylg7jP3hFw",
       "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
       "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
-      "view_count": 359,
-      "view_delta": 5,
+      "view_count": 360,
+      "view_delta": 1,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -31,8 +52,7 @@
       "view_count": 26000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -80,26 +100,6 @@
       "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
       "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
       "view_count": 2900,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "qbs0R6Bz3kw",
-      "title": "More Than Double the Actual Number Entered Due to Calculation Error #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/qbs0R6Bz3kw",
-      "view_count": 2800,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "7shxjzG5vNQ",
-      "title": "20.8 Billion Won Price Gap for Entire Site... Concerns Over Deadlock in Negotiations #Shorts (MBC...",
-      "url": "https://www.youtube.com/shorts/7shxjzG5vNQ",
-      "view_count": 2200,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
