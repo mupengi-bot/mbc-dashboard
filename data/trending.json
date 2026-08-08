@@ -1,13 +1,35 @@
 {
-  "collected_at": "2026-08-08T13:45:19.061756+09:00",
+  "collected_at": "2026-08-08T17:26:26.589563+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "qiTONkF-3dI",
       "title": "Crops Withered by Heat and Drought #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/qiTONkF-3dI",
-      "view_count": 12000,
-      "view_delta": 2000,
+      "view_count": 15000,
+      "view_delta": 3000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "gB39zsrmI_w",
+      "title": "'Bribery-convicted aide' controversy spreads to politics #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/gB39zsrmI_w",
+      "view_count": 8700,
+      "view_delta": 700,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "3Ylg7jP3hFw",
+      "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
+      "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
+      "view_count": 467,
+      "view_delta": 13,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -18,39 +40,7 @@
       "title": "Previous Owner: \"Thought I could keep operating... New owner should handle it\" #Shorts (MBC Chung...",
       "url": "https://www.youtube.com/shorts/vFvxLHXLLQM",
       "view_count": 74000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "gB39zsrmI_w",
-      "title": "'Bribery-convicted aide' controversy spreads to politics #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/gB39zsrmI_w",
-      "view_count": 8000,
-      "view_delta": 900,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "ODSAqfGy_6M",
-      "title": "Setting a record with a new jumping technique learned two months before the competition #Shorts (...",
-      "url": "https://www.youtube.com/shorts/ODSAqfGy_6M",
-      "view_count": 7500,
-      "view_delta": 700,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "3Ylg7jP3hFw",
-      "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
-      "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
-      "view_count": 454,
-      "view_delta": 7,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": ""
     },
@@ -90,6 +80,16 @@
       "title": "싱어게인3, 조회수 330만회 주인공 고려진의 불놀이야🔥 #mbc충북 #즐거운오후 #고려진 #록밴드 #록전설 #기타",
       "url": "https://www.youtube.com/shorts/DR2UKxVDRLg",
       "view_count": 9700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "ODSAqfGy_6M",
+      "title": "Setting a record with a new jumping technique learned two months before the competition #Shorts (...",
+      "url": "https://www.youtube.com/shorts/ODSAqfGy_6M",
+      "view_count": 7500,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
