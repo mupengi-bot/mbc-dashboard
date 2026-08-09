@@ -1,12 +1,23 @@
 {
-  "collected_at": "2026-08-09T09:50:14.153943+09:00",
+  "collected_at": "2026-08-09T13:54:03.520842+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "qiTONkF-3dI",
       "title": "Crops Withered by Heat and Drought #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/qiTONkF-3dI",
-      "view_count": 21000,
+      "view_count": 23000,
+      "view_delta": 2000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "vFvxLHXLLQM",
+      "title": "Previous Owner: \"Thought I could keep operating... New owner should handle it\" #Shorts (MBC Chung...",
+      "url": "https://www.youtube.com/shorts/vFvxLHXLLQM",
+      "view_count": 77000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -17,7 +28,7 @@
       "id": "gB39zsrmI_w",
       "title": "'Bribery-convicted aide' controversy spreads to politics #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/gB39zsrmI_w",
-      "view_count": 12000,
+      "view_count": 13000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -28,19 +39,8 @@
       "id": "3Ylg7jP3hFw",
       "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
       "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
-      "view_count": 485,
-      "view_delta": 14,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "vFvxLHXLLQM",
-      "title": "Previous Owner: \"Thought I could keep operating... New owner should handle it\" #Shorts (MBC Chung...",
-      "url": "https://www.youtube.com/shorts/vFvxLHXLLQM",
-      "view_count": 76000,
-      "view_delta": 0,
+      "view_count": 489,
+      "view_delta": 4,
       "comment_count": 0,
       "channel": ""
     },
