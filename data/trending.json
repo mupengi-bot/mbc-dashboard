@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-08-10T05:18:55.131021+09:00",
+  "collected_at": "2026-08-10T09:52:16.855105+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "gB39zsrmI_w",
       "title": "'Bribery-convicted aide' controversy spreads to politics #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/gB39zsrmI_w",
-      "view_count": 15000,
+      "view_count": 16000,
       "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "3Ylg7jP3hFw",
-      "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
-      "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
-      "view_count": 497,
-      "view_delta": 1,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 26000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
       "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
       "view_count": 2900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "qbs0R6Bz3kw",
+      "title": "More Than Double the Actual Number Entered Due to Calculation Error #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/qbs0R6Bz3kw",
+      "view_count": 2800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
