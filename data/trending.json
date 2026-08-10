@@ -1,35 +1,13 @@
 {
-  "collected_at": "2026-08-10T09:52:16.855105+09:00",
+  "collected_at": "2026-08-10T14:14:39.128857+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "gB39zsrmI_w",
-      "title": "'Bribery-convicted aide' controversy spreads to politics #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/gB39zsrmI_w",
-      "view_count": 16000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "vFvxLHXLLQM",
       "title": "Previous Owner: \"Thought I could keep operating... New owner should handle it\" #Shorts (MBC Chung...",
       "url": "https://www.youtube.com/shorts/vFvxLHXLLQM",
-      "view_count": 78000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "AmiRFzmvCXk",
-      "title": "$1 Billion Won in Sunk Costs After Project Scrapped #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/AmiRFzmvCXk",
-      "view_count": 26000,
-      "view_delta": 0,
+      "view_count": 79000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -39,17 +17,29 @@
       "id": "qiTONkF-3dI",
       "title": "Crops Withered by Heat and Drought #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/qiTONkF-3dI",
-      "view_count": 24000,
-      "view_delta": 0,
+      "view_count": 25000,
+      "view_delta": 1000,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
-      "id": "a2lddT5f5EQ",
-      "title": "Construction Halted After Audit Reveals \"Missing Use Approval\" #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/a2lddT5f5EQ",
-      "view_count": 23000,
+      "id": "3Ylg7jP3hFw",
+      "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
+      "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
+      "view_count": 499,
+      "view_delta": 2,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "gB39zsrmI_w",
+      "title": "'Bribery-convicted aide' controversy spreads to politics #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/gB39zsrmI_w",
+      "view_count": 16000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -100,6 +90,16 @@
       "title": "More Than Double the Actual Number Entered Due to Calculation Error #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/qbs0R6Bz3kw",
       "view_count": 2800,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "7shxjzG5vNQ",
+      "title": "20.8 Billion Won Price Gap for Entire Site... Concerns Over Deadlock in Negotiations #Shorts (MBC...",
+      "url": "https://www.youtube.com/shorts/7shxjzG5vNQ",
+      "view_count": 2300,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
