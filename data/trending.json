@@ -1,13 +1,35 @@
 {
-  "collected_at": "2026-08-10T14:14:39.128857+09:00",
+  "collected_at": "2026-08-10T18:05:40.934858+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "EpQyiE9YMXo",
+      "title": "'Meta-Forest' rest area and photo zone by the musical fountain gain popularity #Shorts (MBC Chung...",
+      "url": "https://www.youtube.com/shorts/EpQyiE9YMXo",
+      "view_count": 1600,
+      "view_delta": 1185,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "vEtXb54wVeI",
+      "title": "Resuming Operations After 25 Days… Official Grand Opening on the 13th #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/vEtXb54wVeI",
+      "view_count": 1300,
+      "view_delta": 987,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "vFvxLHXLLQM",
       "title": "Previous Owner: \"Thought I could keep operating... New owner should handle it\" #Shorts (MBC Chung...",
       "url": "https://www.youtube.com/shorts/vFvxLHXLLQM",
       "view_count": 79000,
-      "view_delta": 1000,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -18,21 +40,9 @@
       "title": "Crops Withered by Heat and Drought #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/qiTONkF-3dI",
       "view_count": 25000,
-      "view_delta": 1000,
+      "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "3Ylg7jP3hFw",
-      "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
-      "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
-      "view_count": 499,
-      "view_delta": 2,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "More Than Double the Actual Number Entered Due to Calculation Error #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/qbs0R6Bz3kw",
       "view_count": 2800,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "7shxjzG5vNQ",
-      "title": "20.8 Billion Won Price Gap for Entire Site... Concerns Over Deadlock in Negotiations #Shorts (MBC...",
-      "url": "https://www.youtube.com/shorts/7shxjzG5vNQ",
-      "view_count": 2300,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
