@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-08-12T05:32:52.382574+09:00",
+  "collected_at": "2026-08-12T09:58:04.914976+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "hYyT5dazYhQ",
       "title": "Unauthorized Occupancy Notices Sent to Over 160 Households.. Some Errors Acknowledged #Shorts (MB...",
       "url": "https://www.youtube.com/shorts/hYyT5dazYhQ",
-      "view_count": 30000,
+      "view_count": 32000,
       "view_delta": 2000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "vFvxLHXLLQM",
-      "title": "Previous Owner: \"Thought I could keep operating... New owner should handle it\" #Shorts (MBC Chung...",
-      "url": "https://www.youtube.com/shorts/vFvxLHXLLQM",
-      "view_count": 80000,
-      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -28,7 +17,7 @@
       "id": "EpQyiE9YMXo",
       "title": "'Meta-Forest' rest area and photo zone by the musical fountain gain popularity #Shorts (MBC Chung...",
       "url": "https://www.youtube.com/shorts/EpQyiE9YMXo",
-      "view_count": 2400,
+      "view_count": 2500,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -39,8 +28,19 @@
       "id": "3Ylg7jP3hFw",
       "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
       "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
-      "view_count": 513,
-      "view_delta": 3,
+      "view_count": 514,
+      "view_delta": 1,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "vFvxLHXLLQM",
+      "title": "Previous Owner: \"Thought I could keep operating... New owner should handle it\" #Shorts (MBC Chung...",
+      "url": "https://www.youtube.com/shorts/vFvxLHXLLQM",
+      "view_count": 80000,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": ""
     },
