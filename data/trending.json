@@ -1,12 +1,23 @@
 {
-  "collected_at": "2026-08-13T05:31:38.601531+09:00",
+  "collected_at": "2026-08-13T10:00:01.623411+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "hYyT5dazYhQ",
       "title": "Unauthorized Occupancy Notices Sent to Over 160 Households.. Some Errors Acknowledged #Shorts (MB...",
       "url": "https://www.youtube.com/shorts/hYyT5dazYhQ",
-      "view_count": 46000,
+      "view_count": 49000,
+      "view_delta": 3000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "vFvxLHXLLQM",
+      "title": "Previous Owner: \"Thought I could keep operating... New owner should handle it\" #Shorts (MBC Chung...",
+      "url": "https://www.youtube.com/shorts/vFvxLHXLLQM",
+      "view_count": 81000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -17,60 +28,29 @@
       "id": "iQSRDw5KaWY",
       "title": "\"No development can take precedence over safety\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/iQSRDw5KaWY",
-      "view_count": 5500,
-      "view_delta": 600,
+      "view_count": 6500,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "a3V1e5R5Eko",
-      "title": "From Firefighter Treatment to Regional Public Healthcare #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/a3V1e5R5Eko",
-      "view_count": 4300,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "l6UtMRLTFdc",
-      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
-      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
-      "view_count": 2100,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "S1H1fsfn-uA",
-      "title": "Congratulatory Message from Singer Park Ji-hyun🎤 | 2026 Jikji Culture Festival 9/4/2026 ~ 9/6/2026 |",
-      "url": "https://www.youtube.com/shorts/S1H1fsfn-uA",
-      "view_count": 1500,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": ""
     },
     {
       "type": "youtube",
       "id": "xhQPRjlkHrM",
       "title": "Congratulatory Message from Performer Cheon Rok-dam🎤 | 2026 Jikji Culture Festival 9/4/2026 ~ 9/6...",
       "url": "https://www.youtube.com/shorts/xhQPRjlkHrM",
-      "view_count": 1100,
-      "view_delta": 100,
+      "view_count": 1300,
+      "view_delta": 200,
       "comment_count": 0,
       "channel": ""
     },
     {
       "type": "youtube",
-      "id": "vFvxLHXLLQM",
-      "title": "Previous Owner: \"Thought I could keep operating... New owner should handle it\" #Shorts (MBC Chung...",
-      "url": "https://www.youtube.com/shorts/vFvxLHXLLQM",
-      "view_count": 80000,
-      "view_delta": 0,
+      "id": "l6UtMRLTFdc",
+      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
+      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
+      "view_count": 2200,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": ""
     },
@@ -97,9 +77,29 @@
     {
       "type": "youtube",
       "id": "9cnP2xrhWdU",
-      "title": "가수의 꿈, 괴산에서 펼쳐라! 제4회 유기농 괴산가요제🎤 참가자 모집! | MBC충북",
+      "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
       "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
       "view_count": 12000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "a3V1e5R5Eko",
+      "title": "From Firefighter Treatment to Regional Public Healthcare #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/a3V1e5R5Eko",
+      "view_count": 4300,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "sv0nOsMojfE",
+      "title": "소름 돋는 소냐님의 라이브에 눈물이 펑펑 | 눈물이 나 - 소냐 | #소냐 #눈물이나 #mbc충북 #정오의희망곡",
+      "url": "https://www.youtube.com/shorts/sv0nOsMojfE",
+      "view_count": 3000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
