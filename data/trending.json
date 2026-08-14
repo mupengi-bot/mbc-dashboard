@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-08-14T21:37:57.616501+09:00",
+  "collected_at": "2026-08-15T01:39:15.739542+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "PcZS4ncAlF4",
       "title": "Goryeo Dynasty Roof Tiles and Earthenware Fragments Unearthed #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/PcZS4ncAlF4",
-      "view_count": 10000,
-      "view_delta": 5600,
+      "view_count": 20000,
+      "view_delta": 10000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,19 +17,8 @@
       "id": "hYyT5dazYhQ",
       "title": "Unauthorized Occupancy Notices Sent to Over 160 Households.. Some Errors Acknowledged #Shorts (MB...",
       "url": "https://www.youtube.com/shorts/hYyT5dazYhQ",
-      "view_count": 90000,
+      "view_count": 95000,
       "view_delta": 5000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "iQSRDw5KaWY",
-      "title": "\"No development can take precedence over safety\" #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/iQSRDw5KaWY",
-      "view_count": 16000,
-      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -39,8 +28,19 @@
       "id": "9DZwAetCQiM",
       "title": "Cheongju City wins first trial, but verdict overturned on appeal #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/9DZwAetCQiM",
-      "view_count": 2200,
-      "view_delta": 900,
+      "view_count": 2700,
+      "view_delta": 500,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "Fc2qdogaWXk",
+      "title": "Over 100 High-Voltage Towers Planned for Goesan, Including 28 in Yeonpung-myeon #Shorts (MBC Chun...",
+      "url": "https://www.youtube.com/shorts/Fc2qdogaWXk",
+      "view_count": 6000,
+      "view_delta": 300,
       "comment_count": 0,
       "channel": ""
     },
@@ -49,38 +49,8 @@
       "id": "6n84FbqB-xw",
       "title": "Considering costs, timing, and site utility #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/6n84FbqB-xw",
-      "view_count": 1400,
-      "view_delta": 400,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "Fc2qdogaWXk",
-      "title": "Over 100 High-Voltage Towers Planned for Goesan, Including 28 in Yeonpung-myeon #Shorts (MBC Chun...",
-      "url": "https://www.youtube.com/shorts/Fc2qdogaWXk",
-      "view_count": 5700,
-      "view_delta": 300,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "l6UtMRLTFdc",
-      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
-      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
-      "view_count": 4300,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "3Ylg7jP3hFw",
-      "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
-      "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
-      "view_count": 540,
-      "view_delta": 1,
+      "view_count": 1600,
+      "view_delta": 200,
       "comment_count": 0,
       "channel": ""
     },
@@ -96,10 +66,40 @@
     },
     {
       "type": "youtube",
+      "id": "iQSRDw5KaWY",
+      "title": "\"No development can take precedence over safety\" #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/iQSRDw5KaWY",
+      "view_count": 16000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
       "id": "9cnP2xrhWdU",
       "title": "Chase Your Dream of Being a Singer in Goesan! Calling All Applicants for the 4th Organic Goesan S...",
       "url": "https://www.youtube.com/shorts/9cnP2xrhWdU",
       "view_count": 12000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "a3V1e5R5Eko",
+      "title": "From Firefighter Treatment to Regional Public Healthcare #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/a3V1e5R5Eko",
+      "view_count": 4500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "l6UtMRLTFdc",
+      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
+      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
+      "view_count": 4300,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
