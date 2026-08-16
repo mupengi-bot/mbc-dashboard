@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-08-16T09:36:10.199334+09:00",
+  "collected_at": "2026-08-16T13:24:55.643069+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "hYyT5dazYhQ",
       "title": "Unauthorized Occupancy Notices Sent to Over 160 Households.. Some Errors Acknowledged #Shorts (MB...",
       "url": "https://www.youtube.com/shorts/hYyT5dazYhQ",
-      "view_count": 118000,
+      "view_count": 119000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -17,7 +17,18 @@
       "id": "6n84FbqB-xw",
       "title": "Considering costs, timing, and site utility #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/6n84FbqB-xw",
-      "view_count": 2900,
+      "view_count": 3300,
+      "view_delta": 400,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "9DZwAetCQiM",
+      "title": "Cheongju City wins first trial, but verdict overturned on appeal #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/9DZwAetCQiM",
+      "view_count": 5000,
       "view_delta": 300,
       "comment_count": 0,
       "channel": "",
@@ -28,19 +39,8 @@
       "id": "Fc2qdogaWXk",
       "title": "Over 100 High-Voltage Towers Planned for Goesan, Including 28 in Yeonpung-myeon #Shorts (MBC Chun...",
       "url": "https://www.youtube.com/shorts/Fc2qdogaWXk",
-      "view_count": 8300,
-      "view_delta": 200,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "9DZwAetCQiM",
-      "title": "Cheongju City wins first trial, but verdict overturned on appeal #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/9DZwAetCQiM",
-      "view_count": 4700,
-      "view_delta": 200,
+      "view_count": 8400,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": ""
     },
