@@ -1,35 +1,13 @@
 {
-  "collected_at": "2026-08-19T01:18:09.165715+09:00",
+  "collected_at": "2026-08-19T05:10:54.638080+09:00",
   "items": [
     {
       "type": "youtube",
-      "id": "9DZwAetCQiM",
-      "title": "Cheongju City wins first trial, but verdict overturned on appeal #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/9DZwAetCQiM",
-      "view_count": 8000,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "3V8vNsKWnkg",
-      "title": "\"Officials Interfering with Prescriptions\" Criticized at Parliamentary Audit #Shorts (MBC Chungbu...",
-      "url": "https://www.youtube.com/shorts/3V8vNsKWnkg",
-      "view_count": 4000,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "8XdgLrIzU88",
-      "title": "Served 2 Years in Prison But Denied Recognition #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/8XdgLrIzU88",
-      "view_count": 3900,
-      "view_delta": 100,
+      "id": "3Ylg7jP3hFw",
+      "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
+      "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
+      "view_count": 553,
+      "view_delta": 2,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +20,8 @@
       "view_count": 124000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 33000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -96,10 +76,30 @@
     },
     {
       "type": "youtube",
+      "id": "9DZwAetCQiM",
+      "title": "Cheongju City wins first trial, but verdict overturned on appeal #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/9DZwAetCQiM",
+      "view_count": 8000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
       "id": "6n84FbqB-xw",
       "title": "Considering costs, timing, and site utility #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/6n84FbqB-xw",
       "view_count": 5100,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "l6UtMRLTFdc",
+      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
+      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
+      "view_count": 4900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
