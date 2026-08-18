@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-08-18T05:14:13.991431+09:00",
+  "collected_at": "2026-08-18T09:34:19.633443+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "hYyT5dazYhQ",
       "title": "Unauthorized Occupancy Notices Sent to Over 160 Households.. Some Errors Acknowledged #Shorts (MB...",
       "url": "https://www.youtube.com/shorts/hYyT5dazYhQ",
-      "view_count": 123000,
+      "view_count": 124000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -17,32 +17,11 @@
       "id": "9DZwAetCQiM",
       "title": "Cheongju City wins first trial, but verdict overturned on appeal #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/9DZwAetCQiM",
-      "view_count": 7300,
-      "view_delta": 100,
+      "view_count": 7500,
+      "view_delta": 200,
       "comment_count": 0,
       "channel": "",
       "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "6n84FbqB-xw",
-      "title": "Considering costs, timing, and site utility #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/6n84FbqB-xw",
-      "view_count": 4800,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "xhQPRjlkHrM",
-      "title": "Congratulatory Message from Performer Cheon Rok-dam🎤 | 2026 Jikji Culture Festival 9/4/2026 ~ 9/6...",
-      "url": "https://www.youtube.com/shorts/xhQPRjlkHrM",
-      "view_count": 1600,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": ""
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 33000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -96,10 +76,30 @@
     },
     {
       "type": "youtube",
+      "id": "6n84FbqB-xw",
+      "title": "Considering costs, timing, and site utility #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/6n84FbqB-xw",
+      "view_count": 4800,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
       "id": "l6UtMRLTFdc",
       "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
       "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
       "view_count": 4800,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "a3V1e5R5Eko",
+      "title": "From Firefighter Treatment to Regional Public Healthcare #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/a3V1e5R5Eko",
+      "view_count": 4400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
