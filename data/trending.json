@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-08-19T09:34:57.096330+09:00",
+  "collected_at": "2026-08-19T13:25:49.627880+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "hYyT5dazYhQ",
-      "title": "Unauthorized Occupancy Notices Sent to Over 160 Households.. Some Errors Acknowledged #Shorts (MB...",
-      "url": "https://www.youtube.com/shorts/hYyT5dazYhQ",
-      "view_count": 124000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "PcZS4ncAlF4",
@@ -42,7 +31,8 @@
       "view_count": 19000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "From Firefighter Treatment to Regional Public Healthcare #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/a3V1e5R5Eko",
       "view_count": 4400,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "3V8vNsKWnkg",
+      "title": "\"Officials Interfering with Prescriptions\" Criticized at Parliamentary Audit #Shorts (MBC Chungbu...",
+      "url": "https://www.youtube.com/shorts/3V8vNsKWnkg",
+      "view_count": 4000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
