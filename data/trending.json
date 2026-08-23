@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-08-23T05:10:35.975639+09:00",
+  "collected_at": "2026-08-23T09:37:07.070784+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "M6panpHyLPw",
       "title": "From landfills to incinerators... A 'besieged village' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/M6panpHyLPw",
-      "view_count": 4900,
-      "view_delta": 500,
+      "view_count": 5800,
+      "view_delta": 900,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,19 +17,8 @@
       "id": "8CNwI0JFg7k",
       "title": "\"Facing Depopulation... We Must Weigh the Practical Benefits\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/8CNwI0JFg7k",
-      "view_count": 4200,
+      "view_count": 4700,
       "view_delta": 500,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "l6UtMRLTFdc",
-      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
-      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
-      "view_count": 7500,
-      "view_delta": 200,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -39,18 +28,19 @@
       "id": "LbHsto8prmo",
       "title": "North Chungcheong Province Focuses on 'K-Culture Hub' Potential #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/LbHsto8prmo",
-      "view_count": 5300,
-      "view_delta": 100,
+      "view_count": 5600,
+      "view_delta": 300,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
-      "id": "3Ylg7jP3hFw",
-      "title": "2026 Jikji Culture Festival, Featuring Various Experiences & Exhibitions | Cheonrokdam·Park Ji-hy...",
-      "url": "https://www.youtube.com/shorts/3Ylg7jP3hFw",
-      "view_count": 566,
-      "view_delta": 2,
+      "id": "7_eAllcpQDA",
+      "title": "\"Acknowledge need for fare hike\"... North Chungcheong Province in a dilemma #Shorts (MBC Chungbuk...",
+      "url": "https://www.youtube.com/shorts/7_eAllcpQDA",
+      "view_count": 4100,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": ""
     },
@@ -90,6 +80,16 @@
       "title": "Cheongju City wins first trial, but verdict overturned on appeal #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/9DZwAetCQiM",
       "view_count": 8100,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "l6UtMRLTFdc",
+      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
+      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
+      "view_count": 7500,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
