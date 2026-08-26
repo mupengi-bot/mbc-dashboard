@@ -1,34 +1,12 @@
 {
-  "collected_at": "2026-08-26T05:15:54.209801+09:00",
+  "collected_at": "2026-08-26T09:36:28.392909+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "MrLVfIaY3Lc",
-      "title": "Chungbuk Office of Education files first-ever criminal complaint against parent over malicious co...",
-      "url": "https://www.youtube.com/shorts/MrLVfIaY3Lc",
-      "view_count": 44000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "M6panpHyLPw",
-      "title": "From landfills to incinerators... A 'besieged village' #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/M6panpHyLPw",
-      "view_count": 20000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "dF9axJ3tNVM",
       "title": "Unable to Source Whipping Cream, Orders Canceled... Damages Mounting #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/dF9axJ3tNVM",
-      "view_count": 3800,
+      "view_count": 4000,
       "view_delta": 200,
       "comment_count": 0,
       "channel": "",
@@ -39,18 +17,40 @@
       "id": "DdahTtBWlFk",
       "title": "\"Habitual Destruction of Evidence\"… Crimes Revealed on Cell Phone #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/DdahTtBWlFk",
-      "view_count": 3700,
+      "view_count": 3900,
       "view_delta": 200,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "S1H1fsfn-uA",
+      "title": "Congratulatory Message from Singer Park Ji-hyun🎤 | 2026 Jikji Culture Festival 9/4/2026 ~ 9/6/2026 |",
+      "url": "https://www.youtube.com/shorts/S1H1fsfn-uA",
+      "view_count": 3500,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "4plLYbxWXfA",
+      "title": "Do you know about the first handball team for people with developmental disabilities in Korea? | ...",
+      "url": "https://www.youtube.com/shorts/4plLYbxWXfA",
+      "view_count": 992,
+      "view_delta": 3,
       "comment_count": 0,
       "channel": ""
     },
     {
       "type": "youtube",
-      "id": "l6UtMRLTFdc",
-      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
-      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
-      "view_count": 8600,
-      "view_delta": 100,
+      "id": "MrLVfIaY3Lc",
+      "title": "Chungbuk Office of Education files first-ever criminal complaint against parent over malicious co...",
+      "url": "https://www.youtube.com/shorts/MrLVfIaY3Lc",
+      "view_count": 44000,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": ""
     },
@@ -60,6 +60,16 @@
       "title": "Goryeo Dynasty Roof Tiles and Earthenware Fragments Unearthed #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/PcZS4ncAlF4",
       "view_count": 34000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "M6panpHyLPw",
+      "title": "From landfills to incinerators... A 'besieged village' #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/M6panpHyLPw",
+      "view_count": 20000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -86,20 +96,10 @@
     },
     {
       "type": "youtube",
-      "id": "LbHsto8prmo",
-      "title": "North Chungcheong Province Focuses on 'K-Culture Hub' Potential #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/LbHsto8prmo",
-      "view_count": 8000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "7_eAllcpQDA",
-      "title": "\"Acknowledge need for fare hike\"... North Chungcheong Province in a dilemma #Shorts (MBC Chungbuk...",
-      "url": "https://www.youtube.com/shorts/7_eAllcpQDA",
-      "view_count": 4200,
+      "id": "l6UtMRLTFdc",
+      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
+      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
+      "view_count": 8600,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
