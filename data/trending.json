@@ -1,12 +1,23 @@
 {
-  "collected_at": "2026-08-30T03:59:02.186347+09:00",
+  "collected_at": "2026-08-30T07:06:04.546852+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "80-Dh08HIGU",
       "title": "Blocking photosynthesis and increasing the risk of infection #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/80-Dh08HIGU",
-      "view_count": 33000,
+      "view_count": 34000,
+      "view_delta": 1000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "l6UtMRLTFdc",
+      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
+      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
+      "view_count": 11000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -17,7 +28,7 @@
       "id": "Z-wCxRBlKqo",
       "title": "Chungbuk Province: \"50% Is Still Among the Highest... Will Maintain Top-Tier Meal Costs\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/Z-wCxRBlKqo",
-      "view_count": 8100,
+      "view_count": 8300,
       "view_delta": 200,
       "comment_count": 0,
       "channel": "",
@@ -31,8 +42,7 @@
       "view_count": 46000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -70,16 +80,6 @@
       "title": "A Broken Vetting System.. \"No Sanctions Whatsoever\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/nRh-8TmLPis",
       "view_count": 11000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "l6UtMRLTFdc",
-      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
-      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
-      "view_count": 10000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
