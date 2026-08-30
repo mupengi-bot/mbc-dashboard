@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-08-30T18:32:49.419385+09:00",
+  "collected_at": "2026-08-31T00:39:25.063307+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "80-Dh08HIGU",
       "title": "Blocking photosynthesis and increasing the risk of infection #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/80-Dh08HIGU",
-      "view_count": 38000,
+      "view_count": 42000,
       "view_delta": 4000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "f1ax4Cdm7LM",
+      "title": "Residents Protest: \"Sale Price Higher Than Nearby Market Value\" #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/f1ax4Cdm7LM",
+      "view_count": 29000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,8 +28,8 @@
       "id": "Z-wCxRBlKqo",
       "title": "Chungbuk Province: \"50% Is Still Among the Highest... Will Maintain Top-Tier Meal Costs\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/Z-wCxRBlKqo",
-      "view_count": 9200,
-      "view_delta": 500,
+      "view_count": 9400,
+      "view_delta": 200,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -28,11 +39,20 @@
       "id": "xhQPRjlkHrM",
       "title": "Congratulatory Message from Performer Cheon Rok-dam🎤 | 2026 Jikji Culture Festival 9/4/2026 ~ 9/6...",
       "url": "https://www.youtube.com/shorts/xhQPRjlkHrM",
+      "view_count": 3200,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "KzwkB5XSp_s",
+      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
+      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
       "view_count": 3100,
       "view_delta": 100,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -40,16 +60,6 @@
       "title": "Chungbuk Office of Education files first-ever criminal complaint against parent over malicious co...",
       "url": "https://www.youtube.com/shorts/MrLVfIaY3Lc",
       "view_count": 46000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "f1ax4Cdm7LM",
-      "title": "Residents Protest: \"Sale Price Higher Than Nearby Market Value\" #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/f1ax4Cdm7LM",
-      "view_count": 28000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -90,16 +100,6 @@
       "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
       "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
       "view_count": 11000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "dF9axJ3tNVM",
-      "title": "Unable to Source Whipping Cream, Orders Canceled... Damages Mounting #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/dF9axJ3tNVM",
-      "view_count": 5900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
