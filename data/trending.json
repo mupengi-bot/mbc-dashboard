@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-08-31T03:54:40.333350+09:00",
+  "collected_at": "2026-08-31T07:12:40.089562+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "80-Dh08HIGU",
       "title": "Blocking photosynthesis and increasing the risk of infection #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/80-Dh08HIGU",
-      "view_count": 43000,
+      "view_count": 44000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -14,22 +14,11 @@
     },
     {
       "type": "youtube",
-      "id": "l6UtMRLTFdc",
-      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
-      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
-      "view_count": 12000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "xhQPRjlkHrM",
-      "title": "Congratulatory Message from Performer Cheon Rok-dam🎤 | 2026 Jikji Culture Festival 9/4/2026 ~ 9/6...",
-      "url": "https://www.youtube.com/shorts/xhQPRjlkHrM",
-      "view_count": 3400,
-      "view_delta": 200,
+      "id": "KzwkB5XSp_s",
+      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
+      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
+      "view_count": 3200,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 46000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -70,6 +60,16 @@
       "title": "\"Habitual Destruction of Evidence\"… Crimes Revealed on Cell Phone #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/DdahTtBWlFk",
       "view_count": 14000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "l6UtMRLTFdc",
+      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
+      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
+      "view_count": 12000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
