@@ -1,23 +1,12 @@
 {
-  "collected_at": "2026-09-01T08:29:24.752057+09:00",
+  "collected_at": "2026-09-01T11:26:56.623232+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "nRh-8TmLPis",
-      "title": "A Broken Vetting System.. \"No Sanctions Whatsoever\" #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/nRh-8TmLPis",
-      "view_count": 16000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "KzwkB5XSp_s",
       "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
       "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
-      "view_count": 4600,
+      "view_count": 4800,
       "view_delta": 200,
       "comment_count": 0,
       "channel": "",
@@ -28,7 +17,7 @@
       "id": "xhQPRjlkHrM",
       "title": "Congratulatory Message from Performer Cheon Rok-dam🎤 | 2026 Jikji Culture Festival 9/4/2026 ~ 9/6...",
       "url": "https://www.youtube.com/shorts/xhQPRjlkHrM",
-      "view_count": 3900,
+      "view_count": 4000,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -42,7 +31,8 @@
       "view_count": 48000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -70,6 +60,16 @@
       "title": "From landfills to incinerators... A 'besieged village' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/M6panpHyLPw",
       "view_count": 20000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "nRh-8TmLPis",
+      "title": "A Broken Vetting System.. \"No Sanctions Whatsoever\" #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/nRh-8TmLPis",
+      "view_count": 16000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
