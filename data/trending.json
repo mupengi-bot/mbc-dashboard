@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-09-02T10:48:17.091192+09:00",
+  "collected_at": "2026-09-02T17:12:42.333356+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "FzDp5WGaST4",
       "title": "Boeun-gun to provide 160,000 won monthly as basic income #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/FzDp5WGaST4",
-      "view_count": 7500,
+      "view_count": 8500,
       "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "KzwkB5XSp_s",
-      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
-      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
-      "view_count": 5100,
-      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -36,23 +25,14 @@
     },
     {
       "type": "youtube",
-      "id": "MrLVfIaY3Lc",
-      "title": "Chungbuk Office of Education files first-ever criminal complaint against parent over malicious co...",
-      "url": "https://www.youtube.com/shorts/MrLVfIaY3Lc",
-      "view_count": 46000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "f1ax4Cdm7LM",
       "title": "Residents Protest: \"Sale Price Higher Than Nearby Market Value\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/f1ax4Cdm7LM",
       "view_count": 29000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -76,16 +56,6 @@
     },
     {
       "type": "youtube",
-      "id": "l6UtMRLTFdc",
-      "title": "Congratulatory Message from Singer Myung-seop Cho🎵 | 2026 Jikji Culture Festival 9/4/2026 – 9/6/2...",
-      "url": "https://www.youtube.com/shorts/l6UtMRLTFdc",
-      "view_count": 13000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "Z-wCxRBlKqo",
       "title": "Chungbuk Province: \"50% Is Still Among the Highest... Will Maintain Top-Tier Meal Costs\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/Z-wCxRBlKqo",
@@ -96,10 +66,40 @@
     },
     {
       "type": "youtube",
-      "id": "dF9axJ3tNVM",
-      "title": "Unable to Source Whipping Cream, Orders Canceled... Damages Mounting #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/dF9axJ3tNVM",
-      "view_count": 5900,
+      "id": "KzwkB5XSp_s",
+      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
+      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
+      "view_count": 5100,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "ip3AYP_KcRs",
+      "title": "New Funding Plan Won't Even Cover Rising Labor Costs #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/ip3AYP_KcRs",
+      "view_count": 3000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "nOjHQEtAgZE",
+      "title": "Unexpected injury to the ace.. | Perfect Shot releases September 9 | MBC Chungbuk",
+      "url": "https://www.youtube.com/shorts/nOjHQEtAgZE",
+      "view_count": 1300,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "ENduGNAphd0",
+      "title": "God Hand’s Super Goalkeeper, Su-il’s Save! | Perfect Shoot Opening September 9 | MBC Chungbuk",
+      "url": "https://www.youtube.com/shorts/ENduGNAphd0",
+      "view_count": 1300,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
