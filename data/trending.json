@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-09-03T00:31:21.062066+09:00",
+  "collected_at": "2026-09-03T04:02:53.669411+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "FzDp5WGaST4",
+      "title": "Boeun-gun to provide 160,000 won monthly as basic income #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/FzDp5WGaST4",
+      "view_count": 10000,
+      "view_delta": 700,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "uUNF3DoRsRI",
       "title": "Uncertain future for incinerator blocks... Risk of a 'compensation bomb' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/uUNF3DoRsRI",
-      "view_count": 1900,
-      "view_delta": 1287,
+      "view_count": 2400,
+      "view_delta": 500,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,42 +28,11 @@
       "id": "imVPtlNOetc",
       "title": "'Mega Sky': 37.6 Billion Won to be Invested by 2029 #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/imVPtlNOetc",
-      "view_count": 1700,
-      "view_delta": 1062,
+      "view_count": 1900,
+      "view_delta": 200,
       "comment_count": 0,
       "channel": "",
       "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "FzDp5WGaST4",
-      "title": "Boeun-gun to provide 160,000 won monthly as basic income #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/FzDp5WGaST4",
-      "view_count": 9300,
-      "view_delta": 800,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "uAp_ee96sRw",
-      "title": "A Refreshing Dip After Intense Training | Perfect Shot Releases September 9 | MBC Chungbuk",
-      "url": "https://www.youtube.com/shorts/uAp_ee96sRw",
-      "view_count": 1200,
-      "view_delta": 379,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "KzwkB5XSp_s",
-      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
-      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
-      "view_count": 5200,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": ""
     },
     {
       "type": "youtube",
@@ -100,6 +80,26 @@
       "title": "Chungbuk Province: \"50% Is Still Among the Highest... Will Maintain Top-Tier Meal Costs\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/Z-wCxRBlKqo",
       "view_count": 9400,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "KzwkB5XSp_s",
+      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
+      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
+      "view_count": 5200,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "ip3AYP_KcRs",
+      "title": "New Funding Plan Won't Even Cover Rising Labor Costs #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/ip3AYP_KcRs",
+      "view_count": 3000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
