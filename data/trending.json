@@ -1,48 +1,27 @@
 {
-  "collected_at": "2026-09-04T00:24:47.748830+09:00",
+  "collected_at": "2026-09-04T03:57:57.065087+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "FzDp5WGaST4",
       "title": "Boeun-gun to provide 160,000 won monthly as basic income #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/FzDp5WGaST4",
-      "view_count": 17000,
-      "view_delta": 2000,
+      "view_count": 18000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
     },
     {
       "type": "youtube",
-      "id": "aHFXsIFbLpk",
-      "title": "\"He's so good!\" The ace arrives, 'No. 10 Kim Saeng-soo' | Perfect Shot releases September 9 | MBC...",
-      "url": "https://www.youtube.com/shorts/aHFXsIFbLpk",
-      "view_count": 1100,
-      "view_delta": 268,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "KzwkB5XSp_s",
-      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
-      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
-      "view_count": 5300,
+      "id": "imVPtlNOetc",
+      "title": "'Mega Sky': 37.6 Billion Won to be Invested by 2029 #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/imVPtlNOetc",
+      "view_count": 2600,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "uUNF3DoRsRI",
-      "title": "Uncertain future for incinerator blocks... Risk of a 'compensation bomb' #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/uUNF3DoRsRI",
-      "view_count": 3800,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": ""
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 48000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -90,6 +70,26 @@
       "title": "Chungbuk Province: \"50% Is Still Among the Highest... Will Maintain Top-Tier Meal Costs\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/Z-wCxRBlKqo",
       "view_count": 9400,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "KzwkB5XSp_s",
+      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
+      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
+      "view_count": 5300,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "uUNF3DoRsRI",
+      "title": "Uncertain future for incinerator blocks... Risk of a 'compensation bomb' #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/uUNF3DoRsRI",
+      "view_count": 3800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
