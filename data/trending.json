@@ -1,24 +1,35 @@
 {
-  "collected_at": "2026-09-04T17:17:50.213690+09:00",
+  "collected_at": "2026-09-05T00:21:11.813311+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "FzDp5WGaST4",
       "title": "Boeun-gun to provide 160,000 won monthly as basic income #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/FzDp5WGaST4",
-      "view_count": 20000,
-      "view_delta": 2000,
+      "view_count": 21000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
     },
     {
       "type": "youtube",
-      "id": "KzwkB5XSp_s",
-      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
-      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
-      "view_count": 5400,
-      "view_delta": 100,
+      "id": "uUNF3DoRsRI",
+      "title": "Uncertain future for incinerator blocks... Risk of a 'compensation bomb' #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/uUNF3DoRsRI",
+      "view_count": 4000,
+      "view_delta": 200,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "NrZQyAdi4EY",
+      "title": "I want to go to the Olympics... but I have to get past Anyang first | Perfect Shot releases Septe...",
+      "url": "https://www.youtube.com/shorts/NrZQyAdi4EY",
+      "view_count": 1000,
+      "view_delta": 190,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 48000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -56,16 +66,6 @@
     },
     {
       "type": "youtube",
-      "id": "DdahTtBWlFk",
-      "title": "\"Habitual Destruction of Evidence\"… Crimes Revealed on Cell Phone #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/DdahTtBWlFk",
-      "view_count": 14000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "Z-wCxRBlKqo",
       "title": "Chungbuk Province: \"50% Is Still Among the Highest... Will Maintain Top-Tier Meal Costs\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/Z-wCxRBlKqo",
@@ -76,10 +76,10 @@
     },
     {
       "type": "youtube",
-      "id": "uUNF3DoRsRI",
-      "title": "Uncertain future for incinerator blocks... Risk of a 'compensation bomb' #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/uUNF3DoRsRI",
-      "view_count": 3800,
+      "id": "KzwkB5XSp_s",
+      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
+      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
+      "view_count": 5400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
