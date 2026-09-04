@@ -1,35 +1,13 @@
 {
-  "collected_at": "2026-09-05T03:40:02.193193+09:00",
+  "collected_at": "2026-09-05T06:55:26.365310+09:00",
   "items": [
     {
       "type": "youtube",
-      "id": "p2PSWSDzsQw",
-      "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
-      "view_count": 1800,
-      "view_delta": 600,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "NrZQyAdi4EY",
-      "title": "I want to go to the Olympics... but I have to get past Anyang first | Perfect Shot releases Septe...",
-      "url": "https://www.youtube.com/shorts/NrZQyAdi4EY",
-      "view_count": 1200,
-      "view_delta": 200,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "imVPtlNOetc",
-      "title": "'Mega Sky': 37.6 Billion Won to be Invested by 2029 #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/imVPtlNOetc",
-      "view_count": 2700,
-      "view_delta": 100,
+      "id": "f1ax4Cdm7LM",
+      "title": "Residents Protest: \"Sale Price Higher Than Nearby Market Value\" #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/f1ax4Cdm7LM",
+      "view_count": 30000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,17 +20,8 @@
       "view_count": 48000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "f1ax4Cdm7LM",
-      "title": "Residents Protest: \"Sale Price Higher Than Nearby Market Value\" #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/f1ax4Cdm7LM",
-      "view_count": 29000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -62,7 +31,8 @@
       "view_count": 21000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +70,36 @@
       "title": "Uncertain future for incinerator blocks... Risk of a 'compensation bomb' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/uUNF3DoRsRI",
       "view_count": 4000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "ip3AYP_KcRs",
+      "title": "New Funding Plan Won't Even Cover Rising Labor Costs #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/ip3AYP_KcRs",
+      "view_count": 3000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "imVPtlNOetc",
+      "title": "'Mega Sky': 37.6 Billion Won to be Invested by 2029 #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/imVPtlNOetc",
+      "view_count": 2700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "p2PSWSDzsQw",
+      "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
+      "view_count": 1800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
