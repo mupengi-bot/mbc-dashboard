@@ -1,6 +1,28 @@
 {
-  "collected_at": "2026-09-04T10:48:36.704222+09:00",
+  "collected_at": "2026-09-04T17:17:50.213690+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "FzDp5WGaST4",
+      "title": "Boeun-gun to provide 160,000 won monthly as basic income #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/FzDp5WGaST4",
+      "view_count": 20000,
+      "view_delta": 2000,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "KzwkB5XSp_s",
+      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
+      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
+      "view_count": 5400,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "80-Dh08HIGU",
@@ -20,19 +42,7 @@
       "view_count": 29000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "FzDp5WGaST4",
-      "title": "Boeun-gun to provide 160,000 won monthly as basic income #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/FzDp5WGaST4",
-      "view_count": 18000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -60,16 +70,6 @@
       "title": "Chungbuk Province: \"50% Is Still Among the Highest... Will Maintain Top-Tier Meal Costs\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/Z-wCxRBlKqo",
       "view_count": 9400,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "KzwkB5XSp_s",
-      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
-      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
-      "view_count": 5300,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
