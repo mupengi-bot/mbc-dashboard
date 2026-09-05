@@ -1,23 +1,12 @@
 {
-  "collected_at": "2026-09-05T20:27:31.553339+09:00",
+  "collected_at": "2026-09-05T23:08:58.042670+09:00",
   "items": [
     {
       "type": "youtube",
-      "id": "njlteNw-ORQ",
-      "title": "Su-il Yay! Kids Growing Through Handball | Perfect Shot Releases September 9 | MBC Chungbuk",
-      "url": "https://www.youtube.com/shorts/njlteNw-ORQ",
-      "view_count": 1200,
-      "view_delta": 560,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "p2PSWSDzsQw",
-      "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
-      "view_count": 4000,
+      "id": "imVPtlNOetc",
+      "title": "'Mega Sky': 37.6 Billion Won to be Invested by 2029 #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/imVPtlNOetc",
+      "view_count": 2800,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -42,7 +31,8 @@
       "view_count": 30000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -80,6 +70,16 @@
       "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
       "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
       "view_count": 5500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "p2PSWSDzsQw",
+      "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
+      "view_count": 4000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
