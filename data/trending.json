@@ -1,12 +1,23 @@
 {
-  "collected_at": "2026-09-05T10:49:24.375142+09:00",
+  "collected_at": "2026-09-05T16:54:54.319360+09:00",
   "items": [
     {
       "type": "youtube",
-      "id": "80-Dh08HIGU",
-      "title": "Blocking photosynthesis and increasing the risk of infection #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/80-Dh08HIGU",
-      "view_count": 49000,
+      "id": "p2PSWSDzsQw",
+      "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
+      "view_count": 3900,
+      "view_delta": 1400,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "FzDp5WGaST4",
+      "title": "Boeun-gun to provide 160,000 won monthly as basic income #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/FzDp5WGaST4",
+      "view_count": 22000,
       "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
@@ -14,22 +25,11 @@
     },
     {
       "type": "youtube",
-      "id": "p2PSWSDzsQw",
-      "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
-      "view_count": 2500,
-      "view_delta": 700,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "KzwkB5XSp_s",
-      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
-      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
-      "view_count": 5500,
-      "view_delta": 100,
+      "id": "80-Dh08HIGU",
+      "title": "Blocking photosynthesis and increasing the risk of infection #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/80-Dh08HIGU",
+      "view_count": 49000,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -40,16 +40,6 @@
       "title": "Residents Protest: \"Sale Price Higher Than Nearby Market Value\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/f1ax4Cdm7LM",
       "view_count": 30000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "FzDp5WGaST4",
-      "title": "Boeun-gun to provide 160,000 won monthly as basic income #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/FzDp5WGaST4",
-      "view_count": 21000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -70,6 +60,16 @@
       "title": "Chungbuk Province: \"50% Is Still Among the Highest... Will Maintain Top-Tier Meal Costs\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/Z-wCxRBlKqo",
       "view_count": 9400,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "KzwkB5XSp_s",
+      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
+      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
+      "view_count": 5500,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
