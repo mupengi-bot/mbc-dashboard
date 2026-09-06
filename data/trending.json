@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-09-06T10:43:41.960841+09:00",
+  "collected_at": "2026-09-06T17:11:39.768081+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "p2PSWSDzsQw",
+      "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
+      "view_count": 4100,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "80-Dh08HIGU",
@@ -31,8 +42,7 @@
       "view_count": 22000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -60,16 +70,6 @@
       "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
       "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
       "view_count": 5500,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "p2PSWSDzsQw",
-      "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
-      "view_count": 4000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
