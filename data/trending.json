@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-09-08T01:47:32.289963+09:00",
+  "collected_at": "2026-09-08T07:22:23.440401+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "b-81bxdNJAo",
       "title": "It's one of a kind, right? | Perfect Shot releases September 9 | MBC Chungbuk",
       "url": "https://www.youtube.com/shorts/b-81bxdNJAo",
-      "view_count": 839,
-      "view_delta": 320,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "KzwkB5XSp_s",
-      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
-      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
-      "view_count": 5600,
-      "view_delta": 100,
+      "view_count": 872,
+      "view_delta": 33,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 30000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -70,6 +60,16 @@
       "title": "Chungbuk Province: \"50% Is Still Among the Highest... Will Maintain Top-Tier Meal Costs\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/Z-wCxRBlKqo",
       "view_count": 9500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "KzwkB5XSp_s",
+      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
+      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
+      "view_count": 5600,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
