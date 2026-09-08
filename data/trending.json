@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-09-09T04:06:21.122782+09:00",
+  "collected_at": "2026-09-09T07:08:02.987603+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "sw2OMHVEazg",
-      "title": "\"Get out!\" Passionate coach Kim Mi-hwa, what changed before and after training? | Perfect Shot pr...",
-      "url": "https://www.youtube.com/shorts/sw2OMHVEazg",
-      "view_count": 1500,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "b-81bxdNJAo",
       "title": "It's one of a kind, right? | Perfect Shot releases September 9 | MBC Chungbuk",
       "url": "https://www.youtube.com/shorts/b-81bxdNJAo",
-      "view_count": 895,
-      "view_delta": 11,
+      "view_count": 898,
+      "view_delta": 3,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 30000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
       "view_count": 3600,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "ip3AYP_KcRs",
+      "title": "New Funding Plan Won't Even Cover Rising Labor Costs #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/ip3AYP_KcRs",
+      "view_count": 3000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
