@@ -1,28 +1,6 @@
 {
-  "collected_at": "2026-09-08T17:24:23.425980+09:00",
+  "collected_at": "2026-09-09T00:34:49.220254+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "KzwkB5XSp_s",
-      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
-      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
-      "view_count": 5700,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "b-81bxdNJAo",
-      "title": "It's one of a kind, right? | Perfect Shot releases September 9 | MBC Chungbuk",
-      "url": "https://www.youtube.com/shorts/b-81bxdNJAo",
-      "view_count": 890,
-      "view_delta": 13,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "80-Dh08HIGU",
@@ -42,7 +20,8 @@
       "view_count": 30000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 22000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -70,6 +50,16 @@
       "title": "Chungbuk Province: \"50% Is Still Among the Highest... Will Maintain Top-Tier Meal Costs\" #Shorts ...",
       "url": "https://www.youtube.com/shorts/Z-wCxRBlKqo",
       "view_count": 9500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "KzwkB5XSp_s",
+      "title": "Too Little, Too Late: City Failed to Present \"Invalid Agreement\" Evidence #Shorts (MBC Chungbuk N...",
+      "url": "https://www.youtube.com/shorts/KzwkB5XSp_s",
+      "view_count": 5700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -100,6 +90,16 @@
       "title": "New Funding Plan Won't Even Cover Rising Labor Costs #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/ip3AYP_KcRs",
       "view_count": 3000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "imVPtlNOetc",
+      "title": "'Mega Sky': 37.6 Billion Won to be Invested by 2029 #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/imVPtlNOetc",
+      "view_count": 2800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
