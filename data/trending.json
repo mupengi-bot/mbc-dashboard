@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-09-11T17:23:13.927305+09:00",
+  "collected_at": "2026-09-12T00:26:39.570804+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "1X11OVkqc8Y",
+      "title": "Paper Mills Are Actually Incinerators... Regulations Falling Short #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/1X11OVkqc8Y",
+      "view_count": 1200,
+      "view_delta": 566,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "b-81bxdNJAo",
       "title": "It's one of a kind, right? | Perfect Shot releases September 9 | MBC Chungbuk",
       "url": "https://www.youtube.com/shorts/b-81bxdNJAo",
-      "view_count": 958,
-      "view_delta": 3,
+      "view_count": 966,
+      "view_delta": 8,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 30000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "New Funding Plan Won't Even Cover Rising Labor Costs #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/ip3AYP_KcRs",
       "view_count": 3000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "imVPtlNOetc",
-      "title": "'Mega Sky': 37.6 Billion Won to be Invested by 2029 #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/imVPtlNOetc",
-      "view_count": 2800,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
