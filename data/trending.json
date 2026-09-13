@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-09-14T00:14:03.181035+09:00",
+  "collected_at": "2026-09-14T03:24:33.195092+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "1X11OVkqc8Y",
       "title": "Paper Mills Are Actually Incinerators... Regulations Falling Short #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/1X11OVkqc8Y",
-      "view_count": 4200,
-      "view_delta": 600,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "imVPtlNOetc",
-      "title": "'Mega Sky': 37.6 Billion Won to be Invested by 2029 #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/imVPtlNOetc",
-      "view_count": 2900,
-      "view_delta": 100,
+      "view_count": 4400,
+      "view_delta": 200,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -26,9 +15,9 @@
     {
       "type": "youtube",
       "id": "b-81bxdNJAo",
-      "title": "세상에 하나뿐이잖아, 맞지? | 퍼펙트슛 9월 9일 개봉 | MBC충북",
+      "title": "It's one of a kind, right? | Perfect Shot releases September 9 | MBC Chungbuk",
       "url": "https://www.youtube.com/shorts/b-81bxdNJAo",
-      "view_count": 979,
+      "view_count": 982,
       "view_delta": 3,
       "comment_count": 0,
       "channel": "",
@@ -42,7 +31,8 @@
       "view_count": 49000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
       "view_count": 3600,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "ip3AYP_KcRs",
+      "title": "New Funding Plan Won't Even Cover Rising Labor Costs #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/ip3AYP_KcRs",
+      "view_count": 3000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
