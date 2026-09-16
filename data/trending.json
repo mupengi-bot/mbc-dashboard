@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-09-17T00:42:46.316431+09:00",
+  "collected_at": "2026-09-17T04:11:00.831229+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "2hzv50IeeZk",
       "title": "$15,000 Extorted from 67 Restaurants #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/2hzv50IeeZk",
-      "view_count": 4900,
-      "view_delta": 4014,
+      "view_count": 8400,
+      "view_delta": 3500,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "1X11OVkqc8Y",
+      "title": "Paper Mills Are Actually Incinerators... Regulations Falling Short #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/1X11OVkqc8Y",
+      "view_count": 6700,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,8 +28,8 @@
       "id": "5NoOO95v_aM",
       "title": "Sophisticated 'Psychological Manipulation'.. Victim even handed over their entire asset list #Sho...",
       "url": "https://www.youtube.com/shorts/5NoOO95v_aM",
-      "view_count": 5100,
-      "view_delta": 300,
+      "view_count": 5200,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 49000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -50,16 +60,6 @@
       "title": "A Broken Vetting System.. \"No Sanctions Whatsoever\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/nRh-8TmLPis",
       "view_count": 18000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "1X11OVkqc8Y",
-      "title": "Paper Mills Are Actually Incinerators... Regulations Falling Short #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/1X11OVkqc8Y",
-      "view_count": 6600,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
