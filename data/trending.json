@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-09-23T00:53:41.887723+09:00",
+  "collected_at": "2026-09-23T04:20:53.687768+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "k2dQlWm7JAE",
-      "title": "Flu cases soar 4.6x… Free vaccinations moved up by a week #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/k2dQlWm7JAE",
-      "view_count": 1000,
-      "view_delta": 291,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "hX_ebnKN-F8",
       "title": "\"Forced to answer unknown numbers\": No-show scams threatening small business owners #Shorts (MBC ...",
       "url": "https://www.youtube.com/shorts/hX_ebnKN-F8",
-      "view_count": 7600,
-      "view_delta": 200,
+      "view_count": 7700,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 22000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +90,16 @@
       "title": "'Mega Sky': 37.6 Billion Won to be Invested by 2029 #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/imVPtlNOetc",
       "view_count": 2900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "sw2OMHVEazg",
+      "title": "\"Get out!\" Passionate coach Kim Mi-hwa, what changed before and after training? | Perfect Shot pr...",
+      "url": "https://www.youtube.com/shorts/sw2OMHVEazg",
+      "view_count": 1600,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
