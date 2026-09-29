@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-09-30T02:11:36.669141+09:00",
+  "collected_at": "2026-09-30T08:15:48.565117+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "Iec3rmy_lLQ",
       "title": "Confusion Over Taxi Surcharge When Crossing Regional Boundaries #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Iec3rmy_lLQ",
-      "view_count": 1200,
-      "view_delta": 949,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "1X11OVkqc8Y",
-      "title": "Paper Mills Are Actually Incinerators... Regulations Falling Short #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/1X11OVkqc8Y",
-      "view_count": 6900,
-      "view_delta": 100,
+      "view_count": 1700,
+      "view_delta": 500,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -28,8 +17,8 @@
       "id": "m3XqveYsDvc",
       "title": "제28회 충청북도 음식문화페스타 전국 요리경연대회 참가자 모집🔥 | 충북 대표 메뉴에 도전하세요!",
       "url": "https://www.youtube.com/shorts/m3XqveYsDvc",
-      "view_count": 99,
-      "view_delta": 4,
+      "view_count": 101,
+      "view_delta": 2,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 32000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -60,6 +50,16 @@
       "title": "\"Forced to answer unknown numbers\": No-show scams threatening small business owners #Shorts (MBC ...",
       "url": "https://www.youtube.com/shorts/hX_ebnKN-F8",
       "view_count": 7900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "1X11OVkqc8Y",
+      "title": "Paper Mills Are Actually Incinerators... Regulations Falling Short #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/1X11OVkqc8Y",
+      "view_count": 6900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -97,7 +97,7 @@
     {
       "type": "youtube",
       "id": "imVPtlNOetc",
-      "title": "'Mega Sky': 37.6 Billion Won to be Invested by 2029 #Shorts (MBC Chungbuk News)",
+      "title": "'메가 스카이' 2029년까지 376억 원 투입 #Shorts (MBC충북뉴스)",
       "url": "https://www.youtube.com/shorts/imVPtlNOetc",
       "view_count": 2900,
       "view_delta": 0,
