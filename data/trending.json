@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-10-02T08:32:45.805748+09:00",
+  "collected_at": "2026-10-02T11:57:28.320899+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "Iec3rmy_lLQ",
-      "title": "Confusion Over Taxi Surcharge When Crossing Regional Boundaries #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/Iec3rmy_lLQ",
-      "view_count": 5400,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "2hzv50IeeZk",
@@ -42,7 +31,8 @@
       "view_count": 7900,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -60,6 +50,16 @@
       "title": "Sophisticated 'Psychological Manipulation'.. Victim even handed over their entire asset list #Sho...",
       "url": "https://www.youtube.com/shorts/5NoOO95v_aM",
       "view_count": 6500,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "Iec3rmy_lLQ",
+      "title": "Confusion Over Taxi Surcharge When Crossing Regional Boundaries #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/Iec3rmy_lLQ",
+      "view_count": 5400,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
