@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-10-05T19:57:11.746550+09:00",
+  "collected_at": "2026-10-06T10:01:23.036365+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "Iec3rmy_lLQ",
+      "title": "Confusion Over Taxi Surcharge When Crossing Regional Boundaries #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/Iec3rmy_lLQ",
+      "view_count": 6100,
+      "view_delta": 200,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "2hzv50IeeZk",
@@ -31,8 +42,7 @@
       "view_count": 7900,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -56,18 +66,8 @@
     },
     {
       "type": "youtube",
-      "id": "Iec3rmy_lLQ",
-      "title": "Confusion Over Taxi Surcharge When Crossing Regional Boundaries #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/Iec3rmy_lLQ",
-      "view_count": 5900,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "uUNF3DoRsRI",
-      "title": "소각장 저지 불투명‥ '배상금 폭탄' 위험도 #Shorts (MBC충북뉴스)",
+      "title": "Uncertain future for incinerator blocks... Risk of a 'compensation bomb' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/uUNF3DoRsRI",
       "view_count": 4200,
       "view_delta": 0,
@@ -77,7 +77,7 @@
     {
       "type": "youtube",
       "id": "p2PSWSDzsQw",
-      "title": "주식 '포모' 현상 이용한 보이스피싱 기승 #Shorts (MBC충북뉴스)",
+      "title": "Stock scams exploiting the 'FOMO' phenomenon are on the rise #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/p2PSWSDzsQw",
       "view_count": 3600,
       "view_delta": 0,
