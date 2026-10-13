@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-14T00:22:26.015392+09:00",
+  "collected_at": "2026-10-14T05:52:41.577279+09:00",
   "videos": [
     {
       "id": "jlJatdY6JpQ",
@@ -118,8 +118,16 @@
       "view_count": 4200,
       "duration": 0,
       "upload_date": "",
-      "comments": [],
-      "comment_count": 0
+      "comments": [
+        {
+          "author": "@CSH24",
+          "text": "경상도쪽 인구도 많이 줄었다던데 그런데에 하지",
+          "timestamp": 1789344000,
+          "like_count": 2,
+          "time_text": "1 month ago"
+        }
+      ],
+      "comment_count": 1
     },
     {
       "id": "m3XqveYsDvc",
