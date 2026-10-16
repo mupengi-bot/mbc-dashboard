@@ -1,28 +1,6 @@
 {
-  "collected_at": "2026-10-17T00:42:52.133085+09:00",
+  "collected_at": "2026-10-17T04:06:53.368091+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "LaDbjMN8Vsg",
-      "title": "Academy of Korean Studies changes Jeong Do-jeon’s birthplace from Danyang to 'Yeongju, Gyeongbuk'...",
-      "url": "https://www.youtube.com/shorts/LaDbjMN8Vsg",
-      "view_count": 16000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "Arm8-VsX_pU",
-      "title": "Bribing bank employees to track down gambling accounts #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/Arm8-VsX_pU",
-      "view_count": 3700,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "2hzv50IeeZk",
@@ -36,13 +14,25 @@
     },
     {
       "type": "youtube",
+      "id": "LaDbjMN8Vsg",
+      "title": "Academy of Korean Studies changes Jeong Do-jeon’s birthplace from Danyang to 'Yeongju, Gyeongbuk'...",
+      "url": "https://www.youtube.com/shorts/LaDbjMN8Vsg",
+      "view_count": 16000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
       "id": "TyLo2kqDnpw",
       "title": "\"Dragging luggage 70m away\"..The 'bureaucratic incompetence' hidden by a 20 billion won new stati...",
       "url": "https://www.youtube.com/shorts/TyLo2kqDnpw",
       "view_count": 10000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -57,7 +47,7 @@
     {
       "type": "youtube",
       "id": "1X11OVkqc8Y",
-      "title": "Paper Mills Are Actually Incinerators... Regulations Falling Short #Shorts (MBC Chungbuk News)",
+      "title": "제지 공장도 알고 보니 소각장‥ 겉도는 규제 #Shorts (MBC충북뉴스)",
       "url": "https://www.youtube.com/shorts/1X11OVkqc8Y",
       "view_count": 6900,
       "view_delta": 0,
@@ -77,7 +67,7 @@
     {
       "type": "youtube",
       "id": "Iec3rmy_lLQ",
-      "title": "Confusion Over Taxi Surcharge When Crossing Regional Boundaries #Shorts (MBC Chungbuk News)",
+      "title": "동지역 경계 넘나들 때 적용 혼선 #Shorts (MBC충북뉴스)",
       "url": "https://www.youtube.com/shorts/Iec3rmy_lLQ",
       "view_count": 6100,
       "view_delta": 0,
@@ -86,8 +76,18 @@
     },
     {
       "type": "youtube",
+      "id": "Arm8-VsX_pU",
+      "title": "Bribing bank employees to track down gambling accounts #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/Arm8-VsX_pU",
+      "view_count": 3700,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
       "id": "jlJatdY6JpQ",
-      "title": "\"Hang up on suspicious calls immediately\" #Shorts (MBC Chungbuk News)",
+      "title": "\"의심되는 전화 일단 끊어야\" #Shorts (MBC충북뉴스)",
       "url": "https://www.youtube.com/shorts/jlJatdY6JpQ",
       "view_count": 1800,
       "view_delta": 0,
