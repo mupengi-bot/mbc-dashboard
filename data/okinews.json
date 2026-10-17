@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-17T07:18:14.280887+09:00",
+  "collected_at": "2026-10-17T10:57:34.522832+09:00",
   "posts": [
     {
       "id": "37844",
@@ -7,7 +7,7 @@
       "url": "http://www.okinews.com/bbs/list.html?table=bbs_1&idxno=37844&sc_category=&page=1&total=23526&sc_area=&sc_word=",
       "author": "옥천신문",
       "date": "2006-11-18",
-      "views": 1606151,
+      "views": 1606166,
       "comment_count": 9,
       "preview": "본사 홈페이지는 1999년에 만들어져 지금까지 옥천 주민과 네티즌들의 소통마당으로 활용되고 있습니다.주민의 목소리가 가득한 옥천신문 여론광장이 될 수 있도록 협조 부탁드리며 다음과"
     },
@@ -17,9 +17,9 @@
       "url": "http://www.okinews.com/bbs/list.html?table=bbs_1&idxno=267333&sc_category=&page=1&total=23526&sc_area=&sc_word=",
       "author": "목카드판매",
       "date": "2026-10-17",
-      "views": 6,
+      "views": 16,
       "comment_count": 0,
-      "preview": "※목화투.파는곳※ 0.1.0ㆍ4.9.2.9ㆍ3.6.3.6◆목화투판매◆렌즈카드.렌즈화투.사기도박장비홀덤.섯다.투시장비.목카드.렌즈목.표시목.공장목◾공장목카드(표시목) 20가지 취급."
+      "preview": ""
     },
     {
       "id": "267332",
@@ -27,9 +27,9 @@
       "url": "http://www.okinews.com/bbs/list.html?table=bbs_1&idxno=267332&sc_category=&page=1&total=23526&sc_area=&sc_word=",
       "author": "사기도박장비",
       "date": "2026-10-17",
-      "views": 4,
+      "views": 7,
       "comment_count": 0,
-      "preview": "※목화투.구매처※ 0.1.0ㆍ4.9.2.9ㆍ3.6.3.6◆목화투구매◆렌즈카드.렌즈화투.사기도박장비◾공장목카드(표시목) 20가지 취급.(주문제작가능)※홀덤장비.섯다장비.목카드.공장목"
+      "preview": ""
     },
     {
       "id": "267331",
@@ -37,9 +37,9 @@
       "url": "http://www.okinews.com/bbs/list.html?table=bbs_1&idxno=267331&sc_category=&page=1&total=23526&sc_area=&sc_word=",
       "author": "목카드판매",
       "date": "2026-10-17",
-      "views": 7,
+      "views": 11,
       "comment_count": 0,
-      "preview": "※목카드.구매처※ 0.1.0ㆍ4.9.2.9ㆍ3.6.3.6◆목카드구매◆렌즈카드.렌즈화투.사기도박장비◾표시목카드(공장목) 20가지 취급.(주문제작가능)※홀덤장비.섯다장비.목화투.렌즈목"
+      "preview": ""
     },
     {
       "id": "267299",
@@ -123,12 +123,12 @@
     },
     {
       "id": "267268",
-      "title": "전상인 또 검찰 송치",
+      "title": "전상인 또 검찰 송치 (1)",
       "url": "http://www.okinews.com/bbs/list.html?table=bbs_1&idxno=267268&sc_category=&page=1&total=23526&sc_area=&sc_word=",
       "author": "불법선거운동",
       "date": "2026-10-15",
-      "views": 490,
-      "comment_count": 0,
+      "views": 518,
+      "comment_count": 1,
       "preview": ""
     },
     {
@@ -147,7 +147,7 @@
       "url": "http://www.okinews.com/bbs/list.html?table=bbs_1&idxno=266981&sc_category=&page=1&total=23526&sc_area=&sc_word=",
       "author": "조수호",
       "date": "2026-10-07",
-      "views": 1069,
+      "views": 1073,
       "comment_count": 2,
       "preview": ""
     },
@@ -193,12 +193,12 @@
     },
     {
       "id": "266941",
-      "title": "영화 《암살자(들)》과 옥천 (3)",
+      "title": "영화 《암살자(들)》과 옥천 (4)",
       "url": "http://www.okinews.com/bbs/list.html?table=bbs_1&idxno=266941&sc_category=&page=1&total=23526&sc_area=&sc_word=",
       "author": "양수리",
       "date": "2026-10-05",
-      "views": 1173,
-      "comment_count": 3,
+      "views": 1183,
+      "comment_count": 4,
       "preview": ""
     },
     {
@@ -207,7 +207,7 @@
       "url": "http://www.okinews.com/bbs/list.html?table=bbs_1&idxno=266937&sc_category=&page=1&total=23526&sc_area=&sc_word=",
       "author": "옥천의행정현실",
       "date": "2026-10-05",
-      "views": 1047,
+      "views": 1052,
       "comment_count": 11,
       "preview": ""
     }
