@@ -1,6 +1,17 @@
 {
-  "collected_at": "2026-10-21T07:46:42.330114+09:00",
+  "collected_at": "2026-10-21T11:22:11.718791+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "dJZmXRFVGpA",
+      "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
+      "view_count": 2200,
+      "view_delta": 200,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "2hzv50IeeZk",
@@ -31,8 +42,7 @@
       "view_count": 10000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -76,16 +86,6 @@
     },
     {
       "type": "youtube",
-      "id": "dJZmXRFVGpA",
-      "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
-      "view_count": 2000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "jlJatdY6JpQ",
       "title": "\"Hang up on suspicious calls immediately\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/jlJatdY6JpQ",
@@ -97,7 +97,7 @@
     {
       "type": "youtube",
       "id": "sw2OMHVEazg",
-      "title": "\"Get out!\" Passionate coach Kim Mi-hwa, what changed before and after training? | Perfect Shot pr...",
+      "title": "\"나가라고!\" 열혈 감독 김미화, 훈련 전과 후의 변화는? | 퍼펙트슛 9월 9일 개봉 | MBC충북",
       "url": "https://www.youtube.com/shorts/sw2OMHVEazg",
       "view_count": 1700,
       "view_delta": 0,
