@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-10-21T11:22:11.718791+09:00",
+  "collected_at": "2026-10-21T17:57:31.214385+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "dJZmXRFVGpA",
       "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
-      "view_count": 2200,
-      "view_delta": 200,
+      "view_count": 2300,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "uAp_ee96sRw",
+      "title": "고된 훈련 끝에 꿀맛같은 물놀이 | 퍼펙트슛 9월 9일 개봉 | MBC충북",
+      "url": "https://www.youtube.com/shorts/uAp_ee96sRw",
+      "view_count": 1300,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 18000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "\"Hang up on suspicious calls immediately\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/jlJatdY6JpQ",
       "view_count": 1900,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "sw2OMHVEazg",
-      "title": "\"나가라고!\" 열혈 감독 김미화, 훈련 전과 후의 변화는? | 퍼펙트슛 9월 9일 개봉 | MBC충북",
-      "url": "https://www.youtube.com/shorts/sw2OMHVEazg",
-      "view_count": 1700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
