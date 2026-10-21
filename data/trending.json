@@ -1,23 +1,12 @@
 {
-  "collected_at": "2026-10-21T17:57:31.214385+09:00",
+  "collected_at": "2026-10-22T01:14:52.199417+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "dJZmXRFVGpA",
       "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
-      "view_count": 2300,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "uAp_ee96sRw",
-      "title": "고된 훈련 끝에 꿀맛같은 물놀이 | 퍼펙트슛 9월 9일 개봉 | MBC충북",
-      "url": "https://www.youtube.com/shorts/uAp_ee96sRw",
-      "view_count": 1300,
+      "view_count": 2400,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -42,7 +31,8 @@
       "view_count": 18000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -57,7 +47,7 @@
     {
       "type": "youtube",
       "id": "hX_ebnKN-F8",
-      "title": "\"Forced to answer unknown numbers\": No-show scams threatening small business owners #Shorts (MBC ...",
+      "title": "\"모르는 번호도 받을 수 밖에\" 자영업자 위협하는 노쇼 사기 #Shorts (MBC충북뉴스)",
       "url": "https://www.youtube.com/shorts/hX_ebnKN-F8",
       "view_count": 7900,
       "view_delta": 0,
@@ -100,6 +90,16 @@
       "title": "\"Hang up on suspicious calls immediately\" #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/jlJatdY6JpQ",
       "view_count": 1900,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "sw2OMHVEazg",
+      "title": "\"Get out!\" Passionate coach Kim Mi-hwa, what changed before and after training? | Perfect Shot pr...",
+      "url": "https://www.youtube.com/shorts/sw2OMHVEazg",
+      "view_count": 1700,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
