@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-10-30T12:20:34.009826+09:00",
+  "collected_at": "2026-10-30T19:31:33.793853+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "P_gH_zLLcRw",
       "title": "Major Cooking Academy Suddenly Closes... Students Left in the Lurch #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/P_gH_zLLcRw",
-      "view_count": 4400,
-      "view_delta": 800,
+      "view_count": 5300,
+      "view_delta": 900,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "NsrBDOZ6g6c",
+      "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
+      "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
+      "view_count": 2400,
+      "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -17,7 +28,7 @@
       "id": "KCEowdv1tI8",
       "title": "Drunk driving alcohol level was at license revocation threshold #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/KCEowdv1tI8",
-      "view_count": 1900,
+      "view_count": 2000,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
@@ -31,8 +42,7 @@
       "view_count": 19000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -70,16 +80,6 @@
       "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
       "view_count": 2900,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "NsrBDOZ6g6c",
-      "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
-      "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
-      "view_count": 2300,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
