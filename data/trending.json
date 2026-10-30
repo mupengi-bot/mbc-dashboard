@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-10-31T02:24:09.977589+09:00",
+  "collected_at": "2026-10-31T08:21:15.736345+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "P_gH_zLLcRw",
       "title": "Major Cooking Academy Suddenly Closes... Students Left in the Lurch #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/P_gH_zLLcRw",
-      "view_count": 6400,
-      "view_delta": 1100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "NsrBDOZ6g6c",
-      "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
-      "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
-      "view_count": 2600,
-      "view_delta": 200,
+      "view_count": 6800,
+      "view_delta": 400,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -28,21 +17,11 @@
       "id": "KCEowdv1tI8",
       "title": "Drunk driving alcohol level was at license revocation threshold #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/KCEowdv1tI8",
-      "view_count": 2100,
+      "view_count": 2200,
       "view_delta": 100,
       "comment_count": 0,
       "channel": "",
       "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "m3XqveYsDvc",
-      "title": "제28회 충청북도 음식문화페스타 전국 요리경연대회 참가자 모집🔥 | 충북 대표 메뉴에 도전하세요!",
-      "url": "https://www.youtube.com/shorts/m3XqveYsDvc",
-      "view_count": 206,
-      "view_delta": 1,
-      "comment_count": 0,
-      "channel": ""
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 19000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -96,10 +76,30 @@
     },
     {
       "type": "youtube",
+      "id": "NsrBDOZ6g6c",
+      "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
+      "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
+      "view_count": 2600,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
       "id": "1jqXnpScU9Q",
       "title": "Total Investment of 23.5 Billion Won.. Includes 'Media Facade Tunnel' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/1jqXnpScU9Q",
       "view_count": 2100,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "jlJatdY6JpQ",
+      "title": "\"Hang up on suspicious calls immediately\" #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/jlJatdY6JpQ",
+      "view_count": 1900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
