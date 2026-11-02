@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-11-02T20:46:52.757761+09:00",
+  "collected_at": "2026-11-03T05:58:57.452200+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "P_gH_zLLcRw",
-      "title": "Major Cooking Academy Suddenly Closes... Students Left in the Lurch #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/P_gH_zLLcRw",
-      "view_count": 11000,
-      "view_delta": 1000,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "m3XqveYsDvc",
       "title": "제28회 충청북도 음식문화페스타 전국 요리경연대회 참가자 모집🔥 | 충북 대표 메뉴에 도전하세요!",
       "url": "https://www.youtube.com/shorts/m3XqveYsDvc",
-      "view_count": 467,
-      "view_delta": 242,
+      "view_count": 512,
+      "view_delta": 45,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -29,6 +18,17 @@
       "title": "Academy of Korean Studies changes Jeong Do-jeon’s birthplace from Danyang to 'Yeongju, Gyeongbuk'...",
       "url": "https://www.youtube.com/shorts/LaDbjMN8Vsg",
       "view_count": 19000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "P_gH_zLLcRw",
+      "title": "Major Cooking Academy Suddenly Closes... Students Left in the Lurch #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/P_gH_zLLcRw",
+      "view_count": 11000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": "",
@@ -101,7 +101,7 @@
       "url": "https://www.youtube.com/shorts/1jqXnpScU9Q",
       "view_count": 2100,
       "view_delta": 0,
-      "comment_count": 0,
+      "comment_count": 4,
       "channel": ""
     }
   ]
