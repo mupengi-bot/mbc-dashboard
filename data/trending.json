@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-11-04T12:44:15.261261+09:00",
+  "collected_at": "2026-11-04T20:42:08.964878+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "m3XqveYsDvc",
-      "title": "제28회 충청북도 음식문화페스타 전국 요리경연대회 참가자 모집🔥 | 충북 대표 메뉴에 도전하세요!",
-      "url": "https://www.youtube.com/shorts/m3XqveYsDvc",
-      "view_count": 1000,
-      "view_delta": 15,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "LaDbjMN8Vsg",
@@ -36,23 +25,14 @@
     },
     {
       "type": "youtube",
-      "id": "TyLo2kqDnpw",
-      "title": "\"Dragging luggage 70m away\"..The 'bureaucratic incompetence' hidden by a 20 billion won new stati...",
-      "url": "https://www.youtube.com/shorts/TyLo2kqDnpw",
-      "view_count": 10000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "Iec3rmy_lLQ",
       "title": "Confusion Over Taxi Surcharge When Crossing Regional Boundaries #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Iec3rmy_lLQ",
       "view_count": 6200,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -70,6 +50,16 @@
       "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
       "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
       "view_count": 3200,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "R_2kyN2UawM",
+      "title": "Flaunting Wealth Led to Kidnapping by Rival Gang and Eventual Arrest #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/R_2kyN2UawM",
+      "view_count": 3000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -100,6 +90,16 @@
       "title": "Total Investment of 23.5 Billion Won.. Includes 'Media Facade Tunnel' #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/1jqXnpScU9Q",
       "view_count": 2100,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "jlJatdY6JpQ",
+      "title": "\"Hang up on suspicious calls immediately\" #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/jlJatdY6JpQ",
+      "view_count": 1900,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
