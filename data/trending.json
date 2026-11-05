@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-11-05T04:00:07.502955+09:00",
+  "collected_at": "2026-11-05T09:35:18.087892+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "R_2kyN2UawM",
       "title": "Flaunting Wealth Led to Kidnapping by Rival Gang and Eventual Arrest #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/R_2kyN2UawM",
-      "view_count": 6600,
-      "view_delta": 3600,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "dJZmXRFVGpA",
-      "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
-      "view_count": 3000,
-      "view_delta": 100,
+      "view_count": 7500,
+      "view_delta": 900,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 11000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -70,6 +60,16 @@
       "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
       "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
       "view_count": 3200,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "dJZmXRFVGpA",
+      "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
+      "view_count": 3000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
