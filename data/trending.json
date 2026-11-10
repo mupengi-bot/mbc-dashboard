@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-11T00:54:43.790151+09:00",
+  "collected_at": "2026-11-11T06:33:01.466378+09:00",
   "items": [
     {
       "type": "youtube",
@@ -30,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/LaDbjMN8Vsg",
       "view_count": 19000,
       "view_delta": 0,
-      "comment_count": 0,
+      "comment_count": 8,
       "channel": "",
       "hot": true
     },
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/shorts/P_gH_zLLcRw",
       "view_count": 11000,
       "view_delta": 0,
-      "comment_count": 0,
+      "comment_count": 5,
       "channel": ""
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.youtube.com/shorts/z82j4F9Ruyg",
       "view_count": 6100,
       "view_delta": 0,
-      "comment_count": 0,
+      "comment_count": 13,
       "channel": ""
     },
     {
@@ -101,7 +101,7 @@
       "url": "https://www.youtube.com/shorts/1jqXnpScU9Q",
       "view_count": 2200,
       "view_delta": 0,
-      "comment_count": 4,
+      "comment_count": 0,
       "channel": ""
     }
   ]
