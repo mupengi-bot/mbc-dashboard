@@ -1,35 +1,24 @@
 {
-  "collected_at": "2026-11-11T20:31:54.104156+09:00",
+  "collected_at": "2026-11-12T03:58:16.937756+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "W3MR3GIG2S4",
+      "title": "청주시 \"발판 아니고 보조장치..자동차 검사 통과\" #Shorts (MBC충북뉴스)",
+      "url": "https://www.youtube.com/shorts/W3MR3GIG2S4",
+      "view_count": 4600,
+      "view_delta": 2300,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "Tm3rT94M3dg",
       "title": "Only 5 Hours of Training in the Entire Itinerary #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Tm3rT94M3dg",
-      "view_count": 62000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "R_2kyN2UawM",
-      "title": "Flaunting Wealth Led to Kidnapping by Rival Gang and Eventual Arrest #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/R_2kyN2UawM",
-      "view_count": 32000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "P_gH_zLLcRw",
-      "title": "Major Cooking Academy Suddenly Closes... Students Left in the Lurch #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/P_gH_zLLcRw",
-      "view_count": 11000,
-      "view_delta": 0,
+      "view_count": 63000,
+      "view_delta": 1000,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -39,7 +28,38 @@
       "id": "z82j4F9Ruyg",
       "title": "\"No abusive language or power abuse... meant to praise attitude, not appearance\" #Shorts (MBC Chu...",
       "url": "https://www.youtube.com/shorts/z82j4F9Ruyg",
-      "view_count": 6100,
+      "view_count": 6200,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "aHFXsIFbLpk",
+      "title": "\"He's so good!\" The ace arrives, 'No. 10 Kim Saeng-soo' | Perfect Shot releases September 9 | MBC...",
+      "url": "https://www.youtube.com/shorts/aHFXsIFbLpk",
+      "view_count": 1300,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "R_2kyN2UawM",
+      "title": "Flaunting Wealth Led to Kidnapping by Rival Gang and Eventual Arrest #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/R_2kyN2UawM",
+      "view_count": 32000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "P_gH_zLLcRw",
+      "title": "Major Cooking Academy Suddenly Closes... Students Left in the Lurch #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/P_gH_zLLcRw",
+      "view_count": 11000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
@@ -51,7 +71,7 @@
       "url": "https://www.youtube.com/shorts/Arm8-VsX_pU",
       "view_count": 4100,
       "view_delta": 0,
-      "comment_count": 0,
+      "comment_count": 1,
       "channel": ""
     },
     {
@@ -81,27 +101,7 @@
       "url": "https://www.youtube.com/shorts/KCEowdv1tI8",
       "view_count": 2600,
       "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "W3MR3GIG2S4",
-      "title": "청주시 \"발판 아니고 보조장치..자동차 검사 통과\" #Shorts (MBC충북뉴스)",
-      "url": "https://www.youtube.com/shorts/W3MR3GIG2S4",
-      "view_count": 2300,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "1jqXnpScU9Q",
-      "title": "Total Investment of 23.5 Billion Won.. Includes 'Media Facade Tunnel' #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/1jqXnpScU9Q",
-      "view_count": 2200,
-      "view_delta": 0,
-      "comment_count": 0,
+      "comment_count": 2,
       "channel": ""
     }
   ]
