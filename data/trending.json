@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-11-12T03:58:16.937756+09:00",
+  "collected_at": "2026-11-12T10:43:33.414351+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "W3MR3GIG2S4",
-      "title": "청주시 \"발판 아니고 보조장치..자동차 검사 통과\" #Shorts (MBC충북뉴스)",
+      "title": "Cheongju City: \"Not a step, but an auxiliary device... Passed vehicle inspection\" #Shorts (MBC Ch...",
       "url": "https://www.youtube.com/shorts/W3MR3GIG2S4",
-      "view_count": 4600,
-      "view_delta": 2300,
+      "view_count": 6400,
+      "view_delta": 1800,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -18,31 +18,10 @@
       "title": "Only 5 Hours of Training in the Entire Itinerary #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Tm3rT94M3dg",
       "view_count": 63000,
-      "view_delta": 1000,
+      "view_delta": 0,
       "comment_count": 0,
       "channel": "",
       "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "z82j4F9Ruyg",
-      "title": "\"No abusive language or power abuse... meant to praise attitude, not appearance\" #Shorts (MBC Chu...",
-      "url": "https://www.youtube.com/shorts/z82j4F9Ruyg",
-      "view_count": 6200,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "aHFXsIFbLpk",
-      "title": "\"He's so good!\" The ace arrives, 'No. 10 Kim Saeng-soo' | Perfect Shot releases September 9 | MBC...",
-      "url": "https://www.youtube.com/shorts/aHFXsIFbLpk",
-      "view_count": 1300,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": ""
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 32000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -66,12 +46,22 @@
     },
     {
       "type": "youtube",
+      "id": "z82j4F9Ruyg",
+      "title": "\"No abusive language or power abuse... meant to praise attitude, not appearance\" #Shorts (MBC Chu...",
+      "url": "https://www.youtube.com/shorts/z82j4F9Ruyg",
+      "view_count": 6200,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
       "id": "Arm8-VsX_pU",
       "title": "Bribing bank employees to track down gambling accounts #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Arm8-VsX_pU",
       "view_count": 4100,
       "view_delta": 0,
-      "comment_count": 1,
+      "comment_count": 0,
       "channel": ""
     },
     {
@@ -101,7 +91,17 @@
       "url": "https://www.youtube.com/shorts/KCEowdv1tI8",
       "view_count": 2600,
       "view_delta": 0,
-      "comment_count": 2,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "1jqXnpScU9Q",
+      "title": "Total Investment of 23.5 Billion Won.. Includes 'Media Facade Tunnel' #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/1jqXnpScU9Q",
+      "view_count": 2200,
+      "view_delta": 0,
+      "comment_count": 0,
       "channel": ""
     }
   ]
