@@ -1,17 +1,6 @@
 {
-  "collected_at": "2026-11-13T20:41:13.408676+09:00",
+  "collected_at": "2026-11-14T03:53:49.263893+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "W3MR3GIG2S4",
-      "title": "Cheongju City: \"Not a step, but an auxiliary device... Passed vehicle inspection\" #Shorts (MBC Ch...",
-      "url": "https://www.youtube.com/shorts/W3MR3GIG2S4",
-      "view_count": 10000,
-      "view_delta": 400,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "Tm3rT94M3dg",
@@ -40,6 +29,17 @@
       "title": "Major Cooking Academy Suddenly Closes... Students Left in the Lurch #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/P_gH_zLLcRw",
       "view_count": 11000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "W3MR3GIG2S4",
+      "title": "Cheongju City: \"Not a step, but an auxiliary device... Passed vehicle inspection\" #Shorts (MBC Ch...",
+      "url": "https://www.youtube.com/shorts/W3MR3GIG2S4",
+      "view_count": 10000,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
