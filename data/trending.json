@@ -1,13 +1,35 @@
 {
-  "collected_at": "2026-11-21T13:39:05.361085+09:00",
+  "collected_at": "2026-11-22T00:44:02.399235+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "NsrBDOZ6g6c",
+      "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
+      "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
+      "view_count": 3300,
+      "view_delta": 100,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "ANR74SR_n2Q",
       "title": "'A Small Step' to Make Small Business Owners Smile",
       "url": "https://www.youtube.com/shorts/ANR74SR_n2Q",
-      "view_count": 874,
-      "view_delta": 3,
+      "view_count": 895,
+      "view_delta": 21,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "5gez334Iz5w",
+      "title": "'Small Steps' That Make Small Business Owners Smile",
+      "url": "https://www.youtube.com/shorts/5gez334Iz5w",
+      "view_count": 43,
+      "view_delta": 2,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -20,8 +42,7 @@
       "view_count": 63000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -31,8 +52,7 @@
       "view_count": 32000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -47,7 +67,7 @@
     {
       "type": "youtube",
       "id": "P_gH_zLLcRw",
-      "title": "Major Cooking Academy Suddenly Closes... Students Left in the Lurch #Shorts (MBC Chungbuk News)",
+      "title": "문 닫은 대형 요리학원..수강생 '날벼락' #Shorts (MBC충북뉴스)",
       "url": "https://www.youtube.com/shorts/P_gH_zLLcRw",
       "view_count": 12000,
       "view_delta": 0,
@@ -76,30 +96,10 @@
     },
     {
       "type": "youtube",
-      "id": "NsrBDOZ6g6c",
-      "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
-      "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
-      "view_count": 3200,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
       "id": "dJZmXRFVGpA",
       "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
       "view_count": 3000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "KCEowdv1tI8",
-      "title": "Drunk driving alcohol level was at license revocation threshold #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/KCEowdv1tI8",
-      "view_count": 2600,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
