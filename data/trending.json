@@ -1,24 +1,13 @@
 {
-  "collected_at": "2026-11-22T00:44:02.399235+09:00",
+  "collected_at": "2026-11-22T06:19:18.337479+09:00",
   "items": [
-    {
-      "type": "youtube",
-      "id": "NsrBDOZ6g6c",
-      "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
-      "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
-      "view_count": 3300,
-      "view_delta": 100,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
     {
       "type": "youtube",
       "id": "ANR74SR_n2Q",
       "title": "'A Small Step' to Make Small Business Owners Smile",
       "url": "https://www.youtube.com/shorts/ANR74SR_n2Q",
-      "view_count": 895,
-      "view_delta": 21,
+      "view_count": 909,
+      "view_delta": 14,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -28,8 +17,8 @@
       "id": "5gez334Iz5w",
       "title": "'Small Steps' That Make Small Business Owners Smile",
       "url": "https://www.youtube.com/shorts/5gez334Iz5w",
-      "view_count": 43,
-      "view_delta": 2,
+      "view_count": 44,
+      "view_delta": 1,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +31,8 @@
       "view_count": 63000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -67,7 +57,7 @@
     {
       "type": "youtube",
       "id": "P_gH_zLLcRw",
-      "title": "문 닫은 대형 요리학원..수강생 '날벼락' #Shorts (MBC충북뉴스)",
+      "title": "Major Cooking Academy Suddenly Closes... Students Left in the Lurch #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/P_gH_zLLcRw",
       "view_count": 12000,
       "view_delta": 0,
@@ -90,6 +80,16 @@
       "title": "Bribing bank employees to track down gambling accounts #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/Arm8-VsX_pU",
       "view_count": 4100,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "NsrBDOZ6g6c",
+      "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
+      "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
+      "view_count": 3300,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
