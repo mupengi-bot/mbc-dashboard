@@ -1,13 +1,24 @@
 {
-  "collected_at": "2026-11-24T13:29:40.574876+09:00",
+  "collected_at": "2026-11-25T04:10:55.448411+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "5gez334Iz5w",
       "title": "'Small Steps' That Make Small Business Owners Smile",
       "url": "https://www.youtube.com/shorts/5gez334Iz5w",
-      "view_count": 56,
+      "view_count": 58,
       "view_delta": 2,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "ANR74SR_n2Q",
+      "title": "'A Small Step' to Make Small Business Owners Smile",
+      "url": "https://www.youtube.com/shorts/ANR74SR_n2Q",
+      "view_count": 958,
+      "view_delta": 1,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -31,8 +42,7 @@
       "view_count": 32000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -90,16 +100,6 @@
       "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
       "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
       "view_count": 3000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "KCEowdv1tI8",
-      "title": "Drunk driving alcohol level was at license revocation threshold #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/KCEowdv1tI8",
-      "view_count": 2600,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
