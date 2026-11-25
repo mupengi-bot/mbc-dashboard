@@ -1,6 +1,28 @@
 {
-  "collected_at": "2026-11-25T12:13:50.881450+09:00",
+  "collected_at": "2026-11-25T22:41:39.284762+09:00",
   "items": [
+    {
+      "type": "youtube",
+      "id": "5gez334Iz5w",
+      "title": "'Small Steps' That Make Small Business Owners Smile",
+      "url": "https://www.youtube.com/shorts/5gez334Iz5w",
+      "view_count": 74,
+      "view_delta": 16,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
+    {
+      "type": "youtube",
+      "id": "ANR74SR_n2Q",
+      "title": "'A Small Step' to Make Small Business Owners Smile",
+      "url": "https://www.youtube.com/shorts/ANR74SR_n2Q",
+      "view_count": 967,
+      "view_delta": 9,
+      "comment_count": 0,
+      "channel": "",
+      "hot": true
+    },
     {
       "type": "youtube",
       "id": "Tm3rT94M3dg",
@@ -20,8 +42,7 @@
       "view_count": 32000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -31,8 +52,7 @@
       "view_count": 12000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": "",
-      "hot": true
+      "channel": ""
     },
     {
       "type": "youtube",
@@ -76,30 +96,10 @@
     },
     {
       "type": "youtube",
-      "id": "dJZmXRFVGpA",
-      "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
-      "view_count": 3000,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "KCEowdv1tI8",
-      "title": "Drunk driving alcohol level was at license revocation threshold #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/KCEowdv1tI8",
-      "view_count": 2600,
-      "view_delta": 0,
-      "comment_count": 0,
-      "channel": ""
-    },
-    {
-      "type": "youtube",
-      "id": "1jqXnpScU9Q",
-      "title": "Total Investment of 23.5 Billion Won.. Includes 'Media Facade Tunnel' #Shorts (MBC Chungbuk News)",
-      "url": "https://www.youtube.com/shorts/1jqXnpScU9Q",
-      "view_count": 2200,
+      "id": "guFTthVeYOo",
+      "title": "김희재 '나한테 넘어오시면' 직캠",
+      "url": "https://www.youtube.com/shorts/guFTthVeYOo",
+      "view_count": 3100,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
