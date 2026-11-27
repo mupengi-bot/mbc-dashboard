@@ -1,35 +1,13 @@
 {
-  "collected_at": "2026-11-27T02:57:29.633039+09:00",
+  "collected_at": "2026-11-27T11:31:21.883314+09:00",
   "items": [
     {
       "type": "youtube",
       "id": "guFTthVeYOo",
       "title": "김희재 '나한테 넘어오시면' 직캠",
       "url": "https://www.youtube.com/shorts/guFTthVeYOo",
-      "view_count": 7300,
-      "view_delta": 900,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "5gez334Iz5w",
-      "title": "'Small Steps' That Make Small Business Owners Smile",
-      "url": "https://www.youtube.com/shorts/5gez334Iz5w",
-      "view_count": 79,
-      "view_delta": 2,
-      "comment_count": 0,
-      "channel": "",
-      "hot": true
-    },
-    {
-      "type": "youtube",
-      "id": "ANR74SR_n2Q",
-      "title": "'A Small Step' to Make Small Business Owners Smile",
-      "url": "https://www.youtube.com/shorts/ANR74SR_n2Q",
-      "view_count": 977,
-      "view_delta": 1,
+      "view_count": 7700,
+      "view_delta": 400,
       "comment_count": 0,
       "channel": "",
       "hot": true
@@ -42,7 +20,8 @@
       "view_count": 63000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -52,7 +31,8 @@
       "view_count": 32000,
       "view_delta": 0,
       "comment_count": 0,
-      "channel": ""
+      "channel": "",
+      "hot": true
     },
     {
       "type": "youtube",
@@ -100,6 +80,26 @@
       "title": "51km Two-Day March from Chungju to Eumseong and Jeungpyeong to the Provincial Office #Shorts (MBC...",
       "url": "https://www.youtube.com/shorts/NsrBDOZ6g6c",
       "view_count": 3300,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "dJZmXRFVGpA",
+      "title": "Drunk driving record with 3 million won fine revealed #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/dJZmXRFVGpA",
+      "view_count": 3000,
+      "view_delta": 0,
+      "comment_count": 0,
+      "channel": ""
+    },
+    {
+      "type": "youtube",
+      "id": "KCEowdv1tI8",
+      "title": "Drunk driving alcohol level was at license revocation threshold #Shorts (MBC Chungbuk News)",
+      "url": "https://www.youtube.com/shorts/KCEowdv1tI8",
+      "view_count": 2600,
       "view_delta": 0,
       "comment_count": 0,
       "channel": ""
